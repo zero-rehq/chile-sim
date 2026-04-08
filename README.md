@@ -19,6 +19,8 @@
 - [[pendientes/pila-estrategica|Pendientes estratégicos y frentes abiertos]]
 - [[pendientes/reforma-2017|Reforma 2017]]
 - [[contexto/handoff-maestro-2016-08-27|Handoff maestro persistido]]
+- [[contexto/resumenes-historicos-por-tramos|Resúmenes históricos por tramos]]
+- [[contexto/estado-del-mapa-y-unidades-2016-09-03|Estado del mapa y unidades al 2016-09-03]]
 - [[contexto/situacion-del-mundo-2016-09-03|Situación del mundo al 2016-09-03]]
 - [[turnos/2016-09-03-turno-actual|Turno actual 2016-09-03]]
 - [[turnos/plantilla-turno|Plantilla de turno]]

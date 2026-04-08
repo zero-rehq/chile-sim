@@ -1,0 +1,69 @@
+TASK: Reescribir /home/zero-rehq/chile-sim/doctrina/vision-doctrinal.md con profundidad narrativa
+
+QA RESULTS:
+✅ Line count: 151 (target: 150-200)
+✅ Blockquotes: 4 (target: ≥3)
+✅ Wikilinks: 7 (target: ≥5)
+✅ Síntesis Chile mentions: 3 (target: ≥1)
+✅ Bullets: 0 (target: zero - all narrative prose)
+✅ No em dashes (replaced with commas/periods)
+✅ Narrative structure: 
+   - Opening quote (ministerial attribution)
+   - History section (minería, regla fiscal 2005, geografía, Constitución)
+   - Síntesis Chile (4 pillars: disciplina asiática, innovación, calidad de vida, Estado serio)
+   - Principio rector (consolidar antes de expandir)
+   - 7 pilares narrativos (infraestructura, industrialización, energía, ciencia, integración, multipolaridad, resiliencia)
+   - Architecture, role of State, territorial integration
+   - Viability, sustainability, global context
+   - Conclusion and final note
+
+WIKILINKS:
+1. [[doctrina/cuestion-constitucional|cuestión constitucional]]
+2. [[doctrina/objetivos/08-reforma-2017|Reforma 2017]]
+3. [[doctrina/objetivos-largo-plazo|arquitectura del Proyecto Chile]]
+4. [[doctrina/objetivos/03-matriz-energetica|soberanía energética]]
+5. [[doctrina/objetivos/09-multipolaridad|multipolaridad estratégica]]
+6. [[doctrina/objetivos/10-resiliencia-nacional|resiliencia nacional]]
+7. [[doctrina/imagen-final-de-pais|imagen final de país]]
+
+BLOCKQUOTES (ministerial attribution):
+1. "Chile no busca solo crecer..." — Ministro de Relaciones Exteriores
+2. "La disciplina técnica no es una opción..." — Ministro de Hacienda
+3. "Consolidar antes de expandir..." — Comunicado de la Presidencia
+4. "Chile tiene todo lo que necesita..." — Ministra Secretaria General de la Presidencia
+
+SÍNTESIS CHILE PRESERVED:
+- "Producir con disciplina asiática" (3 mentions across sections)
+- "Innovar con ambición de Japón y Corea"
+- "Vivir con calidad de vida nórdica"
+- "Gobernarse con lógica de Estado serio"
+
+PRINCIPIO RECTOR PRESERVED:
+- "Consolidar antes de expandir"
+- "Madurar antes de dispersarse"
+- "Chile no debe crecer más rápido de lo que puede sostener"
+
+SECTIONS:
+1. La historia que nos trajo aquí
+2. La síntesis Chile: cuatro pilares de una república avanzada
+3. El principio rector: consolidar antes de expandir
+4. Los siete pilares del plan global
+5. Por qué este modelo es viable para Chile
+6. El cierre: la imagen final de país
+7. La arquitectura del modelo
+8. El rol del Estado en el modelo
+9. La integración territorial
+10. La sostenibilidad política del modelo
+11. La medición del éxito
+12. Aprendizaje de otros modelos
+13. La visión de largo plazo
+14. La frase doctrinal
+15. El riesgo de la sobreextensión
+16. La sostenibilidad del modelo
+17. El contexto global
+18. La advertencia final
+19. La conclusión: Chile en 2030
+20. Relación con otros documentos de la doctrina
+21. Nota final
+
+STATUS: ✅ COMPLETE

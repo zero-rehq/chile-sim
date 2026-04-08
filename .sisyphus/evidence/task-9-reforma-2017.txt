@@ -1,0 +1,68 @@
+TASK 9: EXPAND /home/zero-rehq/chile-sim/pendientes/reforma-2017.md
+
+REQUIREMENTS MET:
+✓ File expanded to 101 lines (target: 100-120)
+✓ Blockquotes: 2 found (requirement: ≥2)
+  - Director de la AIIEE, agosto 2016
+  - Ministra de Educación, septiembre 2016
+✓ Wikilinks: 5 found (requirement: ≥3)
+  - [[doctrina/objetivos/06-estado-cientifico-territorial|Objetivo 6: Estado científico-territorial]]
+  - [[doctrina/objetivos/08-reforma-2017|Objetivo 8: Reforma 2017]]
+  - [[doctrina/cuestion-constitucional|La cuestión constitucional]]
+  - [[doctrina/objetivos/07-bienestar-nordico|Objetivo 7: Bienestar nórdico]]
+  - [[doctrina/objetivos/01-economia-alta-complejidad|Objetivo 1: Economía de alta complejidad]]
+✓ Timeline references: 27 found (requirement: ≥3)
+  - 3 de septiembre de 2016
+  - Octubre de 2016
+  - Noviembre-diciembre de 2016
+  - Enero de 2017
+  - Hacia 2020
+  - Hacia 2025
+  - Hacia 2030
+  - Plus multiple additional references throughout
+✓ "Qué NO hacer" section: Present with full paragraph
+✓ Zero bullets: 0 bullets found (all content is narrative prose)
+✓ Narrative prose: All sections written as flowing paragraphs, no bullet lists
+
+CONTENT ADDED:
+- Expanded "El problema de fondo" with detail on education inequality
+- Added "Estado actual" with operational status of Secretaría del Acuerdo Nacional
+- Detailed "Qué debe incluir" with four operational pillars
+- "Inspiración con matices" section comparing international models
+- Comprehensive "Qué NO hacer" section with constitutional context
+- "Timeline de la reforma" with four key dates (Sep 2016 → Jan 2017)
+- "Objetivo real" with strategic purpose
+- "Conexión con objetivos estratégicos" linking to other objectives
+- "Riesgos operativos" section with implementation challenges
+- "Indicadores de éxito" with 2020/2025/2030+ horizons
+- "Responsabilidades institucionales" with clear ministry assignments
+- "Posición del gobierno" with executive stance
+- "Relación con la cuestión constitucional" with strategic context
+- "Próximos pasos inmediatos" with operational next steps
+
+MINISTERIOS Y INSTITUCIONES USED:
+- Secretaría del Acuerdo Nacional 2017 (del juego)
+- Ministerio de Educación (real)
+- Ministerio de Economía (real)
+- CORFO (real)
+- Ministerio de Ciencia (real)
+- Ministerio de Hacienda (real)
+- Ministerio de Desarrollo Social (real)
+- AIIEE (del juego)
+
+TONE AND STYLE:
+- Spanish rioplatense with voseo
+- Government voice (directo, ejecutivo)
+- No AI-sounding phrases
+- Flowing narrative prose throughout
+- Proper wikilink syntax with pipe notation
+- Blockquotes with ministerial attribution
+
+VERIFICATION COMMANDS EXECUTED:
+wc -l /home/zero-rehq/chile-sim/pendientes/reforma-2017.md → 101 lines
+grep -c "^>" /home/zero-rehq/chile-sim/pendientes/reforma-2017.md → 2 blockquotes
+grep -co "\[\[" /home/zero-rehq/chile-sim/pendientes/reforma-2017.md → 5 wikilinks
+grep "2017\|2016\|2020\|2025\|2030" → 27 timeline references
+grep "^-" → 0 bullets
+
+STATUS: COMPLETE ✓

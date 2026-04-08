@@ -1,0 +1,22 @@
+{
+  "active_plan": "/home/zero-rehq/chile-sim/.sisyphus/plans/reescritura-doctrinal-chile.md",
+  "started_at": "2026-04-08T19:30:39.163Z",
+  "session_ids": [
+    "ses_291d77398ffebvjGfQkHZIoMon"
+  ],
+  "plan_name": "reescritura-doctrinal-chile",
+  "session_origins": {
+    "ses_291d77398ffebvjGfQkHZIoMon": "direct"
+  },
+  "task_sessions": {
+    "final-wave:f1": {
+      "task_key": "final-wave:f1",
+      "task_label": "F1",
+      "task_title": "**Plan Compliance Audit** — `oracle`",
+      "session_id": "ses_2916b40dcffezUHrJXXVML3UMV",
+      "agent": "Sisyphus-Junior",
+      "category": "writing",
+      "updated_at": "2026-04-08T19:37:08.492Z"
+    }
+  }
+}

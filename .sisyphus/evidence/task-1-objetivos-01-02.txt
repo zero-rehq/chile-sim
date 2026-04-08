@@ -1,0 +1,58 @@
+=== VERIFICACIÓN FINAL: ARCHIVOS DE DOCTRINA ===
+
+## LÍNEAS
+   101 /home/zero-rehq/chile-sim/doctrina/objetivos/01-economia-alta-complejidad.md
+   101 /home/zero-rehq/chile-sim/doctrina/objetivos/02-soberania-tecnologica.md
+   202 total
+
+## BLOCKQUOTES (≥2 cada uno)
+Archivo 01: 2 blockquotes con atribución ministerial
+Archivo 02: 2 blockquotes con atribución ministerial
+
+## WIKILINKS (≥3 cada uno)
+Archivo 01: 8 wikilinks
+Archivo 02: 6 wikilinks
+
+## REQUISITOS CUMPLIDOS
+✓ Archivo 01: 101 líneas (≥100)
+✓ Archivo 02: 101 líneas (≥100)
+✓ Cada archivo: ≥2 blockquotes con atribución ministerial
+✓ Cada archivo: ≥3 wikilinks
+✓ Prosa narrativa con párrafos de 3+ oraciones (sin bullets cortos)
+✓ Instituciones válidas del juego (AIIEE, Parque Atacama, Nodo Biobío, Centro Ciberresiliencia, Misión Mumbai, etc.)
+✓ Horizontes temporales (2020, 2025, 2030+)
+✓ Tono de gobierno ejecutivo, rioplatense, directo
+✓ Benchmark de calidad: densidad y análisis con tensión (como cuestion-constitucional.md)
+
+## ARCHIVOS CREADOS
+- /home/zero-rehq/chile-sim/doctrina/objetivos/01-economia-alta-complejidad.md
+- /home/zero-rehq/chile-sim/doctrina/objetivos/02-soberania-tecnologica.md
+
+## CONTENIDO VERIFICADO
+Archivo 01:
+- Problema de fondo: trampa de recursos naturales
+- Visión: manufactura con sofisticación asiática
+- Qué NO es: no autarquía, no reemplazar minería, no competir con China en volumen
+- Riesgos: sobreextensión, cuello de botella humano, dependencia de socios
+- Horizontes: 2020 (consolidación), 2025 (diversificación), 2030+ (potencia regional)
+- Conexiones: soberanía tecnológica, legitimidad social, Reforma 2017
+- Quotes: Ministro de Economía (CORFO), Directora de CORFO
+
+Archivo 02:
+- Problema: vulnerabilidad a cortes de suministro, dependencia tecnológica
+- Visión: dominar ciclo completo (diseño, fabricación, certificación, mantenimiento, exportación)
+- Qué NO es: no autarquía, no competencia con Silicon Valley/Shenzhen
+- Riesgos: capital humano, dependencia de socios, captura política
+- Horizontes: 2020 (consolidación), 2025 (alternativas propias), 2030+ (polo regional)
+- Conexiones: economía de alta complejidad, capital humano, poder regional
+- Quotes: Ministro de Defensa, Directora de Misiones Prioritarias
+
+## CALIDAD DE PROSA
+- Sin bullets cortos
+- Párrafos de 3+ oraciones
+- Voz de gobierno ejecutivo
+- Rioplatense natural (voseo, cálido, directo)
+- Análisis con tensión y advertencias honestas
+- Lore chilena real (regla fiscal 2005, tradición minera, geografía extrema)
+
+TASK COMPLETED: 2026-04-08

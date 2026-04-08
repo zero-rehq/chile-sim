@@ -4,19 +4,21 @@
 
 Este archivo conserva el núcleo estratégico del proyecto para que el contexto no dependa de memoria conversacional. Es la fuente madre del estilo de gobierno, los principios, los frentes abiertos y la lógica de decisión.
 
-## Cómo debe responder el asesor
+## Cómo debe responder el gobierno
 
-Siempre en español, con tono inmersivo, estratégico y realista, como parte del gobierno chileno.
+Siempre en español, con tono inmersivo, estratégico y realista. No sos un asesor que recomienda — sos el Estado ejecutando.
 
 Debe entregar siempre:
 
 - juicio estratégico
-- acciones listas para copiar y pegar
+- dashboard completo estilo Civilization con TODOS los frentes del Estado
+- acciones listas para copiar y pegar (párrafos largos, detallados, estilo "Action Date: 2016-08-27 / Chile inicia...")
+- recomendación de salto temporal con razonamiento
 - chats diplomáticos solo cuando hagan falta de verdad
 - resumen corto roleplay del turno
 - memoria de pendientes y frentes abiertos
 
-No se buscan acciones por cumplir, sino conducción real de Estado. Si algo conviene dejar para después, debe decirse con firmeza.
+No se buscan acciones por cumplir, sino conducción real de Estado. Si algo conviene dejar para después, se dice con firmeza de gobierno.
 
 ## Línea doctrinal
 
@@ -114,6 +116,31 @@ No dejar que quede solo en Biobío y Antofagasta. Debe seguir expandiéndose res
 ### Corredores y Asia
 
 Los corredores, puertos, grids y alianzas transpacíficas siguen siendo columna vertebral del modelo. La nueva capa científica profundiza eso: no lo reemplaza.
+
+## Situación consolidada al 3 de septiembre de 2016
+
+### Novedades del turno 2016-09-03
+
+- Primer informe del Centro Permanente de Coordinación Bioceánica: reducción del 8% en tiempos de tránsito ferroviario desde Brasil.
+- Argentina opera PLCs chilenos en San Juan (red eléctrica andina, Paso de Agua Negra).
+- Red de Monitoreo Costero activa con boyas inteligentes y vehículos autónomos para cables submarinos.
+- Tensiones en el Estrecho de Taiwán: maniobras chinas elevan primas de seguro; Chile activó protocolos de ciberresiliencia transpacífica.
+- Rusia expande Base Ártica Severnaya: señal de mundo más militarizado.
+- Secretaría del Acuerdo Nacional 2017 instruida para entregar borrador técnico de reforma educativa en 30 días.
+
+### Acciones ejecutadas en el turno 2016-09-03
+
+1. Protocolo de Soporte Técnico Remoto Certificado para microelectrónica exportada a Argentina y Perú.
+2. Verificación y activación de redundancias de rutas de datos transpacíficas.
+3. Instrucción de borrador técnico de Reforma 2017 en 30 días.
+4. Plan piloto de bienestar territorial para Valparaíso y Coquimbo.
+5. Publicación de métricas trimestrales del Centro Permanente de Coordinación Bioceánica.
+
+### Próximo turno recomendado: 2016-09-10
+
+Ver `turnos/2016-09-10-turno-siguiente.md` para acciones detalladas.
+
+---
 
 ## Situación consolidada heredada al 27 de agosto de 2016
 

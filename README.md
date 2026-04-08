@@ -2,14 +2,18 @@
 
 ## Dashboard estratégico
 
-- **Fecha actual del juego:** 3 de septiembre de 2016
+- **Fecha actual del juego:** 3 de septiembre de 2016 — turno ejecutado
+- **Próximo turno:** 10 de septiembre de 2016
 - **Doctrina guía:** consolidar antes de expandir
-- **Estado del modelo:** fuerte, exitoso, pero en riesgo de sobreextensión
-- **Prioridad inmediata:** consolidar certificación transpacífica, corredor bioceánico, microelectrónica soberana e implementación estable en India
+- **Estado del modelo:** fuerte, exitoso, con primer informe positivo del corredor bioceánico — riesgo de sobreextensión si no se sostiene el soporte
+- **Prioridad inmediata:** soporte técnico certificado para microelectrónica exportada, borrador de Reforma 2017, piloto de bienestar territorial en Valparaíso y Coquimbo
 
 ## Navegación rápida
 
 - [[doctrina/vision-doctrinal|Visión doctrinal y plan país]]
+- [[doctrina/objetivos-largo-plazo|Objetivos de largo plazo (2020/2025/2030+)]]
+- [[doctrina/imagen-final-de-pais|Imagen final de país]]
+- [[doctrina/cuestion-constitucional|La cuestión constitucional]]
 - [[estado/estado-actual-2016-09-03|Estado actual al 2016-09-03]]
 - [[estado/activos-estrategicos|Activos, nodos y unidades clave]]
 - [[turnos/historial-decisiones-2016|Historial de acciones 2016]]
@@ -22,7 +26,8 @@
 - [[contexto/resumenes-historicos-por-tramos|Resúmenes históricos por tramos]]
 - [[contexto/estado-del-mapa-y-unidades-2016-09-03|Estado del mapa y unidades al 2016-09-03]]
 - [[contexto/situacion-del-mundo-2016-09-03|Situación del mundo al 2016-09-03]]
-- [[turnos/2016-09-03-turno-actual|Turno actual 2016-09-03]]
+- [[turnos/2016-09-03-turno-actual|Turno ejecutado 2016-09-03]]
+- [[turnos/2016-09-10-turno-siguiente|Próximo turno 2016-09-10]]
 - [[turnos/plantilla-turno|Plantilla de turno]]
 - [[diplomacia/india|Dossier India]]
 - [[diplomacia/argentina-brasil-peru|Dossier Corredor Bioceánico]]

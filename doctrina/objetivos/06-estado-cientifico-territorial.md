@@ -48,6 +48,18 @@ Esa paradoja es insostenible. Chile no puede ser el mejor lugar del planeta para
 
 La tradición chilena de ciencia existe: hay excelentes astrónomos, biólogos, geólogos chilenos. Pero están dispersos, no conectados con el Estado, no integrados en una estrategia nacional. El Estado científico territorial es la forma de conectarlos, de darles propósito, de hacerlos útiles para Chile.
 
+## La Antártica como laboratorio permanente
+
+La Antártica no es un territorio lejano. Es extensión del Estado chileno. Tiene presencia permanente, tiene derechos reconocidos, tiene capacidad de investigación. Pero esa capacidad debe estar ligada al territorio nacional, no solo al continente blanco. Los glaciares antárticos son centinelas del cambio climático global. Monitorearlos genera conocimiento que Chile necesita para su propia supervivencia — si el hielo antártico desaparece, el nivel del mar sube, y Chile pierde territorio costero. Eso no es especulación académica. Eso es defensa nacional.
+
+La investigación antártica también genera presencia. Cuando Chile mantiene bases permanentes, cuando entrena científicos en condiciones extremas, cuando publica descubrimientos antárticos, está proyectando soberanía. Está diciendo "Chile está aquí, Chile es serio, Chile tiene derechos en este continente". Eso es poder blando basado en capacidad científica real. Es la forma en que un país pequeño proyecta influencia en un territorio donde no hay soberanía territorial, pero hay derechos reconocidos.
+
+## La economía azul como industria real
+
+La economía azul no es un slogan. Es la explotación científicamente informada del ecosistema marino chileno. Eso incluye biotecnología marina — organismos marinos que producen moléculas útiles para medicina, para cosmética, para industria. Eso incluye acuicultura avanzada — sistemas de monitoreo autónomo que detectan enfermedades en peces antes de que se propaguen, que optimizan alimentación, que reducen mortalidad. Eso incluye energía costera — olas, mareas, corrientes, todo es energía potencial que Chile puede capturar.
+
+Pero la economía azul también incluye vigilancia oceánica. Chile tiene 4.300 kilómetros de costa. Eso es un territorio que debe ser monitoreado. Cables submarinos que conectan a Chile con el mundo pasan por aguas chilenas. Eso requiere vigilancia. Requiere capacidad de detección de sabotaje, de cortes accidentales, de intrusiones. Eso requiere ciencia aplicada al territorio marino. Eso requiere una red de sensores oceánicos que Chile está construyendo ahora.
+
 ## Horizontes orientativos
 
 Hacia 2020, los datos territoriales deben estar completos para toda la costa chilena. La Red de Monitoreo Costero se expande desde su estado actual hacia cobertura total. Boyas inteligentes cada 50 kilómetros, vehículos autónomos operativos, centros de procesamiento de datos en cada puerto principal. Los datos son públicos, accesibles, usables por la industria, por los gobiernos locales, por los investigadores.

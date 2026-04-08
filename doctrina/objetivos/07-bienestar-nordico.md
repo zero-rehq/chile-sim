@@ -26,7 +26,7 @@ La meta es clara: que Chile hacia 2030+ sea un país donde la sofisticación tec
 
 **Ciudades habitables.** Espacios verdes, aire limpio, seguridad, comunidad. Las ciudades chilenas hoy son lugares donde se trabaja y se duerme, no donde se vive. La meta es que hacia 2030+ las ciudades principales tengan estándares de habitabilidad comparables a ciudades europeas de tamaño similar.
 
-**Formación técnica de calidad.** Una clase media técnica fuerte, con salarios dignos, con estabilidad laboral, con acceso a educación continua. La meta es que hacia 2030+ el 45-50% de la población activa tenga formación técnica de nivel superior. Eso requiere la Reforma 2017 funcionando, escuelas técnicas con estándares altos, conexión real entre educación e industria, y reconocimiento social de la carrera técnica como camino válido, no como segunda opción.
+**Formación técnica de calidad.** Una clase media técnica fuerte, con salarios dignos, con estabilidad laboral, con acceso a educación continua. La meta es que hacia 2030+ el 45-50% de la población activa tenga formación técnica de nivel superior. Eso requiere la Reforma 2017 funcionando, escuelas técnicas con estándares altos, conexión real entre educación e industria, y reconocimiento social de la carrera técnica como camino válido, no como segunda opción. Un técnico especializado en automatización industrial debe ganar lo que gana un profesional universitario. Debe tener oportunidades de crecimiento. Debe poder aspirar a ser supervisor, a ser jefe de proyecto, a ser emprendedor. Eso es lo que construye una clase media técnica fuerte.
 
 **Clase media fuerte.** Que la clase media no dependa de créditos de consumo, sino de ingresos estables. Que tenga acceso a educación de calidad para sus hijos, a salud sin miedo a la ruina, a vivienda sin endeudarse por 30 años. La meta es que hacia 2030+ la clase media técnica represente al menos el 50% de la población activa, con ingresos que permitan vida digna sin sobreendeudamiento.
 
@@ -39,6 +39,18 @@ La meta es clara: que Chile hacia 2030+ sea un país donde la sofisticación tec
 No es asistencialismo. No es transferencias de dinero sin conexión con productividad. No es igualdad de resultados. Es igualdad de oportunidades, acceso a derechos básicos garantizados, y un piso de dignidad por debajo del cual nadie cae. El modelo chileno sigue siendo capitalista, sigue siendo competitivo, sigue incentivando la excelencia. Lo que cambia es que los derechos básicos no son mercancía, sino garantía estatal.
 
 No es incompatible con la sofisticación tecnológica. De hecho, es lo opuesto: una sociedad con bienestar distribuido es más estable, más productiva, más capaz de sostener transformaciones tecnológicas sin que se quiebre socialmente.
+
+## La vivienda digna como derecho
+
+Vivienda digna no significa departamentos de lujo. Significa espacios habitables. Significa que una familia de cuatro personas no vive en 40 metros cuadrados. Significa que hay luz natural, ventilación, acceso a agua potable, conexión a servicios básicos. Significa que la vivienda está en un barrio donde hay escuelas, hospitales, transporte, espacios verdes. Significa que la gente no gasta el 60% de su ingreso en alquiler o hipoteca.
+
+En Chile, la vivienda es un negocio antes que un derecho. Los constructores maximizan ganancia construyendo lo más barato posible. El resultado son guetos de vivienda social segregados del resto de la ciudad. Son barrios donde vive la gente pobre, donde no hay servicios, donde la delincuencia crece porque no hay inversión pública. Eso es lo que el Proyecto Chile debe cambiar. La meta hacia 2025 es que el 80% de la población tenga acceso a vivienda en condiciones aceptables. Eso requiere inversión pública sostenida, regulación de precios del suelo, integración de vivienda social en barrios de clase media. No es segregación. Es integración. Es la forma en que se construye cohesión social.
+
+## La salud territorial como garantía
+
+Que un habitante de Temuco, Punta Arenas o Antofagasta tenga acceso a la misma calidad de atención que alguien en Santiago. Eso no es un lujo. Es una garantía que el Estado debe dar. Hoy, si un habitante de Punta Arenas necesita una cirugía compleja, debe viajar a Santiago. Eso cuesta dinero. Eso cuesta tiempo. Eso cuesta salud. Un FONASA fuerte significa que los hospitales regionales tienen equipamiento, que tienen médicos especialistas, que tienen capacidad de hacer cirugías complejas sin que la gente tenga que viajar.
+
+La salud territorial también significa tiempos de espera razonables. En Chile, esperar seis meses para una consulta con especialista en el FONASA es normal. Eso es inaceptable. La meta hacia 2025 es que el 90% de la población tenga acceso a un centro de salud de calidad a menos de 30 minutos. Eso requiere descentralización real de recursos, formación de profesionales en regiones, y un FONASA que funcione como sistema de salud universal, no como colchón de pobres. Requiere que los médicos especialistas quieran trabajar en regiones, no solo en Santiago. Eso requiere salarios competitivos, oportunidades de crecimiento, infraestructura de calidad.
 
 ## Riesgos y advertencias
 
@@ -68,7 +80,17 @@ El Estado de Chile reconoce que el bienestar nórdico no es un lujo, es una nece
 
 La estrategia es clara: usar la Reforma 2017 como primer paso, expandir pilotos de bienestar territorial, invertir en vivienda y salud, construir una clase media técnica fuerte con derechos garantizados. No es asistencialismo. Es construcción de base social sólida para un modelo de país que quiere durar.
 
+## El transporte como conectador de oportunidades
+
+El transporte no es solo un servicio. Es el conector de oportunidades. Una persona que gasta dos horas diarias en transporte es una persona que no tiene tiempo para educación continua, para vida familiar, para ocio. Una persona que vive a dos horas de su trabajo es una persona que está excluida del mercado laboral formal. El transporte ineficiente es una barrera de desigualdad.
+
+La meta hacia 2025 es reducir tiempos de tránsito en un 40%. Eso requiere metro en las grandes ciudades, buses rápidos en ciudades medianas, ferrocarriles entre ciudades. Requiere inversión en infraestructura, pero también regulación de la congestión urbana y planificación territorial integrada. Cuando el transporte funciona, la gente puede vivir donde quiere, trabajar donde quiere, estudiar donde quiere. Eso es libertad. Eso es lo que construye movilidad social real.
+
 > "El Japón es rico, pero también es igualitario. La Finlandia es avanzada, pero también es cohesiva. Chile puede ser ambas cosas. Pero no sin decisión política de hacerlo." — Ministro de Hacienda, nota interna, septiembre 2016.
+
+## Cierre: el bienestar como base de la estabilidad
+
+El Proyecto Chile no es solo tecnología. Es un proyecto de país que funciona para la gente. Un país donde la sofisticación tecnológica y la calidad de vida nórdica son complementarias, no contradictorias. Eso es lo que el bienestar nórdico construye. Eso es lo que hace que el modelo sea sostenible de largo plazo.
 
 ## Ver también
 

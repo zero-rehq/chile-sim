@@ -76,6 +76,18 @@ Chile tiene la historia sísmica más activa del planeta. El terremoto de 1960 f
 
 Pero la historia también enseña que los países que esperan a que la crisis llegue para prepararse terminan preparándose demasiado tarde. Los países que invierten en resiliencia cuando todo funciona están preparados cuando las cosas fallan. Chile está invirtiendo ahora. Está construyendo redundancia ahora. Está auditando infraestructura ahora. Eso es prudencia. Eso es lo que permite que Chile absorba golpes sin colapsar.
 
+## Ciudades resilientes: planes reales, no de papel
+
+La resiliencia no es solo infraestructura. Es también capacidad de respuesta. Un plan de emergencia que existe solo en un documento no es un plan — es papel mojado. Un plan de emergencia real significa que se practica, que se actualiza, que los equipos están entrenados, que hay recursos preposicionados.
+
+Las ciudades chilenas deben tener planes de emergencia que funcionan. Eso significa que los bomberos saben dónde están las rutas de evacuación. Que los hospitales saben cómo funcionar sin electricidad. Que los puertos saben cómo operar con equipamiento de respaldo. Que las redes eléctricas saben cómo desconectarse de forma controlada para evitar cascadas de apagones. Eso requiere inversión en capacitación, en equipamiento, en coordinación. Pero eso es lo que permite que cuando un desastre llega, la respuesta sea rápida y coordinada, no caótica.
+
+## Redundancia digital y analógica
+
+La resiliencia digital requiere redundancia a múltiples niveles. Los servidores que procesan datos deben estar replicados en múltiples ubicaciones geográficas. Si un centro de datos colapsa, otro toma la carga. Si un cable submarino se corta, la comunicación sigue por otros cables o por satélite. Si una red eléctrica falla, los sistemas críticos tienen generadores de respaldo. Eso es redundancia digital.
+
+Pero la redundancia analógica es igual de importante. Un PLC chileno que funciona con lógica digital pero tiene respaldo analógico puede seguir funcionando si falla la electrónica. Un sistema de comunicación que funciona por fibra óptica pero tiene respaldo por líneas analógicas puede seguir comunicando si se corta la fibra. Eso es redundancia analógica. Eso es lo que el Centro de Ciberresiliencia Transpacífico está construyendo — no es solo defensa contra ataques, es capacidad de funcionar sin depender de sistemas digitales.
+
 ## La resiliencia como base de la cohesión social
 
 La resiliencia también es una cuestión social. Un país que colapsa cuando hay un desastre es un país donde la gente pierde confianza en el Estado. Un país que funciona cuando hay un desastre es un país donde la gente confía en que el Estado puede protegerla. Eso construye legitimidad. Eso construye cohesión social. Eso construye la base de un país estable.

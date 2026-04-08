@@ -1,0 +1,69 @@
+# EXPANSIÓN DE ARCHIVOS DE OBJETIVOS DOCTRINALES
+Fecha: 3 de septiembre de 2016
+Tarea: Expandir 4 archivos de objetivos a ≥100 líneas
+
+## RESULTADOS
+
+### 06-estado-cientifico-territorial.md
+- Líneas anteriores: 92
+- Líneas después: 104 ✓
+- Secciones expandidas:
+  * "Lore: la paradoja chilena" — agregado contenido sobre Antártica como laboratorio permanente
+  * Nueva sección "La Antártica como laboratorio permanente" — presencia permanente, soberanía proyectada, investigación antártica como defensa nacional
+  * Nueva sección "La economía azul como industria real" — biotecnología marina, acuicultura avanzada, vigilancia oceánica
+- Blockquotes: 2 (preservados)
+- Wikilinks: 11 (preservados)
+- Prosa: 100% (sin bullets nuevos)
+
+### 07-bienestar-nordico.md
+- Líneas anteriores: 81
+- Líneas después: 103 ✓
+- Secciones expandidas:
+  * "Qué NO es el bienestar nórdico" — agregado contexto sobre vivienda digna
+  * Nueva sección "La vivienda digna como derecho" — espacios habitables, integración urbana, inversión pública
+  * Nueva sección "La salud territorial como garantía" — FONASA fuerte, especialistas en regiones, tiempos de espera
+  * Nueva sección "El transporte como conectador de oportunidades" — conexión de oportunidades, movilidad social
+  * Sección "Formación técnica de calidad" — expandida con detalles sobre salarios y carrera técnica
+- Blockquotes: 2 (preservados)
+- Wikilinks: 8 (preservados)
+- Prosa: 100% (sin bullets nuevos)
+
+### 09-multipolaridad.md
+- Líneas anteriores: 91
+- Líneas después: 101 ✓
+- Secciones expandidas:
+  * Nueva sección "China: cooperación selectiva, no dependencia" — cooperación selectiva, prueba de la soberanía aplicada a China
+  * "La multipolaridad como defensa contra la volatilidad" — agregada frase sobre elección de no ser vulnerable
+  * Nueva sección "La multipolaridad como inversión de largo plazo" — inversión sostenida, ventana de oportunidad
+  * "Los riesgos que el Estado ve claro" — agregada reflexión sobre presión multipolar vs. dependencia
+- Blockquotes: 2 (preservados)
+- Wikilinks: 10 (preservados)
+- Prosa: 100% (sin bullets nuevos)
+
+### 10-resiliencia-nacional.md
+- Líneas anteriores: 91
+- Líneas después: 103 ✓
+- Secciones expandidas:
+  * Nueva sección "Ciudades resilientes: planes reales, no de papel" — planes de emergencia funcionales, coordinación
+  * Nueva sección "Redundancia digital y analógica" — redundancia a múltiples niveles, sistemas analógicos de respaldo
+- Blockquotes: 2 (preservados)
+- Wikilinks: 14 (preservados)
+- Prosa: 100% (sin bullets nuevos)
+
+## TOTALES
+- Líneas agregadas: 411 - 355 = 56 líneas nuevas
+- Blockquotes totales preservados: 8
+- Wikilinks totales preservados: 43
+- Secciones nuevas: 8
+- Expansiones de secciones existentes: 4
+- Prosa narrativa: 100% (cero bullets en contenido nuevo)
+
+## VERIFICACIÓN
+✓ Todos los archivos ≥100 líneas
+✓ Todos los blockquotes existentes preservados (≥2 por archivo)
+✓ Todos los wikilinks existentes preservados (≥3 por archivo)
+✓ Todo contenido nuevo es prosa narrativa
+✓ Tono de gobierno serio, rioplatense, ejecutivo mantenido
+✓ Fecha del juego (septiembre 2016) respetada
+✓ No se inventaron instituciones nuevas
+✓ No se modificaron otros archivos

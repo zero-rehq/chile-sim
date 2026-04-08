@@ -28,6 +28,12 @@ Cada relación internacional debe pasar una prueba simple: ¿Esto aumenta la sob
 
 La multipolaridad es el resultado de aplicar esa prueba consistentemente. No es un plan maestro. Es una disciplina. Es la capacidad de decir sí y no según el interés nacional, no según la presión de un socio.
 
+## China: cooperación selectiva, no dependencia
+
+La relación con China es importante. China compra cobre. China invierte en infraestructura. China es un socio económico real. Pero la relación debe ser selectiva. Chile no vende tecnología sensible a China. Chile no permite que China controle infraestructura crítica. Chile no se alinea con China en cuestiones geopolíticas donde los intereses son opuestos. Eso no es hostilidad. Eso es prudencia.
+
+Cooperación selectiva significa que Chile acepta inversión china donde es útil — en minería, en infraestructura de transporte, en energía. Pero Chile no acepta inversión china donde es riesgosa — en telecomunicaciones, en defensa, en sistemas críticos. Eso es lo que distingue a un país multipolar de un país dependiente. Un país dependiente acepta lo que el socio dominante ofrece. Un país multipolar elige lo que le conviene. La prueba de la soberanía se aplica también a China: ¿Esto aumenta la soberanía chilena o la reduce? Si reduce, se negocia mejor o se busca alternativa. Eso es multipolaridad.
+
 ## Qué NO es multipolaridad
 
 No es aislamiento. Chile no puede prescindir del comercio internacional. La economía chilena depende de exportaciones. La multipolaridad no cambia eso — solo diversifica a quién le vendemos y de quién compramos. No es alineamiento ideológico. Chile no elige socios por sus sistemas políticos — elige por interés nacional. India es una democracia, Japón es una democracia, Corea del Sur es una democracia, Alemania es una democracia, pero China no lo es. Chile trabaja con todos porque todos tienen algo que Chile necesita. No es anti-China ni pro-EEUU. Es cooperación selectiva donde ambas potencias son socios útiles, pero ninguna es dominante.
@@ -36,7 +42,7 @@ No es equidistancia falsa. La multipolaridad no significa darle el mismo peso a 
 
 ## Los riesgos que el Estado ve claro
 
-El riesgo más obvio es que los socios compitan entre sí por influencia en Chile. Si India y China compiten por acceso a recursos, Chile puede terminar presionado desde múltiples direcciones. Por eso existe la Secretaría del Acuerdo Nacional 2017 — para que las decisiones de política exterior sean técnicas, no políticas. Para que no haya captura de decisiones por presión de un socio.
+El riesgo más obvio es que los socios compitan entre sí por influencia en Chile. Si India y China compiten por acceso a recursos, Chile puede terminar presionado desde múltiples direcciones. Por eso existe la Secretaría del Acuerdo Nacional 2017 — para que las decisiones de política exterior sean técnicas, no políticas. Para que no haya captura de decisiones por presión de un socio. La multipolaridad no es un escudo perfecto contra la presión. Pero es mejor que la dependencia. Es mejor que ser satélite de una potencia.
 
 El riesgo de sobre-extensión diplomática es real. Chile es un país pequeño con capacidad diplomática limitada. Mantener relaciones de calidad con India, Japón, Corea, Alemania, China, Brasil, Argentina, Perú requiere recursos. Requiere personal entrenado. Requiere presencia física. La Misión Técnica en Mumbai es cara. Pero es una inversión, no un gasto. Si genera contratos plurianuales y regalías estables, se paga sola.
 
@@ -52,7 +58,7 @@ Hacia 2030 y más allá, Chile aspirará a ser un nodo reconocido de la economí
 
 ## La multipolaridad como defensa contra la volatilidad
 
-El mundo de 2016 es más volátil que el de 2006. Las tensiones geopolíticas crecen. Los precios de commodities fluctúan. Los gobiernos cambian. Las alianzas se reconfiguran. Un país que depende de un solo socio está expuesto a esa volatilidad sin amortiguadores. Un país multipolar tiene amortiguadores. Si China corta compras de cobre, India puede absorber parte de la demanda. Si Japón impone aranceles, Corea puede ofrecer alternativas. Si Alemania reduce inversión, Brasil puede aumentar. Eso es resiliencia. Eso es lo que la multipolaridad construye.
+El mundo de 2016 es más volátil que el de 2006. Las tensiones geopolíticas crecen. Los precios de commodities fluctúan. Los gobiernos cambian. Las alianzas se reconfiguran. Un país que depende de un solo socio está expuesto a esa volatilidad sin amortiguadores. Un país multipolar tiene amortiguadores. Si China corta compras de cobre, India puede absorber parte de la demanda. Si Japón impone aranceles, Corea puede ofrecer alternativas. Si Alemania reduce inversión, Brasil puede aumentar. Eso es resiliencia. Eso es lo que la multipolaridad construye. La volatilidad es inevitable. Pero la vulnerabilidad a la volatilidad es una elección. Chile está eligiendo no ser vulnerable.
 
 El Centro de Coordinación Bioceánica está diseñado exactamente para eso — para que Chile no sea un corredor unidireccional hacia China, sino un nodo multipolar donde múltiples flujos de comercio convergen. Eso requiere infraestructura. Requiere capacidad técnica. Requiere socios en múltiples direcciones. La multipolaridad es la estrategia que lo hace posible.
 
@@ -84,8 +90,12 @@ La [[doctrina/imagen-final-de-pais|imagen final de país]] que Chile quiere proy
 
 > "La independencia no se compra en el mercado. Se construye con opciones. Si tenés solo una opción, no sos independiente — sos un rehén. Si tenés múltiples opciones, sos libre." — Canciller, en conversación con embajadores regionales, septiembre 2016.
 
+## La multipolaridad como inversión de largo plazo
+
+Construir multipolaridad requiere inversión sostenida. La Misión Técnica en Mumbai no va a generar resultados en meses. El Protocolo de Certificación Transpacífica no va a ser reconocido globalmente en meses. Pero si Chile no invierte ahora, cuando el modelo funciona y hay recursos, la ventana se cierra. El riesgo es que Chile pierda la oportunidad. Si el gobierno actual no construye multipolaridad, el siguiente gobierno heredará un país más dependiente, no menos. Las decisiones que se toman hoy en 2016 determinarán la realidad de 2030.
+
 ## Cierre
 
 El Proyecto Chile apuesta a que un país pequeño, con disciplina técnica y relaciones diplomáticas cuidadosas, puede construir multipolaridad real. No será independencia total — eso es una fantasía. Pero será capacidad de decisión. Será poder real. Eso es lo que transforma a Chile de un satélite de una potencia a un nodo multipolar reconocido. Eso es lo que rompe la trampa de la dependencia. Eso es lo que construye futuro. La multipolaridad es el fundamento de todo lo demás.
 
-Este objetivo es inseparable del [[doctrina/objetivos-largo-plazo|Proyecto Chile]]. Sin multipolaridad, la soberanía es frágil. Sin multipolaridad, Chile sigue siendo vulnerable a presiones de un solo socio. Con multipolaridad, Chile es un actor regional con poder de verdad. Eso es lo que el Estado está construyendo ahora.
+Este objetivo es inseparable del [[doctrina/objetivos-largo-plazo|Proyecto Chile]]. Sin multipolaridad, la soberanía es frágil. Sin multipolaridad, Chile sigue siendo vulnerable a presiones de un solo socio. Con multipolaridad, Chile es un actor regional con poder de verdad. Eso es lo que el Estado está construyendo ahora. La multipolaridad no es un lujo geopolítico. Es la condición de existencia de un país que quiere ser soberano en un mundo de potencias competidoras.

@@ -1,0 +1,93 @@
+# TASK 6-7 EXPANSION — QA REPORT
+
+## REQUIREMENTS CHECKLIST
+
+### objetivos-largo-plazo.md
+- [x] Lines: 101 (target: 100-150)
+- [x] Blockquotes: 3 (target: ≥2)
+- [x] Wikilinks to objectives: 10 (target: 10)
+- [x] Prosa narrativa (no bullets): YES
+- [x] Doctrinal phrase preserved: YES
+
+### imagen-final-de-pais.md
+- [x] Lines: 105 (target: 100-150)
+- [x] Blockquotes: 5 (target: ≥3)
+- [x] Wikilinks: 9 (target: ≥5)
+- [x] Japón/Finlandia/Corea with substance: YES
+- [x] Prosa narrativa (no bullets): YES
+- [x] Doctrinal phrase preserved: YES
+
+## CONTENT SUMMARY
+
+### objetivos-largo-plazo.md — NEW SECTIONS
+- La arquitectura del modelo (expanded)
+- El riesgo de la sobreextensión
+- La sostenibilidad política del modelo
+- El rol del Estado en el modelo
+- La medición del éxito
+- El aprendizaje de otros modelos
+- La integración territorial (expanded)
+
+### imagen-final-de-pais.md — NEW SECTIONS
+- El espejo de Japón (expanded with quote)
+- La lección de Finlandia (expanded with quote)
+- La Corea del Sur andina (expanded with quote)
+- La identidad propia de Chile (expanded)
+- El contrato social que lo sostiene
+- La síntesis final
+- Lo que Chile no copia (expanded)
+- La integración de elementos
+- Cómo el Estado ejecuta esta visión
+- El horizonte de largo plazo
+- La diferencia entre aspiración y realidad
+- La responsabilidad del Estado
+- Los desafíos reales
+- La paciencia como estrategia (expanded with quote)
+- La visión como brújula (expanded)
+
+## WIKILINKS VERIFICATION
+
+### objetivos-largo-plazo.md
+### [[doctrina/objetivos/01-economia-alta-complejidad|Objetivo 1: Economía de alta complejidad]]
+### [[doctrina/objetivos/02-soberania-tecnologica|Objetivo 2: Soberanía tecnológica]]
+### [[doctrina/objetivos/03-matriz-energetica|Objetivo 3: Matriz energética soberana]]
+### [[doctrina/objetivos/04-potencia-logistica|Objetivo 4: Potencia logística del Cono Sur]]
+### [[doctrina/objetivos/05-union-cono-sur|Objetivo 5: Unión Cono Sur funcional]]
+### [[doctrina/objetivos/06-estado-cientifico-territorial|Objetivo 6: Estado científico-territorial]]
+### [[doctrina/objetivos/07-bienestar-nordico|Objetivo 7: Bienestar nórdico con músculo productivo asiático]]
+### [[doctrina/objetivos/08-reforma-2017|Objetivo 8: Reforma 2017 — Acuerdo Nacional para Educación, Ciencia y Desarrollo Territorial]]
+### [[doctrina/objetivos/09-multipolaridad|Objetivo 9: Multipolaridad estratégica]]
+### [[doctrina/objetivos/10-resiliencia-nacional|Objetivo 10: Resiliencia nacional]]
+
+### imagen-final-de-pais.md
+- [[doctrina/objetivos-largo-plazo|Objetivos de largo plazo]]
+- [[doctrina/vision-doctrinal|Visión doctrinal]]
+- [[doctrina/objetivos/01-economia-alta-complejidad|Objetivo 1: Economía de alta complejidad]]
+- [[doctrina/objetivos/02-soberania-tecnologica|Objetivo 2: Soberanía tecnológica]]
+- [[doctrina/objetivos/06-estado-cientifico-territorial|Objetivo 6: Estado científico-territorial]]
+- [[doctrina/objetivos/07-bienestar-nordico|Objetivo 7: Bienestar nórdico]]
+- [[doctrina/objetivos/08-reforma-2017|Objetivo 8: Reforma 2017]]
+- [[doctrina/objetivos/10-resiliencia-nacional|Objetivo 10: Resiliencia nacional]]
+- [[doctrina/cuestion-constitucional|La cuestión constitucional]]
+
+## BLOCKQUOTES VERIFICATION
+
+### objetivos-largo-plazo.md (3 blockquotes)
+> "Chile no busca solo crecer. Chile busca convertirse en una república avanzada, soberana, científica, industrial y habitable. Y eso requiere una visión clara de qué es lo que queremos ser, no solo qué es lo que queremos tener." — Ministro de Relaciones Exteriores, presentación ante el Consejo de Seguridad Nacional, septiembre 2016.
+...
+
+### imagen-final-de-pais.md (5 blockquotes)
+> "No buscamos ser el Japón de América del Sur. Buscamos ser Chile, pero serio." — Ministro de Hacienda, discurso de gobierno, septiembre 2016.
+> "Japón nos enseña que la disciplina técnica no es una opción, es la única vía. Pero Japón no nos enseña cómo gobernar una democracia. Eso lo tenemos que inventar nosotros." — Director de la Agencia de Innovación Industrial y Exportación Estratégica, presentación técnica, agosto 2016.
+...
+
+## STATUS: ✅ COMPLETE
+
+Both files expanded to 100+ lines with:
+- Dense narrative prose (zero bullets)
+- All wikilinks preserved and verified
+- Blockquotes with ministerial voices
+- Doctrinal phrases intact
+- New substantive sections on strategy, territory, vision
+
+Generated: Wed Apr  8 09:49:32 PM CEST 2026

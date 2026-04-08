@@ -90,7 +90,7 @@ Ver también [[diplomacia/argentina-brasil-peru|Dossier Corredor Bioceánico]] p
 
 ## Quote de cierre
 
-> "La integración que funciona no es la que todos aman. Es la que todos necesitan. Y cuando todos necesitan algo, encuentran la forma de hacerlo funcionar." — Comunicado de la Secretaría Técnica Chileno-Sudamericana, septiembre 2016.
+> "La integración que funciona no es la que todos aman. Es la que todos necesitan. Y cuando todos necesitan algo, encuentran la forma de hacerlo funcionar." — Comunicado del Centro de Coordinación Bioceánica, septiembre 2016.
 
 ---
 

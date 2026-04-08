@@ -78,7 +78,7 @@ Hacia 2030 y más allá, la clase media técnica debe estar en 45-50% de la pobl
 
 ## Responsabilidades institucionales
 
-La Secretaría del Acuerdo Nacional 2017 coordina. El Ministerio de Educación lidera la modernización curricular y la excelencia docente. El Ministerio de Economía y CORFO lideran la formación dual y la integración con industria. El Ministerio de Ciencia lidera la ciencia aplicada al territorio. El Ministerio de Hacienda valida presupuesto y sostenibilidad fiscal. El Ministerio de Desarrollo Social asegura que la reforma llegue a territorios y poblaciones vulnerables.
+La Secretaría del Acuerdo Nacional 2017 coordina. El Ministerio de Educación lidera la modernización curricular y la excelencia docente. El Ministerio de Economía y CORFO lideran la formación dual y la integración con industria. El Ministerio de Educación lidera también la ciencia aplicada al territorio, en coordinación con CORFO. El Ministerio de Hacienda valida presupuesto y sostenibilidad fiscal. El Ministerio de Desarrollo Social asegura que la reforma llegue a territorios y poblaciones vulnerables.
 
 No hay ambigüedad. Cada ministerio tiene responsabilidad clara. Cada uno reporta a la Secretaría del Acuerdo Nacional. La Secretaría reporta a la Presidencia. El seguimiento es mensual. Los ajustes se hacen en tiempo real. No se espera a fin de año para evaluar: se evalúa constantemente.
 

@@ -1,5 +1,14 @@
 # Estado actual al 24 de diciembre de 2016
 
+## Qué cambió desde el turno anterior (10 dic → 24 dic 2016)
+
+- **Reforma 2017 blindada jurídicamente** — pasó de preingreso legislativo a documento jurídicamente blindado con análisis constitucional, mecanismo de evaluación trimestral y 500 docentes capacitados en primera cohorte.
+- **India acepta Transferencia Operativa Nivel 2** — relación evoluciona de cliente de software a socio de certificación técnica; 12 ingenieros preseleccionados e iniciaron capacitación en Mumbai.
+- **Ventanilla Única Aduanera propuesta y aceptada por Brasil** — nuevo mecanismo de integración aduanera con piloto confirmado para febrero-marzo 2017 en Santos y Paranaguá.
+- **Incidente en el Estrecho de Taiwán activado y superado** — Plan de Redundancia Estratégica activado; infraestructura crítica mantiene 99.8% de operatividad bajo estrés geopolítico real.
+- **Segundo Índice de Convergencia UBA publicado** — Perú alcanza 78% (umbral de entrada 75%), validando la estrategia técnica de convergencia gradual.
+- **Fondo de Compensación UBA operativo** — USD 150 millones disponibles como palanca de presión técnica para socios.
+
 ## Resumen ejecutivo
 
 Chile cierra 2016 con la Reforma 2017 blindada jurídicamente y lista para ingreso legislativo en enero 2017. El Corredor Bioceánico operativo con trazabilidad al 99.8% y Ventanilla Única Aduanera en fase piloto con Brasil. Perú integrado formalmente con Misión Técnica en Lima y contrato de 50 PLCs en operación. India en Transferencia Operativa Nivel 2 con capacitación de 12 ingenieros indios iniciada. Incidente en el Estrecho de Taiwán superado gracias a Plan de Redundancia Estratégica y activación de rutas secundarias. Peso chileno se mantiene estable en 650-655 pesos por dólar. Fondo de Compensación UBA operativo con USD 150 millones. Índice de Convergencia UBA publicado con Perú alcanzando umbral de entrada (78% de convergencia). UBA en fase técnica completa, activación política diferida hasta reforma constitucional chilena. Estado de la nación: consolidación de éxito, no expansión precipitada.

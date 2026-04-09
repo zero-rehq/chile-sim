@@ -65,7 +65,7 @@ República Popular China incrementó presencia naval cerca de rutas comerciales 
 
 ### Acción 5: Primera auditoría trimestral de PLCs en Perú
 
-**[ESTADO: ENVIADA]** — Acción propuesta al jugador, pendiente de resolución.
+**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
 
 **Action Date: 2017-01-22 / Chile ejecuta la primera auditoría trimestral de PLCs en Perú.** La AIIEE despliega un equipo técnico de 6 auditores desde el Parque Industrial Atacama hacia Lima y las instalaciones de infraestructura hídrica donde operan los 50 PLCs certificados. La auditoría incluye verificación de operatividad en condiciones reales, revisión del soporte remoto activado por la Misión Técnica en Lima, y validación de que los estándares de calidad se mantienen al 98% o superior. El Ministerio de Economía utiliza los resultados como base de negociación para la expansión del contrato con Perú y como argumento técnico ante Brasil. El Director de la AIIEE declara: "No vendemos confianza, la medimos. Cada auditoría es la prueba de que el modelo funciona fuera del laboratorio."
 
@@ -73,7 +73,7 @@ República Popular China incrementó presencia naval cerca de rutas comerciales 
 
 ### Acción 6: Auditoría de capacidad de soporte para Santos y Paranaguá
 
-**[ESTADO: ENVIADA]** — Acción propuesta al jugador, pendiente de resolución.
+**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
 
 **Action Date: 2017-01-25 / Chile completa auditoría de capacidad de soporte para Santos y Paranaguá.** El Cuerpo Técnico de Despliegue Internacional evalúa la dotación actual del Parque Industrial Atacama para determinar si puede sostener soporte remoto a dos puertos brasileños de gran escala sin degradar la calidad del servicio existente en Perú y Argentina. La auditoría considera: cantidad de técnicos certificados disponibles, tiempos de respuesta actuales, capacidad de producción de PLCs y módulos de control, y proyección de demanda 2017-2018. El Ministerio de Economía declara: "Chile no promete lo que no puede sostener. La auditoría es el filtro. Si pasa, avanzamos. Si no, esperamos."
 
@@ -81,7 +81,31 @@ República Popular China incrementó presencia naval cerca de rutas comerciales 
 
 ### Acción 7: Coordinación técnica con Japón y Corea ante presencia naval china
 
-**[ESTADO: ENVIADA]** — Acción propuesta al jugador, pendiente de resolución.
+**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
 
 **Action Date: 2017-01-28 / Chile coordina protocolos de continuidad con Japón y Corea ante presencia naval china.** El Ministerio de Relaciones Exteriores convoca reunión técnica con embajadas de Japón y Corea en Santiago para revisar los Protocolos de Continuidad Operativa firmados en 2016. El Centro de Ciberresiliencia Transpacífico comparte datos de trazabilidad en tiempo real y propone actualizar acuerdos de redireccionamiento de carga mediante rutas alternativas (Malaca, Sonda, Lombok). El objetivo no es confrontar a China — es garantizar que el litio chileno llegue a Japón y Corea independientemente de maniobras navales. El Canciller declara: "Chile no toma partido en tensiones entre potencias. Chile garantiza continuidad. Eso nos hace valiosos para todos."
 
+
+---
+
+### Acción 8: Formalizar expansión Gujarat-Madhya India
+
+**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
+
+**Action Date: 2017-01-30 / Chile formaliza la expansión de la Transferencia Operativa Nivel 2 a Gujarat-Madhya.** La AIIEE, en coordinación con la Misión Técnica en Mumbai, acepta formalmente la solicitud india de ampliar la certificación a los terminales de Gujarat-Madhya. El programa replica la estructura ya validada: 6 semanas de capacitación cruzada, documentación en español e inglés, certificación de competencias bajo estándar chileno. El Fondo de Compensación de Primas de Riesgo cubre la estabilización de costos ante volatilidad china. El Ministerio de Relaciones Exteriores informa: "India no adoptó el estándar chileno porque se lo vendimos — lo adoptó porque funciona bajo presión. Eso vale más que cualquier contrato."
+
+---
+
+### Acción 9: Soporte técnico al debate en sala de la Reforma 2017
+
+**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
+
+**Action Date: 2017-02-01 / Chile activa soporte técnico al debate en sala de la Reforma 2017.** La Secretaría del Acuerdo Nacional 2017 despliega equipos técnicos en el Congreso para acompañar el debate en sala con datos empíricos: proyecciones fiscales del Ministerio de Hacienda, resultados de la primera cohorte de 500 docentes capacitados, y validación internacional de los estándares por Alemania, Japón y Corea. El objetivo no es lobby político — es garantizar que los legisladores tengan los datos correctos para no degradar los "candados" legales de financiamiento. El Ministerio de Educación declara: "La Reforma 2017 fue diseñada por profesionales, no por políticos. Que los políticos la aprueben — pero sin tocar la ingeniería fiscal."
+
+---
+
+### Acción 10: Publicar tercer Índice de Convergencia UBA
+
+**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
+
+**Action Date: 2017-02-05 / Chile publica el tercer Índice de Convergencia UBA.** El Centro de Coordinación Bioceánica, en coordinación con las Misiones Técnicas en Lima y Mato Grosso, publica el tercer Índice de Convergencia UBA con métricas actualizadas a enero 2017. El informe incluye: convergencia fiscal de Perú avanzando con métricas espejo, impacto de la Ventanilla Única Aduanera en las métricas logísticas de Brasil, y proyecciones actualizadas para Argentina. La publicación es técnica, no política — cifras, no discursos. El Centro de Coordinación Bioceánica declara: "El Índice no es un ranking — es un espejo. Cada socio ve exactamente a qué distancia está del umbral. La presión es la transparencia."

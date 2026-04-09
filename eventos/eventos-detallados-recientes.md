@@ -289,3 +289,61 @@ La República Popular China incrementó su presencia naval cerca de las rutas co
 **Respuesta de Chile:** Protocolos de continuidad operativa activados. Trazabilidad de cargamentos de litio hacia Japón y Corea del Sur mantenida intacta. Redireccionamiento preventivo hacia rutas secundarias (Malaca, Sonda). Chile no confrontó — blindó.
 
 **Impacto para Chile:** Segundo test de resiliencia en dos meses (después de Taiwán en diciembre). Los protocolos construidos en 2016 funcionaron. El modelo de redundancia analógica-digital se valida por segunda vez ante presión geopolítica real.
+
+---
+
+## 18 de enero de 2017
+
+### Primer debate legislativo Reforma 2017
+
+El Congreso Nacional inició el primer trámite constitucional del proyecto de Ley de Educación Técnico-Productiva. La Secretaría del Acuerdo Nacional 2017 expuso la sostenibilidad fiscal del modelo dual. Oposición y oficialismo mostraron convergencia inusual respaldada por gremios industriales de Biobío y Antofagasta.
+
+## 20 de enero de 2017
+
+### Auditoría Paso de Agua Negra — sensores al 99.8%
+
+El Destacamento Logístico Cordillerano confirmó 99.8% de precisión en sensores de microelectrónica nacional bajo temperaturas extremas de enero en el Paso de Agua Negra. Datos de flujo de carga transmitidos en tiempo real a la Red de Interoperabilidad Regional en Argentina.
+
+## 22 de enero de 2017
+
+### India solicita expansión a Gujarat-Madhya
+
+Tras el éxito de la Misión Técnica en Mumbai, India solicitó formalmente ampliar la certificación de ingenieros a los terminales de Gujarat-Madhya. La AIIEE inició revisión de perfiles técnicos de 100 nuevos ingenieros propuestos. El Fondo de Compensación de Primas de Riesgo neutralizó volatilidad china en costos de envío.
+
+### Ventanilla Única valida primera carga real
+
+Convoy ferroviario desde Mato Grosso completó despacho hacia Coquimbo en 5 horas (récord histórico). Integración digital entre bases de datos de Chile y Brasil eliminó redundancias burocráticas en frontera andina.
+
+### Nodo Energético Biobío — 100% estabilidad
+
+Simulacro de aislamiento digital exitoso. Infraestructura de hidrógeno verde y smart grids demostrada capaz de operar autónomamente ante posibles ataques externos.
+
+## 23 de enero de 2017
+
+### Reforma 2017 aprobada en Comisión de Educación por unanimidad
+
+La Comisión de Educación de la Cámara de Diputados aprobó por unanimidad el primer informe técnico. Parlamentarios destacaron solidez fiscal y respaldo gremial. La reforma avanza a debate en sala con "candados" legales de financiamiento intactos.
+
+### Parque Industrial Atacama — producción récord
+
+500 PLCs certificados por mes. Distribución priorizada en reposición preventiva Agua Negra y contratos Perú.
+
+### Mesa Técnica Transpacífica formaliza acuerdo con Japón y Corea
+
+Nuevo acuerdo de compatibilidad técnica para semiconductores. Exportaciones de Atacama y Biobío integradas en cadenas de suministro de alta tecnología de Asia Oriental.
+
+### Centro Ciberresiliencia — vigilancia reforzada cables submarinos
+
+Detectado incremento de actividad de señales en Pacífico Noroeste por maniobras navales chinas. Activada vigilancia reforzada en cables de fibra óptica submarinos Chile–Busan y Chile–Yokohama.
+
+### Misión Técnica Fiscal en Lima — métricas espejo activas
+
+Reuniones con Ministerio de Economía de Perú para alinear fondos de estabilización ante volatilidad de metales en mercados asiáticos. Métricas espejo facilitan transparencia bilateral.
+
+### Estación Monitoreo Magallanes — calibración Isla Navarino completada
+
+Sensores oceanográficos calibrados en Isla Navarino. Monitoreo en tiempo real de corrientes y salinidad en Canal Beagle operativo.
+
+### Peso chileno — moneda más resiliente de la región
+
+Analistas internacionales atribuyen la estabilidad al Fondo de Compensación de Primas de Riesgo que evita que tensiones en Taiwán se trasladen a inflación interna.

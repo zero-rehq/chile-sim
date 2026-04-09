@@ -177,9 +177,13 @@ La Constitución de 1980 es una bomba de tiempo. AFPs, desigualdad persistente, 
 
 ## Ver también
 
-- [[estado/estado-actual-2016-12-24|Estado actual al 24 de diciembre de 2016]]
-- [[doctrina/vision-doctrinal|Visión doctrinal y plan país]]
-- [[doctrina/cuestion-constitucional|La cuestión constitucional]]
-- [[doctrina/union-bioceanica-americana|Unión Bioceánica Americana — Real Inti]]
-- [[pendientes/pila-estrategica|Pendientes estratégicos y frentes abiertos]]
-- [[diplomacia/argentina-brasil-peru|Dossier Corredor Bioceánico]]
+- `estado/` → archivo `estado-actual-*.md` más reciente
+- `contexto/resumenes-historicos-por-tramos.md` — Resúmenes COMPLETOS del simulador por cada tramo
+- `contexto/situacion-del-mundo-2016-12-24.md` — Mapa mundial, unidades de Chile, tensiones internacionales
+- `turnos/indice-turnos.md` — Índice general de turnos con navegación cronológica
+- `pendientes/pila-estrategica.md`
+- `doctrina/vision-doctrinal.md`
+- `doctrina/cuestion-constitucional.md`
+- `doctrina/union-bioceanica-americana.md`
+- `diplomacia/india.md`
+- `diplomacia/argentina-brasil-peru.md`

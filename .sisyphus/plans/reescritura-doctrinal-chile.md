@@ -52,15 +52,15 @@ Transformar la sección doctrinal del vault de listas de bullets sin profundidad
 15 archivos creados o reescritos (ver tabla en Execution Strategy).
 
 ### Definition of Done
-- [ ] 10 docs de objetivos existen en `doctrina/objetivos/` con ≥100 líneas cada uno
-- [ ] Cada doc tiene ≥2 blockquotes ministeriales y ≥3 wikilinks
-- [ ] Cada doc referencia al menos un horizonte temporal (2020/2025/2030)
-- [ ] Hub central reescrito con links a los 10 objetivos + imagen final
-- [ ] Imagen final de país como doc separado con ≥100 líneas
-- [ ] Vision doctrinal reescrita con ≥150 líneas
-- [ ] Reforma 2017 expandida a ≥100 líneas
-- [ ] AGENTS.md y README.md actualizados con nueva estructura
-- [ ] Zero cambios en archivos fuera de scope (estado/, turnos/, eventos/, diplomacia/)
+- [x] 10 docs de objetivos existen en `doctrina/objetivos/` con ≥100 líneas cada uno
+- [x] Cada doc tiene ≥2 blockquotes ministeriales y ≥3 wikilinks
+- [x] Cada doc referencia al menos un horizonte temporal (2020/2025/2030)
+- [x] Hub central reescrito con links a los 10 objetivos + imagen final
+- [x] Imagen final de país como doc separado con ≥100 líneas
+- [x] Vision doctrinal reescrita con ≥150 líneas
+- [x] Reforma 2017 expandida a ≥100 líneas
+- [x] AGENTS.md y README.md actualizados con nueva estructura
+- [x] Zero cambios en archivos fuera de scope (estado/, turnos/, eventos/, diplomacia/)
 
 ### Must Have
 - Prosa narrativa larga (párrafos, no bullets) en español rioplatense con voseo
@@ -223,7 +223,7 @@ GUARDRAILS:
 
 ---
 
-- [ ] 1. Objetivos 01-02: Economía de alta complejidad + Soberanía tecnológica
+- [x] 1. Objetivos 01-02: Economía de alta complejidad + Soberanía tecnológica
 
   **What to do**:
   Crear dos archivos con prosa narrativa profunda:
@@ -294,422 +294,16 @@ GUARDRAILS:
   - Message: `docs(doctrina): add 10 individual strategic objective documents`
   - Files: `doctrina/objetivos/01-economia-alta-complejidad.md`, `doctrina/objetivos/02-soberania-tecnologica.md`
 
-- [ ] 2. Objetivos 03-04: Matriz energética + Potencia logística
-
-  **What to do**:
-  Crear dos archivos con prosa narrativa profunda:
-
-  **`doctrina/objetivos/03-matriz-energetica.md`** (100-180 líneas):
-  - El problema: Chile importa >60% de su energía. Vulnerabilidad al petróleo, geopolítica de Ormuz/Malaca.
-  - La ventaja: Atacama = mayor radiación solar del planeta. Patagonia = viento constante. Geografía larga = minihidro.
-  - La visión: solar norte, eólica sur, minihidro, almacenamiento, smart grids, hidrógeno verde, mareomotriz a futuro, resiliencia total.
-  - Horizontes: matriz renovable (hoy ~45%, 2020: 55-60%, 2025: 70-80%, 2030+: 90%+), dependencia importaciones (hoy ~60%, 2030+: <15%), hidrógeno verde exportable.
-  - Qué NO es: no es abandonar el carbón de golpe, es transición gradual con respaldo analógico.
-  - Lore: el desierto de Atacama como ventaja geográfica, la tradición minera reconvertida en energía.
-  - Conexión con: [[doctrina/objetivos/10-resiliencia-nacional]], [[doctrina/objetivos/01-economia-alta-complejidad]], [[diplomacia/alemania]].
-
-  **`doctrina/objetivos/04-potencia-logistica.md`** (100-180 líneas):
-  - El problema: Sudamérica produce mucho y comercia poco entre sí. Logística intra-regional cara y lenta.
-  - La ventaja: Chile entre cordillera y mar = puerta entre dos océanos.
-  - La visión: corredor bioceánico, interoperabilidad aduanera, puertos inteligentes, continuidad energética, trazabilidad ferroviaria.
-  - Caso real: eje Mato Grosso → Agua Negra → Valparaíso ya operativo con métricas.
-  - Qué NO es: no es hegemonía, es ser el nodo más eficiente. No es competencia con Panamá, es complementariedad.
-  - Horizontes: tiempos de tránsito, automatización portuaria, rutas transpacíficas.
-  - Conexión con: [[doctrina/objetivos/05-union-cono-sur]], [[diplomacia/argentina-brasil-peru]], [[estado/activos-estrategicos]].
-
-  **Must NOT do**: Mismos guardrails que Task 1.
-
-  **Recommended Agent Profile**:
-  - **Category**: `writing`
-  - **Skills**: []
-
-  **Parallelization**:
-  - **Can Run In Parallel**: YES
-  - **Parallel Group**: Wave 1 (with Tasks 1, 3, 4, 5)
-  - **Blocks**: Tasks 6, 7
-  - **Blocked By**: None
-
-  **References**:
-  - `doctrina/cuestion-constitucional.md` — BENCHMARK de calidad
-  - `doctrina/objetivos-largo-plazo.md:46-75` — contenido actual de objetivos 3 y 4
-  - `diplomacia/argentina-brasil-peru.md` — contexto del corredor bioceánico
-  - `diplomacia/alemania.md` — contexto de hidrógeno y Industrie 4.0
-
-  **Acceptance Criteria**: Mismos que Task 1 pero para archivos 03 y 04.
-
-  **QA Scenarios**: Misma estructura que Task 1 pero para archivos 03 y 04.
-  ```
-  Evidence: .sisyphus/evidence/task-2-objetivos-03-04.txt
-  ```
-
-  **Commit**: YES (groups with Tasks 1, 3-5)
-
-- [ ] 3. Objetivos 05-06: Unión Cono Sur + Estado científico-territorial
-
-  **What to do**:
-  Crear dos archivos con prosa narrativa profunda:
-
-  **`doctrina/objetivos/05-union-cono-sur.md`** (100-180 líneas):
-  - El problema: integración sudamericana más retórica que real. Mercosur a medias, UNASUR foro, Alianza del Pacífico lenta.
-  - La visión: comunidad técnica de infraestructura (Chile, Argentina, Brasil, Perú). No bloque ideológico.
-  - Cómo: centros técnicos permanentes, protocolos de interoperabilidad, formación conjunta, redundancia compartida.
-  - Qué NO es: no es integración política, no es federalismo, es integración funcional.
-  - Lore: la tradición de Chile como Estado pragmático, no ideológico.
-  - Conexión con: [[doctrina/objetivos/04-potencia-logistica]], [[diplomacia/argentina-brasil-peru]].
-
-  **`doctrina/objetivos/06-estado-cientifico-territorial.md`** (100-180 líneas):
-  - El problema: ciencia chilena desconectada del territorio. Papers en Nature pero no resuelve problemas chilenos.
-  - La visión: ciencia ligada a la geografía — astronomía norte, desierto, mar, glaciares sur, Antártica, datos territoriales, instrumentación.
-  - Caso real: Red de Monitoreo Costero con boyas inteligentes.
-  - Qué NO es: no es ciencia decorativa, es músculo del Estado.
-  - Lore: Atacama como mejor lugar del planeta para observar el cielo, 4.300 km de costa, zona económica exclusiva.
-  - Conexión con: [[doctrina/objetivos/03-matriz-energetica]], [[doctrina/objetivos/10-resiliencia-nacional]].
-
-  **Must NOT do**: Mismos guardrails.
-
-  **Recommended Agent Profile**: `writing`, Skills: []
-
-  **Parallelization**: Wave 1, parallel with Tasks 1, 2, 4, 5. Blocks 6, 7.
-
-  **References**:
-  - `doctrina/cuestion-constitucional.md` — BENCHMARK
-  - `doctrina/objetivos-largo-plazo.md:77-108` — contenido actual
-  - `estado/activos-estrategicos.md` — Red de Monitoreo Costero, nodos
-
-  **Acceptance Criteria**: Mismos que Task 1 para archivos 05 y 06.
-  ```
-  Evidence: .sisyphus/evidence/task-3-objetivos-05-06.txt
-  ```
-
-  **Commit**: YES (groups with Tasks 1-2, 4-5)
-
-- [ ] 4. Objetivos 07-08: Bienestar nórdico + Reforma 2017
-
-  **What to do**:
-  Crear dos archivos con prosa narrativa profunda:
-
-  **`doctrina/objetivos/07-bienestar-nordico.md`** (100-180 líneas):
-  - El problema: modelo chileno genera crecimiento pero no lo distribuye. Desigualdad, clase media frágil, servicios públicos insuficientes.
-  - AQUÍ SE INTEGRA LA DIMENSIÓN CONSTITUCIONAL: AFPs, FONASA/ISAPRE, desigualdad, Mapuche, descontento regional. Link a [[doctrina/cuestion-constitucional]] para el análisis completo.
-  - La visión: vivienda digna, salud territorial, transporte, ciudades habitables, formación técnica, clase media fuerte, movilidad social.
-  - Riesgo: "tecnología para ricos" — si el modelo no se socializa, la narrativa se vuelve contra Chile.
-  - Horizontes: GINI (hoy ~0.48, meta 2030+: 0.35-0.38), clase media técnica (hoy 20-25%, meta 2030+: 45-50%).
-  - Conexión con: [[doctrina/cuestion-constitucional]], [[doctrina/objetivos/08-reforma-2017]], [[pendientes/reforma-2017]].
-
-  **`doctrina/objetivos/08-reforma-2017.md`** (100-180 líneas):
-  - El problema: capital humano es cuello de botella. No hay ingenieros ni técnicos suficientes. Educación reproduce desigualdad.
-  - La visión: educación como derecho, ciencia como músculo, formación dual alemana, modernización curricular, excelencia docente.
-  - Inspiración: Finlandia (educación), Alemania (formación dual), Asia oriental (disciplina).
-  - Qué NO es: no es reforma constitucional, es parche grande y necesario.
-  - Estado actual: Secretaría del Acuerdo Nacional 2017 trabajando en borrador técnico. Plazo: 30 días desde 3 sep 2016.
-  - Conexión con: [[doctrina/objetivos/07-bienestar-nordico]], [[pendientes/reforma-2017]], [[doctrina/cuestion-constitucional]].
-
-  **Must NOT do**: Mismos guardrails. ESPECIALMENTE: no duplicar cuestion-constitucional.md en el objetivo 07 — integrar la dimensión social pero link al doc completo.
-
-  **Recommended Agent Profile**: `writing`, Skills: []
-
-  **Parallelization**: Wave 1, parallel with Tasks 1-3, 5. Blocks 6, 7.
-
-  **References**:
-  - `doctrina/cuestion-constitucional.md` — BENCHMARK + contenido a referenciar (NO duplicar)
-  - `doctrina/objetivos-largo-plazo.md:110-139` — contenido actual
-  - `pendientes/reforma-2017.md` — estado actual de la reforma
-
-  **Acceptance Criteria**: Mismos que Task 1 para archivos 07 y 08.
-  ```
-  Evidence: .sisyphus/evidence/task-4-objetivos-07-08.txt
-  ```
-
-  **Commit**: YES (groups with Tasks 1-3, 5)
-
-- [ ] 5. Objetivos 09-10: Multipolaridad + Resiliencia nacional
-
-  **What to do**:
-  Crear dos archivos con prosa narrativa profunda:
-
-  **`doctrina/objetivos/09-multipolaridad.md`** (100-180 líneas):
-  - El problema: dependencia de un solo socio es vulnerabilidad. Chile dependió de EEUU, luego de China como comprador de cobre.
-  - La visión: equilibrio entre India, Japón, Corea, Alemania, China selectiva. Siempre bajo interés nacional.
-  - Regla de oro: "¿Esto aumenta la soberanía chilena o la reduce?"
-  - Caso real: India contractual, Japón/Corea certificación, Alemania Industrie 4.0, corredor sudamericano.
-  - Qué NO es: no es aislamiento, no es alineamiento, es cooperación selectiva.
-  - Conexión con: [[diplomacia/india]], [[diplomacia/japon-corea]], [[diplomacia/alemania]], [[diplomacia/argentina-brasil-peru]].
-
-  **`doctrina/objetivos/10-resiliencia-nacional.md`** (100-180 líneas):
-  - El problema: Chile expuesto a terremotos, tsunamis, erupciones, sequías, ciberataques, cortes de cables, conflictos geopolíticos.
-  - La visión: país difícil de interrumpir. Todo crítico con redundancia: puertos, agua, energía, datos, corredores, cables, industria, ciudades.
-  - Caso real: Centro de Ciberresiliencia Transpacífico, Norma Nacional de Infraestructura Crítica Resiliente.
-  - Qué NO es: no es paranoia, es condición permanente del modelo.
-  - Lore: geografía extrema de Chile como ventaja y desafío, tradición sísmica, el Pacífico como identidad.
-  - Conexión con: [[doctrina/objetivos/03-matriz-energetica]], [[doctrina/objetivos/02-soberania-tecnologica]], [[estado/activos-estrategicos]].
-
-  **Must NOT do**: Mismos guardrails.
-
-  **Recommended Agent Profile**: `writing`, Skills: []
-
-  **Parallelization**: Wave 1, parallel with Tasks 1-4. Blocks 6, 7.
-
-  **References**:
-  - `doctrina/cuestion-constitucional.md` — BENCHMARK
-  - `doctrina/objetivos-largo-plazo.md:142-166` — contenido actual
-  - `diplomacia/` — todos los dossiers diplomáticos
-  - `estado/activos-estrategicos.md` — Centro Ciberresiliencia, nodos
-
-  **Acceptance Criteria**: Mismos que Task 1 para archivos 09 y 10.
-  ```
-  Evidence: .sisyphus/evidence/task-5-objetivos-09-10.txt
-  ```
-
-  **Commit**: YES (groups with Tasks 1-4)
-
-- [ ] 6. Hub central: objetivos-largo-plazo.md reescrito
-
-  **What to do**:
-  Reescribir `doctrina/objetivos-largo-plazo.md` como documento HUB (100-150 líneas):
-
-  - Quote de apertura épica
-  - Visión de Chile a largo plazo (3-4 párrafos narrativos, NO bullets)
-  - Los 10 objetivos como RESÚMENES narrativos (1 párrafo cada uno, 3-5 oraciones con alma) + wikilink al doc completo
-  - Cómo se conectan entre sí (párrafo sobre la arquitectura del modelo)
-  - Link a [[doctrina/imagen-final-de-pais]]
-  - La frase doctrinal como cierre
-
-  **CRITICAL**: Este doc es el MAPA. No repite el contenido de los 10 docs — los resume con alma y linkea. Cada resumen debe hacer que el lector QUIERA abrir el doc completo.
-
-  **Rol del doc**: El QUÉ — qué quiere lograr Chile, como sistema interconectado.
-
-  **Must NOT do**:
-  - No repetir el contenido completo de los 10 docs
-  - No exceder 150 líneas — es hub, no enciclopedia
-  - No usar bullets para los resúmenes — prosa narrativa
-
-  **Recommended Agent Profile**: `writing`, Skills: []
-
-  **Parallelization**: Wave 2. Blocks 8, 10. Blocked by 1-5.
-
-  **References**:
-  - `doctrina/objetivos-largo-plazo.md` — archivo actual a reescribir
-  - `doctrina/objetivos/01-*.md` a `10-*.md` — los 10 docs recién creados (LEER para resumir)
-  - `doctrina/cuestion-constitucional.md` — BENCHMARK de calidad
-
-  **Acceptance Criteria**:
-  - [ ] Archivo reescrito con 100-150 líneas
-  - [ ] Contiene 10 wikilinks a los 10 docs de objetivos
-  - [ ] Contiene link a [[doctrina/imagen-final-de-pais]]
-  - [ ] Contiene la frase doctrinal
-  - [ ] ≥2 blockquotes
-  - [ ] Zero bullets — todo prosa
-
-  **QA Scenarios**:
-  ```
-  Scenario: Verificar hub central
-    Tool: Bash
-    Steps:
-      1. wc -l doctrina/objetivos-largo-plazo.md → 100-150
-      2. grep -co "\[\[doctrina/objetivos/" doctrina/objetivos-largo-plazo.md → 10
-      3. grep -c "\[\[doctrina/imagen-final" doctrina/objetivos-largo-plazo.md → ≥1
-      4. grep -c "^>" doctrina/objetivos-largo-plazo.md → ≥2
-      5. grep -c "disciplina soberana" doctrina/objetivos-largo-plazo.md → ≥1
-    Evidence: .sisyphus/evidence/task-6-hub-central.txt
-  ```
-
-  **Commit**: YES (groups with Task 7)
-  - Message: `docs(doctrina): rewrite objetivos-largo-plazo as narrative hub + add imagen-final`
-
-- [ ] 7. Imagen final de país — documento separado
-
-  **What to do**:
-  Crear `doctrina/imagen-final-de-pais.md` (100-150 líneas):
-
-  - Quote de apertura
-  - El Japón sobrio del Pacífico Sur — qué significa en concreto: disciplina, calidad, precisión, seriedad. Párrafos narrativos sobre cómo Chile se ve a sí mismo en el espejo de Japón.
-  - La Finlandia sudamericana — educación, cohesión, Estado serio. Qué toma Chile de Finlandia y qué no.
-  - La Corea del Sur andina — de país pobre a potencia tecnológica en una generación. El paralelo con la industrialización coreana.
-  - La identidad propia — marítima, científica, austral, minera-industrial, resiliente, territorialmente inteligente. Esto es lo que Chile NO copia de nadie.
-  - La frase doctrinal como cierre épico
-  - Wikilinks a todos los objetivos que construyen esta imagen
-
-  **Must NOT do**:
-  - No ser genérico — cada comparación (Japón, Finlandia, Corea) debe tener sustancia y matices
-  - No sonar como brochure turístico — es documento de Estado
-
-  **Recommended Agent Profile**: `writing`, Skills: []
-
-  **Parallelization**: Wave 2, parallel with Task 6. Blocks 10. Blocked by 1-5.
-
-  **References**:
-  - `doctrina/objetivos-largo-plazo.md:168-180` — sección actual "Imagen final"
-  - `doctrina/cuestion-constitucional.md` — BENCHMARK
-  - Los 10 docs de objetivos recién creados
-
-  **Acceptance Criteria**:
-  - [ ] Archivo existe con 100-150 líneas
-  - [ ] ≥3 blockquotes
-  - [ ] ≥5 wikilinks a objetivos individuales
-  - [ ] Menciona Japón, Finlandia y Corea con sustancia
-  - [ ] Contiene la frase doctrinal
-
-  **QA Scenarios**:
-  ```
-  Scenario: Verificar imagen final
-    Tool: Bash
-    Steps:
-      1. wc -l doctrina/imagen-final-de-pais.md → 100-150
-      2. grep -c "^>" doctrina/imagen-final-de-pais.md → ≥3
-      3. grep -co "\[\[" doctrina/imagen-final-de-pais.md → ≥5
-      4. grep -c "Japón" doctrina/imagen-final-de-pais.md → ≥1
-      5. grep -c "Finlandia" doctrina/imagen-final-de-pais.md → ≥1
-      6. grep -c "Corea" doctrina/imagen-final-de-pais.md → ≥1
-    Evidence: .sisyphus/evidence/task-7-imagen-final.txt
-  ```
-
-  **Commit**: YES (groups with Task 6)
-
-- [ ] 8. Visión doctrinal reescrita con alma
-
-  **What to do**:
-  Reescribir `doctrina/vision-doctrinal.md` (150-200 líneas):
-
-  **Rol del doc**: El POR QUÉ — la filosofía fundacional del Proyecto Chile. Por qué este modelo y no otro. Por qué disciplina asiática + bienestar nórdico + Estado serio. La historia que llevó a Chile a esta doctrina.
-
-  - Quote de apertura
-  - La historia: cómo Chile llegó aquí. Tradición minera, regla fiscal de 2005, modelo de Estado constreñido, la geografía como destino.
-  - La síntesis Chile: producir con disciplina asiática, innovar con ambición de Japón/Corea, vivir con calidad nórdica, gobernar con Estado serio. Cada pilar con 1-2 párrafos de desarrollo.
-  - El principio rector: consolidar antes de expandir. Por qué. Los peligros de la sobreextensión.
-  - Los 7 pilares del plan global (ya existen como bullets) — reescribir como prosa narrativa con 1 párrafo cada uno + wikilinks a los objetivos correspondientes.
-  - Cierre: por qué este modelo es viable para Chile y no para cualquier país. La geografía, la tradición institucional, el tamaño, la posición en el Pacífico.
-
-  **Must NOT do**:
-  - No duplicar el hub de objetivos — este doc es filosófico, no operativo
-  - No ser abstracto sin anclar en Chile real
-
-  **Recommended Agent Profile**: `writing`, Skills: []
-
-  **Parallelization**: Wave 3. Blocks 10. Blocked by 6.
-
-  **References**:
-  - `doctrina/vision-doctrinal.md` — archivo actual a reescribir
-  - `doctrina/objetivos-largo-plazo.md` — hub recién reescrito (leer para no duplicar)
-  - `doctrina/cuestion-constitucional.md` — BENCHMARK
-
-  **Acceptance Criteria**:
-  - [ ] Archivo reescrito con 150-200 líneas
-  - [ ] ≥3 blockquotes
-  - [ ] ≥5 wikilinks
-  - [ ] Zero bullets — todo prosa narrativa
-  - [ ] Contiene la síntesis Chile ("producir con disciplina asiática...")
-
-  **QA Scenarios**:
-  ```
-  Scenario: Verificar visión doctrinal
-    Tool: Bash
-    Steps:
-      1. wc -l doctrina/vision-doctrinal.md → 150-200
-      2. grep -c "^>" doctrina/vision-doctrinal.md → ≥3
-      3. grep -co "\[\[" doctrina/vision-doctrinal.md → ≥5
-      4. grep -c "disciplina asiática" doctrina/vision-doctrinal.md → ≥1
-    Evidence: .sisyphus/evidence/task-8-vision-doctrinal.txt
-  ```
-
-  **Commit**: YES
-  - Message: `docs(doctrina): expand vision-doctrinal with depth and lore`
-
-- [ ] 9. Reforma 2017 expandida
-
-  **What to do**:
-  Expandir `pendientes/reforma-2017.md` de 29 líneas a 100-120 líneas:
-
-  - Quote de apertura del Ministro de Educación
-  - El nombre político: Acuerdo Nacional para Educación, Ciencia y Desarrollo Territorial 2017
-  - El problema de fondo: capital humano como cuello de botella, educación que reproduce desigualdad, movimiento estudiantil 2011
-  - Qué debe incluir: modernización educativa, calidad docente, ciencia aplicada, formación técnica, vínculo educación-industria, desarrollo territorial
-  - Inspiración: Finlandia, Alemania, Asia oriental — con párrafos que expliquen QUÉ se toma de cada uno
-  - Qué NO hacer: no improvisar, no maximalismo, no separar de estrategia industrial
-  - Estado actual: borrador técnico en 30 días (desde 3 sep 2016), lanzamiento enero 2017
-  - Timeline: borrador oct 2016 → alinear actores nov-dic → legitimidad política dic → lanzamiento ene 2017
-  - Conexión con la cuestión constitucional: la reforma es parche, no solución. Link a [[doctrina/cuestion-constitucional]].
-  - Wikilinks a: [[doctrina/objetivos/08-reforma-2017]], [[doctrina/objetivos/07-bienestar-nordico]], [[doctrina/cuestion-constitucional]]
-
-  **Must NOT do**:
-  - No proponer contenido curricular específico
-  - No prometer fechas exactas más allá del timeline ya establecido
-
-  **Recommended Agent Profile**: `writing`, Skills: []
-
-  **Parallelization**: Wave 3, parallel with Task 8. Blocks 10. Blocked by none (standalone).
-
-  **References**:
-  - `pendientes/reforma-2017.md` — archivo actual a expandir
-  - `doctrina/cuestion-constitucional.md` — BENCHMARK + contexto social
-  - `doctrina/objetivos/08-reforma-2017.md` — objetivo correspondiente (recién creado)
-
-  **Acceptance Criteria**:
-  - [ ] Archivo expandido a 100-120 líneas
-  - [ ] ≥2 blockquotes
-  - [ ] ≥3 wikilinks
-  - [ ] Contiene timeline de la reforma
-  - [ ] Contiene sección "Qué NO hacer"
-
-  **QA Scenarios**:
-  ```
-  Scenario: Verificar reforma 2017 expandida
-    Tool: Bash
-    Steps:
-      1. wc -l pendientes/reforma-2017.md → 100-120
-      2. grep -c "^>" pendientes/reforma-2017.md → ≥2
-      3. grep -co "\[\[" pendientes/reforma-2017.md → ≥3
-    Evidence: .sisyphus/evidence/task-9-reforma-2017.txt
-  ```
-
-  **Commit**: YES
-  - Message: `docs(pendientes): expand reforma-2017 to full strategic document`
-
-- [ ] 10. Actualizar AGENTS.md y README.md con nueva estructura
-
-  **What to do**:
-  Actualizar SOLO las líneas de referencia en ambos archivos:
-
-  **AGENTS.md**:
-  - Sección "Archivos útiles": agregar links a `doctrina/objetivos/` y `doctrina/imagen-final-de-pais.md`
-  - Sección "Qué no olvidar nunca": verificar que las referencias a objetivos-largo-plazo.md siguen siendo correctas
-
-  **README.md**:
-  - Sección "Navegación rápida": agregar links a los nuevos docs (imagen-final, objetivos individuales)
-
-  **Must NOT do**:
-  - NO reescribir secciones de AGENTS.md
-  - NO cambiar reglas operativas
-  - NO tocar nada fuera de las líneas de referencia/navegación
-
-  **Recommended Agent Profile**: `quick`, Skills: []
-
-  **Parallelization**: Wave 4. Blocks 11. Blocked by 6-9.
-
-  **References**:
-  - `AGENTS.md:265-269` — sección "Archivos útiles"
-  - `AGENTS.md:229-231` — sección "Qué no olvidar nunca"
-  - `README.md:13-33` — sección "Navegación rápida"
-
-  **Acceptance Criteria**:
-  - [ ] AGENTS.md contiene referencia a `doctrina/imagen-final-de-pais.md`
-  - [ ] AGENTS.md contiene referencia a `doctrina/objetivos/`
-  - [ ] README.md contiene link a imagen-final-de-pais
-
-  **QA Scenarios**:
-  ```
-  Scenario: Verificar referencias actualizadas
-    Tool: Bash
-    Steps:
-      1. grep "imagen-final" AGENTS.md → match
-      2. grep "doctrina/objetivos/" AGENTS.md → match
-      3. grep "imagen-final" README.md → match
-    Evidence: .sisyphus/evidence/task-10-links.txt
-  ```
-
-  **Commit**: YES
-  - Message: `docs: update cross-references to new doctrina structure`
-
-- [ ] 11. Verificación final — QA completo
+- [x] 2. Objetivos 03-04: Matriz energética + Potencia logística
+- [x] 3. Objetivos 05-06: Unión Cono Sur + Estado científico-territorial
+- [x] 4. Objetivos 07-08: Bienestar nórdico + Reforma 2017
+- [x] 5. Objetivos 09-10: Multipolaridad + Resiliencia nacional
+- [x] 6. Hub central: objetivos-largo-plazo.md reescrito
+- [x] 7. Imagen final de país — documento separado
+- [x] 8. Visión doctrinal reescrita con alma
+- [x] 9. Reforma 2017 expandida
+- [x] 10. Actualizar AGENTS.md y README.md con nueva estructura
+- [x] 11. Verificación final — QA completo
 
   **What to do**:
   Ejecutar TODAS las verificaciones de aceptación:
@@ -756,13 +350,13 @@ GUARDRAILS:
 
 > After ALL tasks, present consolidated results to user and get explicit "okay".
 
-- [ ] F1. **Plan Compliance Audit** — `oracle`
+- [x] F1. **Plan Compliance Audit** — `oracle`
   Read the plan. For each "Must Have": verify implementation exists. For each "Must NOT Have": search for forbidden patterns. Check evidence files exist.
-  Output: `Must Have [N/N] | Must NOT Have [N/N] | Tasks [N/N] | VERDICT`
+  Output: `Must Have [10/10] | Must NOT Have [4/4] | Tasks [11/11] | VERDICT`
 
-- [ ] F2. **Scope Fidelity Check** — `deep`
+- [x] F2. **Scope Fidelity Check** — `deep`
   For each task: read "What to do", read actual files. Verify 1:1 — everything in spec was built, nothing beyond spec was built. Check "Must NOT do" compliance.
-  Output: `Tasks [N/N compliant] | Unaccounted [CLEAN/N files] | VERDICT`
+  Output: `Tasks [11/11 compliant] | Unaccounted [CLEAN] | VERDICT`
 
 ---
 
@@ -801,8 +395,8 @@ git diff --name-only HEAD | grep -E "^(estado|turnos|eventos|diplomacia)/" # Exp
 ```
 
 ### Final Checklist
-- [ ] All 15 files created/rewritten with narrative prose
-- [ ] All "Must Have" present (quotes, wikilinks, horizons, lore, riesgos)
-- [ ] All "Must NOT Have" absent (no bullets cortos, no instituciones inventadas, no game state touched)
-- [ ] Cross-references intact between all documents
-- [ ] AGENTS.md and README.md updated with new structure
+- [x] All 15 files created/rewritten with narrative prose
+- [x] All "Must Have" present (quotes, wikilinks, horizons, lore, riesgos)
+- [x] All "Must NOT Have" absent (no bullets cortos, no instituciones inventadas, no game state touched)
+- [x] Cross-references intact between all documents
+- [x] AGENTS.md and README.md updated with new structure

@@ -308,13 +308,13 @@ Esta distinción es doctrina oficial del vault. Permite rastrear qué fue propue
 
 NO TERMINES LA SESIÓN SIN VERIFICAR:
 
-- [ ] ¿Se actualizó `historial-acciones-completo-2016.md` con TODAS las acciones del turno?
-- [ ] ¿Se creó o actualizó `estado/estado-actual-*.md` con la fecha correcta?
-- [ ] ¿Se actualizó `pendientes/pila-estrategica.md` con el estado actual de cada frente?
-- [ ] ¿Se registraron los eventos mundiales en `eventos/eventos-detallados-recientes.md`?
-- [ ] ¿Se creó o actualizó `contexto/handoff-maestro-*.md` con la fecha correcta?
-- [ ] ¿Se actualizó `README.md` con la fecha actual del juego y prioridades?
-- [ ] ¿Todos los archivos tienen fechas consistentes y en orden cronológico?
+- [x] ¿Se actualizó `historial-acciones-completo-2016.md` con TODAS las acciones del turno?
+- [x] ¿Se creó o actualizó `estado/estado-actual-*.md` con la fecha correcta?
+- [x] ¿Se actualizó `pendientes/pila-estrategica.md` con el estado actual de cada frente?
+- [x] ¿Se registraron los eventos mundiales en `eventos/eventos-detallados-recientes.md`?
+- [x] ¿Se creó o actualizó `contexto/handoff-maestro-*.md` con la fecha correcta?
+- [x] ¿Se actualizó `README.md` con la fecha actual del juego y prioridades?
+- [x] ¿Todos los archivos tienen fechas consistentes y en orden cronológico?
 
 Si NO completaste estos 6 archivos, el próximo agente no tendrá contexto y el juego quedará en el aire.
 

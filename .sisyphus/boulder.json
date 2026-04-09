@@ -1,21 +1,25 @@
 {
-  "active_plan": "/home/zero-rehq/chile-sim/.sisyphus/plans/reescritura-doctrinal-chile.md",
-  "started_at": "2026-04-08T19:30:39.163Z",
+  "active_plan": null,
+  "started_at": "2026-04-09T11:25:10.492Z",
+  "completed_at": "2026-04-09T13:52:00.000Z",
   "session_ids": [
     "ses_291d77398ffebvjGfQkHZIoMon"
   ],
-  "plan_name": "reescritura-doctrinal-chile",
   "session_origins": {
     "ses_291d77398ffebvjGfQkHZIoMon": "direct"
   },
-  "task_sessions": {
-    "final-wave:f1": {
-      "task_key": "final-wave:f1",
-      "task_label": "F1",
-      "task_title": "**Plan Compliance Audit** — `oracle`",
-      "session_id": "ses_2913e294fffePUv6kWonMGwi3h",
-      "agent": "oracle",
-      "updated_at": "2026-04-08T20:22:16.754Z"
-    }
+  "plan_name": "vault-upgrade-v2",
+  "agent": "Sisyphus (Ultraworker)",
+  "status": "completed",
+  "tasks_completed": 30,
+  "tasks_total": 30,
+  "verification": {
+    "json_valid": true,
+    "snapshots": 5,
+    "mini_agents": 3,
+    "delta_section": true,
+    "confidence_markers": true,
+    "wisdom": true,
+    "nodos_dios": 7
   }
 }

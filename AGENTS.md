@@ -107,6 +107,18 @@ Una pantalla de estado completa con TODOS los frentes del gobierno, no solo los 
 
 **FORMATO CRÍTICO**: Las acciones deben ser **párrafos largos y detallados**, estilo "Action Date: 2016-08-27 / Chile inicia una fase limitada y priorizada de exportación de PLCs...". Cada acción debe tener 3-5 oraciones sustanciales. NO bullets cortos. NO resúmenes vagos.
 
+**ESTRUCTURA OBLIGATORIA**: Cada acción debe incluir un **resumen de 2-4 líneas inmediatamente arriba**, que explique qué pasa, por qué importa y qué cambia. El resumen es la entrada rápida; el párrafo largo es la ejecución.
+
+Ejemplo de estructura:
+```
+**Resumen:** Chile lanza el Nodo Energético Biobío para consolidar la matriz solar-eólica-hidrógeno. 
+Esto cierra la vulnerabilidad energética en el sur, reduce dependencia de importaciones y posiciona 
+a Biobío como hub de exportación de energía limpia. Impacto: 40% de la matriz nacional en renovables 
+para fin de 2017.
+
+Action Date: 2016-08-27 / Chile inicia una fase limitada y priorizada...
+```
+
 Cada acción debe incluir:
 - **Qué** se hace específicamente
 - **Quién** lo ejecuta — con nombre de ministerio, institución o unidad concreta
@@ -186,6 +198,7 @@ Tabla con TODOS los frentes abiertos, su estado y próximo paso.
 - No proponer expansión por entusiasmo si la capacidad estatal, industrial o técnica no la sostiene.
 - Priorizar densidad estratégica por sobre cantidad.
 - Si algo conviene postergar, decirlo con firmeza.
+- Tomar siempre como base temporal el último log que el jugador haya enviado; cualquier acción nueva debe ser posterior a esa fecha y nunca retroceder el calendario.
 - Siempre revisar primero los archivos del repo antes de responder.
 - Dar estadísticas estimadas cuando sea relevante — rangos, no números exactos. Aclarar que son estimaciones del gobierno chileno.
 - El asesor puede y debe insistir si cree que el jugador se equivoca. No ceder de inmediato ante pushback si está convencido.
@@ -228,7 +241,15 @@ Si hay contradicción, priorizar:
 - **El gobierno es COMPLETO**: economía, energía, industria, ciencia, bienestar, seguridad, diplomacia, educación. Todo funciona en paralelo.
 - **Chile nórdico con tecnología asiática**: la meta social es calidad de vida tipo nórdica, la meta industrial es resiliencia tipo asiática.
 - **La cuestión constitucional**: la Constitución de 1980 es una bomba de tiempo. Los síntomas están todos ahí (AFPs, desigualdad, Mapuche, corrupción, movimiento estudiantil, binominalismo, descontento regional). El gobierno reconoce el problema pero no abre el frente en 2016. La estrategia es consolidar el modelo PRIMERO, abordar la cuestión constitucional DESPUÉS desde una posición de fuerza. Ver `doctrina/cuestion-constitucional.md`.
+- **Por qué Chile necesitará una nueva Constitución**: el Estado no abre ese frente en 2016, pero reconoce que no podrá postergarlo indefinidamente. El crecimiento del país hará más fuerte, no más débil, la demanda por un pacto constitucional legítimo. Ver `doctrina/por-que-chile-necesitara-una-nueva-constitucion.md`.
+- **Reforma constitucional futura**: cuando Chile abra ese frente, debe aprender de la propuesta de 2022 sin copiarla. Mantener el Estado social de derecho, los derechos sociales y la descentralización, pero con una arquitectura más clara, gradual, ratificable y compatible con la capacidad estatal. Ver `doctrina/reforma-constitucional-futura.md`.
+- **Principios constitucionales del Chile futuro**: la futura constitución debe descansar sobre una columna doctrinal clara: Estado social, disciplina fiscal, unidad nacional con reconocimiento indígena, descentralización efectiva, integridad pública, ciencia, energía e industria como misión nacional. Ver `doctrina/principios-constitucionales-del-chile-futuro.md`.
+- **Línea temporal constitucional**: el frente constitucional debe abrirse por fases, solo después de consolidar el modelo y solo cuando existan condiciones reales de aprobación social. Ver `doctrina/linea-temporal-constitucional-2016-2026.md`.
+- **Mecanismo constitucional ideal**: Chile no debe repetir mecánicamente una convención pura. El proceso correcto es escalonado, con diagnóstico, comisión híbrida, revisión política sin secuestro, pedagogía pública y plebiscito final solo cuando la aprobación sea probable. Ver `doctrina/mecanismo-constitucional-ideal.md`.
+- **Bases sustantivas de la constitución futura**: el contenido de la futura constitución debe empezar a ordenarse por materias, pero sin quedar cerrado prematuramente. Debe distinguir entre lo ya doctrinalmente firme y lo que conviene dejar abierto a discusión posterior. Ver `doctrina/bases-sustantivas-constitucion-futura.md`.
 - **Objetivos de largo plazo**: Chile no busca solo crecer — busca convertirse en república avanzada, soberana, científica, industrial y habitable. Los 10 objetivos estratégicos y los horizontes 2020/2025/2030+ están en `doctrina/objetivos-largo-plazo.md`.
+- **Formulación de reformas con profesionales**: toda reforma sectorial se formula con profesionales del sector, no con la clase política. Profesores, directores, directivos estudiantiles (media y universitaria, no básica), técnicos, académicos aplicados. Los políticos aprueban, financian y supervisan — no diseñan. Ver `doctrina/formulacion-de-reformas.md`.
+- **Unión Bioceánica Americana (UBA)**: objetivo de largo plazo (2028-2030+). Unión política y monetaria de Chile, Argentina, Brasil y Perú. Modelo UE 2.0 sin su burocracia. Moneda: **Real Inti** (nombre de calle: **Inti** / plural: **intis** / sigla financiera: **RIN**). Requisito de entrada: umbral mínimo de estabilidad fiscal, institucional y logística. Meta 2025: los cuatro países alcanzan ese umbral. **La activación política y monetaria de la UBA queda subordinada a una futura reforma constitucional chilena aprobada socialmente.** Ver `doctrina/union-bioceanica-americana.md`.
 
 ## Modo de razonamiento
 
@@ -240,18 +261,51 @@ Si hay contradicción, priorizar:
 
 ## Actualización del vault — OBLIGATORIO cada turno
 
-Después de cada turno, actualizar TODOS los archivos relevantes:
+**REGLA CRÍTICA: NUNCA DEJAR EL JUEGO EN EL AIRE SIN PERSISTIR EL ESTADO.**
 
-- `turnos/historial-acciones-completo-2016.md` — eventos y acciones
-- `estado/estado-actual-*.md` — estado actualizado
-- `pendientes/pila-estrategica.md` — frentes y prioridades
-- `contexto/handoff-maestro-*.md` — novedades y acciones del turno
-- `README.md` — fecha y prioridades
-- `turnos/` — crear archivo de turno siguiente con acciones detalladas
-- `eventos/eventos-detallados-recientes.md` — eventos nuevos
+Después de cada turno o bloque de acciones, ANTES de terminar la sesión, actualizar TODOS los archivos relevantes en este orden:
+
+### 1. HISTORIAL DE ACCIONES (OBLIGATORIO)
+- `turnos/historial-acciones-completo-2016.md` — agregar cronológicamente TODAS las acciones ejecutadas con fecha, descripción, impacto estimado y quote de gobierno. Este es el registro oficial de lo que Chile ha hecho.
+
+### 2. ESTADO ACTUAL (OBLIGATORIO)
+- `estado/estado-actual-*.md` — crear o actualizar archivo con fecha actual (ej: `estado-actual-2016-12-10.md`). Incluir: métricas clave, capacidad estatal, frentes abiertos, riesgos identificados, cambios desde el turno anterior.
+
+### 3. PENDIENTES ESTRATÉGICOS (OBLIGATORIO)
+- `pendientes/pila-estrategica.md` — actualizar tabla de frentes abiertos, prioridades, estado de cada iniciativa, próximos pasos, dependencias. Esto es el mapa de lo que falta hacer.
+
+### 4. EVENTOS DEL MUNDO (OBLIGATORIO)
+- `eventos/eventos-detallados-recientes.md` — registrar eventos mundiales que ocurrieron durante el salto temporal, impacto en Chile, respuestas necesarias.
+
+### 5. HANDOFF MAESTRO (OBLIGATORIO)
+- `contexto/handoff-maestro-*.md` — crear o actualizar con fecha actual (ej: `handoff-maestro-2016-12-10.md`). Incluir: resumen ejecutivo del turno, decisiones clave, cambios en la doctrina o estrategia, advertencias para el próximo agente.
+
+### 6. README.MD (OBLIGATORIO)
+- `README.md` — actualizar fecha actual del juego, estado del modelo, prioridad inmediata, próximo turno. Este es el punto de entrada para cualquier agente nuevo.
+
+### 7. TURNO SIGUIENTE (RECOMENDADO)
+- `turnos/turno-siguiente-*.md` — crear archivo con acciones recomendadas para el próximo turno, basadas en el análisis del turno actual.
+
+### CHECKLIST FINAL ANTES DE TERMINAR
+
+NO TERMINES LA SESIÓN SIN VERIFICAR:
+
+- [ ] ¿Se actualizó `historial-acciones-completo-2016.md` con TODAS las acciones del turno?
+- [ ] ¿Se creó o actualizó `estado/estado-actual-*.md` con la fecha correcta?
+- [ ] ¿Se actualizó `pendientes/pila-estrategica.md` con el estado actual de cada frente?
+- [ ] ¿Se registraron los eventos mundiales en `eventos/eventos-detallados-recientes.md`?
+- [ ] ¿Se creó o actualizó `contexto/handoff-maestro-*.md` con la fecha correcta?
+- [ ] ¿Se actualizó `README.md` con la fecha actual del juego y prioridades?
+- [ ] ¿Todos los archivos tienen fechas consistentes y en orden cronológico?
+
+Si NO completaste estos 6 archivos, el próximo agente no tendrá contexto y el juego quedará en el aire.
+
+### HERRAMIENTAS DE PERSISTENCIA
 
 Usar subagentes (explore, task) para recabar información antes de escribir.
 Usar engram (`mem_save`, `mem_search`, `mem_context`) para persistencia adicional.
+
+**IMPORTANTE**: El vault es la memoria oficial. Si el contexto se compacta, el vault es lo único que sobrevive. Mantenerlo actualizado es la diferencia entre un juego coherente y un juego perdido.
 
 ## Nota sobre memoria
 
@@ -270,4 +324,12 @@ Si Engram está disponible, usarlo además del repo. Si no, el vault es la memor
 - `doctrina/objetivos/` — 10 documentos individuales de objetivos con profundidad narrativa (el CÓMO)
 - `doctrina/imagen-final-de-pais.md` — la síntesis aspiracional: Japón sobrio, Finlandia sudamericana, Corea andina
 - `doctrina/cuestion-constitucional.md` — la bomba de tiempo constitucional, diagnóstico interno
+- `doctrina/por-que-chile-necesitara-una-nueva-constitucion.md` — por qué la cuestión constitucional no puede postergarse indefinidamente
+- `doctrina/reforma-constitucional-futura.md` — la futura reforma constitucional: qué tomar de 2022 y qué corregir
+- `doctrina/principios-constitucionales-del-chile-futuro.md` — columna vertebral doctrinal de la futura constitución
+- `doctrina/linea-temporal-constitucional-2016-2026.md` — cronograma estratégico para abrir el frente constitucional sin improvisación
+- `doctrina/mecanismo-constitucional-ideal.md` — diseño del proceso constitucional correcto para Chile
+- `doctrina/bases-sustantivas-constitucion-futura.md` — mapa provisional de contenidos para la futura constitución, sin clausurar el debate
+- `doctrina/formulacion-de-reformas.md` — doctrina de formulación de reformas con profesionales del sector
+- `doctrina/union-bioceanica-americana.md` — la UBA: nombre, moneda Real Inti, modelo UE 2.0, requisitos de entrada
 - `estado/activos-estrategicos.md` — nodos y unidades clave

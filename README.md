@@ -99,11 +99,11 @@ Con esos 5 archivos, cualquier agente debe poder entender dónde está Chile, qu
 
 ## Estado actual del juego
 
-**Fecha:** 16 de enero de 2017 | **Turno:** 48
+**Fecha:** 6 de febrero de 2017 | **Turno:** 50
 
-**Prioridad inmediata:** 3 acciones enviadas para segunda quincena enero — auditoría PLCs Perú, auditoría Santos/Paranaguá, coordinación Japón/Corea ante China naval.
+**Prioridad inmediata:** 3 acciones enviadas — contrato Santos/Paranaguá (10 feb), PI Alemania (13 feb), medición Reforma 2017 (17 feb).
 
-**Alerta activa:** China aumentó presencia naval en rutas del Pacífico (16 ene). Centro Ciberresiliencia en alerta preventivo. Trazabilidad litio intacta.
+**Alertas activas:** China escala en Taiwán (ALTO). Sindicatos Brasil vs Ventanilla Única. Espionaje industrial SE asiático bloqueado pendiente resolución.
 
 ## Juicio estratégico corto
 

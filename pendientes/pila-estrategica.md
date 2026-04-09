@@ -56,17 +56,17 @@ La secuencia correcta es:
 - resolver la cuestión constitucional con plebiscito exitoso
 - recién después pasar de la integración técnica UBA a su fase político-monetaria
 
-## Prioridades del próximo tramo (segunda quincena enero 2017)
+## Prioridades del próximo tramo (10-17 febrero 2017)
 
-1. Auditoría trimestral PLCs en Perú — validar calidad y soporte remoto (22 ene, ENVIADA).
-2. Completar auditoría capacidad Santos/Paranaguá — habilitar siguiente fase Brasil (25 ene, ENVIADA).
-3. Coordinación técnica Japón/Corea ante China naval — blindar rutas litio (28 ene, ENVIADA).
-4. Soporte técnico a comités legislativos para Reforma 2017 — sin microgestión pero con presencia técnica.
-5. Mantener vigilancia digital elevada — China en alerta preventiva.
+1. Formalizar contrato Santos/Paranaguá antes que sindicatos bloqueen (10 feb, ENVIADA).
+2. Reforzar PI con Alemania — espionaje industrial no resuelto (13 feb, ENVIADA).
+3. Primera medición trimestral Reforma 2017 — datos empíricos para sala (17 feb, ENVIADA).
+4. Monitorear escalada China en Taiwán — protocolos Malaca/Sonda activos.
+5. Gestionar transición laboral Brasil — programa capacitación operadores locales.
 
-## Registro del último tramo ejecutado (24/12–16/01)
+## Registro del último tramo ejecutado (23/01–06/02)
 
-Reforma 2017 ingresada al Congreso el 5 enero. Ventanilla Única Aduanera piloto activada con Brasil — tiempos de despacho de 18h a 4h. India consolidó Nodo Logístico Gujarat con 100 ingenieros certificados en estándar chileno (vs 12 planificados). Estación de Monitoreo Magallanes lanzada — Fase 1 Plan Subantártico. PLCs Perú/Argentina al 99% operatividad. China aumentó presencia naval en rutas del Pacífico — Centro Ciberresiliencia en alerta preventivo, trazabilidad litio intacta. 3 nuevas acciones enviadas para segunda quincena de enero.
+PLCs Perú al 98.5% (auditoría Lima). Santos/Paranaguá con luz verde técnica — Delegación Técnica en Brasilia creada. Terminal Gujarat-Madhya operativo — 200 ingenieros en certificación. Protocolos Malaca/Sonda acordados con Japón/Corea ante escalada China en Taiwán. Reforma 2017 "candados" defendidos en sala. Tercer Índice UBA publicado — Perú lidera. Crisis sindicatos Brasil (riesgo bloqueo). Espionaje industrial bloqueado. Canal Beagle operativo.
 
 ## Lo que conviene postergar si no hay necesidad real
 
@@ -77,29 +77,24 @@ Reforma 2017 ingresada al Congreso el 5 enero. Ventanilla Única Aduanera piloto
 - exportación masiva de microelectrónica más allá de los mercados piloto establecidos
 - lanzamiento anticipado de la Reforma 2017 antes de tener base técnica sólida
 
-## Estado de frentes abiertos al 16 de enero de 2017
+## Estado de frentes abiertos al 6 de febrero de 2017
 
 | Frente | Estado |
 |---|---|
-| Reforma 2017 | 🔄 Ingresada al Congreso el 5 ene — proceso legislativo activo |
-| Corredor bioceánico | ✅ Trazabilidad Mato Grosso-Valparaíso al 99.8% |
-| Ventanilla Única Aduanera Brasil | 🔄 Piloto activo desde 8 ene — 18h a 4h en despacho |
-| Brasil — Expansión a Santos/Paranaguá | 🔄 Auditoría capacidad en curso (acción 25 ene enviada) |
-| Perú — Misión en Lima | ✅ Operativa, 50 PLCs al 99% operatividad |
-| Perú — Auditoría trimestral PLCs | 🔄 Acción 22 ene enviada |
-| Perú — Convergencia UBA | ✅ 78% (umbral de entrada alcanzado) |
-| India — Nodo Logístico Gujarat | ✅ 100 ingenieros certificados en estándar chileno |
+| Reforma 2017 | 🔄 Debate en sala — "candados" defendidos, medición trimestral 17 feb |
+| Santos/Paranaguá | 🔄 Contrato formal pendiente (10 feb, ENVIADA) |
+| Brasil — sindicatos | ⚠️ Programa capacitación local como respuesta |
+| Corredor bioceánico | ✅ 99.8% — alternativa estable global |
+| PLCs Perú | ✅ 98.5% operatividad confirmado |
+| India — Gujarat-Madhya | ✅ Terminal creado, 200 ingenieros en certificación |
 | India — Supervisión operativa | 🔄 Asunción marzo 2017 |
-| Japón / Corea | 🔄 Coordinación protocolos ante China (acción 28 ene enviada) |
-| China — Presencia naval | ⚠️ Alerta preventiva — litio intacto, redundancia activa |
-| Plan Subantártico Fase 1 | 🔄 Lanzado — 3 estaciones operativas en marzo 2017 |
-| Bienestar territorial | 🔄 Expandiéndose a nuevos polos |
-| Economía azul | ✅ Red de Monitoreo Costero activa |
-| Ciberresiliencia | ⚠️ Alerta preventiva por China naval |
-| Agua Negra | ✅ Mantenimiento preventivo activo |
-| Fondo de Compensación UBA | ✅ Operativo con USD 150 millones |
-| Tercer Índice Convergencia UBA | 🟡 Pendiente Q1 2017 |
-| Antártica / glaciares | 🟡 Plan Subantártico iniciado |
+| Japón / Corea | ✅ Protocolos Malaca/Sonda acordados |
+| China — Taiwán | ⚠️ ALTO — escalada sin precedentes |
+| Espionaje industrial | ⚠️ Bloqueado — PI Alemania reforzado (13 feb, ENVIADA) |
+| Tercer Índice UBA | ✅ Publicado — presión técnica activa |
+| Plan Subantártico | 🔄 Canal Beagle operativo |
+| Agua Negra | ✅ 99.8% precisión sensores |
+| Fondo Compensación UBA | ✅ USD 150 millones operativo |
 
 ---
 

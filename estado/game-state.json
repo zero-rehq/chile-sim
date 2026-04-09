@@ -1,45 +1,27 @@
 {
-  "fecha_actual": "2017-01-23",
-  "turno_actual": 49,
-  "ultimo_estado": "estado/estado-actual-2017-01-23.md",
-  "ultimo_handoff": "contexto/handoff-maestro-2017-01-23.md",
-  "frentes_activos_count": 12,
-  "riesgo_externo": "MEDIO-ALTO",
+  "fecha_actual": "2017-02-06",
+  "turno_actual": 50,
+  "ultimo_estado": "estado/estado-actual-2017-02-06.md",
+  "ultimo_handoff": "contexto/handoff-maestro-2017-02-06.md",
+  "frentes_activos_count": 13,
+  "riesgo_externo": "ALTO",
   "acciones_pendientes": [
     {
-      "id": 5,
-      "fecha": "2017-01-22",
-      "titulo": "Primera auditoría trimestral de PLCs en Perú",
+      "id": 11,
+      "fecha": "2017-02-10",
+      "titulo": "Formalizar expansión software portuario a Santos y Paranaguá",
       "estado": "ENVIADA"
     },
     {
-      "id": 6,
-      "fecha": "2017-01-25",
-      "titulo": "Auditoría de capacidad de soporte para Santos y Paranaguá",
+      "id": 12,
+      "fecha": "2017-02-13",
+      "titulo": "Reforzar protocolos de PI con Alemania ante espionaje industrial",
       "estado": "ENVIADA"
     },
     {
-      "id": 7,
-      "fecha": "2017-01-28",
-      "titulo": "Coordinación técnica con Japón y Corea ante presencia naval china",
-      "estado": "ENVIADA"
-    },
-    {
-      "id": 8,
-      "fecha": "2017-01-30",
-      "titulo": "Formalizar expansión Transferencia Operativa Nivel 2 a Gujarat-Madhya",
-      "estado": "ENVIADA"
-    },
-    {
-      "id": 9,
-      "fecha": "2017-02-01",
-      "titulo": "Soporte técnico al debate en sala de la Reforma 2017",
-      "estado": "ENVIADA"
-    },
-    {
-      "id": 10,
-      "fecha": "2017-02-05",
-      "titulo": "Publicar tercer Índice de Convergencia UBA",
+      "id": 13,
+      "fecha": "2017-02-17",
+      "titulo": "Primera medición trimestral Reforma 2017 en 45 liceos piloto",
       "estado": "ENVIADA"
     }
   ]

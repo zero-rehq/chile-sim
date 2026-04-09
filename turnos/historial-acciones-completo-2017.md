@@ -65,7 +65,7 @@ República Popular China incrementó presencia naval cerca de rutas comerciales 
 
 ### Acción 5: Primera auditoría trimestral de PLCs en Perú
 
-**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
+**[ESTADO: EJECUTADA]** — 24 ene: 98.5% operatividad en Lima confirmado. Misión Técnica Fiscal en Lima actualizada con etiquetas Auditoría + Tecnología + Chile-Perú.
 
 **Action Date: 2017-01-22 / Chile ejecuta la primera auditoría trimestral de PLCs en Perú.** La AIIEE despliega un equipo técnico de 6 auditores desde el Parque Industrial Atacama hacia Lima y las instalaciones de infraestructura hídrica donde operan los 50 PLCs certificados. La auditoría incluye verificación de operatividad en condiciones reales, revisión del soporte remoto activado por la Misión Técnica en Lima, y validación de que los estándares de calidad se mantienen al 98% o superior. El Ministerio de Economía utiliza los resultados como base de negociación para la expansión del contrato con Perú y como argumento técnico ante Brasil. El Director de la AIIEE declara: "No vendemos confianza, la medimos. Cada auditoría es la prueba de que el modelo funciona fuera del laboratorio."
 
@@ -73,7 +73,7 @@ República Popular China incrementó presencia naval cerca de rutas comerciales 
 
 ### Acción 6: Auditoría de capacidad de soporte para Santos y Paranaguá
 
-**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
+**[ESTADO: EJECUTADA]** — 26 ene: Informe favorable. Delegación Técnica en Brasilia creada. Capacidad confirmada sin degradar Perú.
 
 **Action Date: 2017-01-25 / Chile completa auditoría de capacidad de soporte para Santos y Paranaguá.** El Cuerpo Técnico de Despliegue Internacional evalúa la dotación actual del Parque Industrial Atacama para determinar si puede sostener soporte remoto a dos puertos brasileños de gran escala sin degradar la calidad del servicio existente en Perú y Argentina. La auditoría considera: cantidad de técnicos certificados disponibles, tiempos de respuesta actuales, capacidad de producción de PLCs y módulos de control, y proyección de demanda 2017-2018. El Ministerio de Economía declara: "Chile no promete lo que no puede sostener. La auditoría es el filtro. Si pasa, avanzamos. Si no, esperamos."
 
@@ -81,7 +81,7 @@ República Popular China incrementó presencia naval cerca de rutas comerciales 
 
 ### Acción 7: Coordinación técnica con Japón y Corea ante presencia naval china
 
-**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
+**[ESTADO: EJECUTADA]** — 28 ene: Protocolos Malaca/Sonda acordados en Santiago. China escala sin precedentes en Taiwán (27 ene). Litio y cobre ruteados por alternativas.
 
 **Action Date: 2017-01-28 / Chile coordina protocolos de continuidad con Japón y Corea ante presencia naval china.** El Ministerio de Relaciones Exteriores convoca reunión técnica con embajadas de Japón y Corea en Santiago para revisar los Protocolos de Continuidad Operativa firmados en 2016. El Centro de Ciberresiliencia Transpacífico comparte datos de trazabilidad en tiempo real y propone actualizar acuerdos de redireccionamiento de carga mediante rutas alternativas (Malaca, Sonda, Lombok). El objetivo no es confrontar a China — es garantizar que el litio chileno llegue a Japón y Corea independientemente de maniobras navales. El Canciller declara: "Chile no toma partido en tensiones entre potencias. Chile garantiza continuidad. Eso nos hace valiosos para todos."
 
@@ -90,7 +90,7 @@ República Popular China incrementó presencia naval cerca de rutas comerciales 
 
 ### Acción 8: Formalizar expansión Gujarat-Madhya India
 
-**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
+**[ESTADO: EJECUTADA]** — 30 ene: Terminal Certificado Gujarat-Madhya creado. 200 ingenieros en certificación total.
 
 **Action Date: 2017-01-30 / Chile formaliza la expansión de la Transferencia Operativa Nivel 2 a Gujarat-Madhya.** La AIIEE, en coordinación con la Misión Técnica en Mumbai, acepta formalmente la solicitud india de ampliar la certificación a los terminales de Gujarat-Madhya. El programa replica la estructura ya validada: 6 semanas de capacitación cruzada, documentación en español e inglés, certificación de competencias bajo estándar chileno. El Fondo de Compensación de Primas de Riesgo cubre la estabilización de costos ante volatilidad china. El Ministerio de Relaciones Exteriores informa: "India no adoptó el estándar chileno porque se lo vendimos — lo adoptó porque funciona bajo presión. Eso vale más que cualquier contrato."
 
@@ -98,7 +98,7 @@ República Popular China incrementó presencia naval cerca de rutas comerciales 
 
 ### Acción 9: Soporte técnico al debate en sala de la Reforma 2017
 
-**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
+**[ESTADO: EJECUTADA]** — 2 feb: Técnicos frenaron intentos de reasignación de fondos en sala. "Candados" fiscales intactos. Enfoque profesional desarmó críticas.
 
 **Action Date: 2017-02-01 / Chile activa soporte técnico al debate en sala de la Reforma 2017.** La Secretaría del Acuerdo Nacional 2017 despliega equipos técnicos en el Congreso para acompañar el debate en sala con datos empíricos: proyecciones fiscales del Ministerio de Hacienda, resultados de la primera cohorte de 500 docentes capacitados, y validación internacional de los estándares por Alemania, Japón y Corea. El objetivo no es lobby político — es garantizar que los legisladores tengan los datos correctos para no degradar los "candados" legales de financiamiento. El Ministerio de Educación declara: "La Reforma 2017 fue diseñada por profesionales, no por políticos. Que los políticos la aprueben — pero sin tocar la ingeniería fiscal."
 
@@ -106,6 +106,32 @@ República Popular China incrementó presencia naval cerca de rutas comerciales 
 
 ### Acción 10: Publicar tercer Índice de Convergencia UBA
 
-**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
+**[ESTADO: EJECUTADA]** — 5 feb: Tercer Índice publicado. Perú lidera convergencia fiscal. Brasil reducción histórica en despacho. Centro de Coordinación Bioceánica escala a 1.3x.
 
 **Action Date: 2017-02-05 / Chile publica el tercer Índice de Convergencia UBA.** El Centro de Coordinación Bioceánica, en coordinación con las Misiones Técnicas en Lima y Mato Grosso, publica el tercer Índice de Convergencia UBA con métricas actualizadas a enero 2017. El informe incluye: convergencia fiscal de Perú avanzando con métricas espejo, impacto de la Ventanilla Única Aduanera en las métricas logísticas de Brasil, y proyecciones actualizadas para Argentina. La publicación es técnica, no política — cifras, no discursos. El Centro de Coordinación Bioceánica declara: "El Índice no es un ranking — es un espejo. Cada socio ve exactamente a qué distancia está del umbral. La presión es la transparencia."
+
+---
+
+## Acciones propuestas — tramo febrero 2017 (turno 50)
+
+### Acción 11: Formalizar expansión de software portuario a Santos y Paranaguá
+
+**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
+
+**Action Date: 2017-02-10 / Chile formaliza la expansión de software portuario a Santos y Paranaguá.** La AIIEE, en coordinación con la Delegación Técnica en Brasilia y el Ministerio de Transportes, firma el contrato de implementación de software logístico en los puertos de Santos y Paranaguá. El despliegue comenzará con un equipo de 4 técnicos del Cuerpo Técnico de Despliegue Internacional, con rotación trimestral. Se contempla explícitamente un programa de capacitación para operadores locales brasileños, diseñado para responder a las preocupaciones sindicales sin comprometer los estándares técnicos. El Ministerio de Economía declara: "La eficiencia no destruye empleos — transforma el perfil de los empleos. Un despachante capacitado en trazabilidad digital vale más que uno en papel."
+
+---
+
+### Acción 12: Reforzar protocolos de PI con Alemania ante espionaje industrial
+
+**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
+
+**Action Date: 2017-02-13 / Chile y Alemania refuerzan protocolos de protección de PI ante espionaje industrial.** La Secretaría Técnica Chileno-Alemana y el Centro de Ciberresiliencia Transpacífico implementan un protocolo conjunto de auditoría de accesos y encriptación reforzada para los documentos técnicos compartidos. Se establece un canal seguro de comunicación para el intercambio de estándares Industrie 4.0 y se documenta formalmente el incidente de enero ante la Unión Europea como actor afectado. El Director del Centro de Ciberresiliencia declara: "El ataque no fue contra Chile solo — fue contra la alianza. Responder juntos es más eficiente y más barato que responder solos."
+
+---
+
+### Acción 13: Primera medición trimestral Reforma 2017 en 45 liceos piloto
+
+**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
+
+**Action Date: 2017-02-17 / Chile lanza primera medición trimestral Reforma 2017 en 45 liceos piloto.** El Ministerio de Educación, a través de la Secretaría del Acuerdo Nacional 2017, activa el sistema de seguimiento ciudadano con métricas trimestrales en los 45 liceos técnicos piloto. La primera medición incluye: tasa de asistencia a módulos duales, porcentaje de acuerdos con empresas del sector, y evaluación docente del primer cohorte capacitado. Los datos son públicos — accesibles para legisladores, gremios y ciudadanos. El Ministerio de Educación declara: "La transparencia no es debilidad — es la diferencia entre una reforma y un decreto. Si los datos son malos, los corregimos. Si son buenos, los publicamos."

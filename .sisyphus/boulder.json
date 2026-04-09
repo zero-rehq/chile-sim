@@ -1,25 +1,23 @@
 {
-  "active_plan": null,
-  "started_at": "2026-04-09T11:25:10.492Z",
-  "completed_at": "2026-04-09T13:52:00.000Z",
+  "active_plan": "/home/zero-rehq/chile-sim/.sisyphus/plans/paxhistoria-realism-upgrade.md",
+  "started_at": "2026-04-09T13:43:54.004Z",
   "session_ids": [
     "ses_291d77398ffebvjGfQkHZIoMon"
   ],
   "session_origins": {
     "ses_291d77398ffebvjGfQkHZIoMon": "direct"
   },
-  "plan_name": "vault-upgrade-v2",
-  "agent": "Sisyphus (Ultraworker)",
-  "status": "completed",
-  "tasks_completed": 30,
-  "tasks_total": 30,
-  "verification": {
-    "json_valid": true,
-    "snapshots": 5,
-    "mini_agents": 3,
-    "delta_section": true,
-    "confidence_markers": true,
-    "wisdom": true,
-    "nodos_dios": 7
+  "plan_name": "paxhistoria-realism-upgrade",
+  "agent": "atlas",
+  "task_sessions": {
+    "todo:0": {
+      "task_key": "todo:0",
+      "task_label": "0",
+      "task_title": "Reconocimiento: verificar formato PREVIOUS_STAGE_OUTPUT",
+      "session_id": "ses_28d81828fffeZ2HcUE8wcRGxzZ",
+      "agent": "Sisyphus-Junior",
+      "category": "deep",
+      "updated_at": "2026-04-09T13:49:15.359Z"
+    }
   }
 }

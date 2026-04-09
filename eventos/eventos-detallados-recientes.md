@@ -347,3 +347,73 @@ Sensores oceanográficos calibrados en Isla Navarino. Monitoreo en tiempo real d
 ### Peso chileno — moneda más resiliente de la región
 
 Analistas internacionales atribuyen la estabilidad al Fondo de Compensación de Primas de Riesgo que evita que tensiones en Taiwán se trasladen a inflación interna.
+
+---
+
+## 24 de enero de 2017
+
+### Auditoría PLCs Lima — 98.5% operatividad
+
+AIIEE completó primera auditoría trimestral en instalaciones hídricas de Lima. 98.5% operatividad confirma estándar chileno bajo condiciones reales. Posición de Chile para negociar expansión en la región andina y Brasil fortalecida.
+
+## 26 de enero de 2017
+
+### Informe favorable capacidad Santos y Paranaguá
+
+Delegación Técnica en Brasilia creada. Informe confirma dotación suficiente para escalar a dos puertos brasileños sin degradar servicio existente en Perú. "Filtro de seguridad" pasado.
+
+## 27-28 de enero de 2017
+
+### China escala patrullas navales en Estrecho de Taiwán
+
+Despliegue sin precedentes de fragatas y destructores. EEUU condenó, Taiwán en alerta. Protocolos Malaca/Sonda acordados con Japón y Corea en Santiago (28 ene) por Chile.
+
+## 29 de enero de 2017
+
+### Crisis de gabinete en Brasil — sindicatos vs Ventanilla Única
+
+Sectores del transporte tradicional protestaron en Brasilia. Eficiencia innegable pero velocidad genera fricción con sindicatos de despachantes. Exigen transición más lenta para proteger empleos administrativos.
+
+**Impacto para Chile:** Riesgo político de bloqueo a expansión Santos/Paranaguá si gobierno federal cede. Chile debe activar programa de capacitación local como respuesta.
+
+## 30 de enero de 2017
+
+### Terminal Certificado Gujarat-Madhya creado
+
+Chile formalizó expansión Transferencia Operativa Nivel 2 a Gujarat-Madhya. Fondo de Compensación de Primas de Riesgo neutraliza volatilidad logística china. 200 ingenieros en certificación total.
+
+## 31 de enero de 2017
+
+### Espionaje industrial — intento de acceso a Secretaría Chileno-Alemana
+
+UE investiga red de espionaje sobre estándares Industrie 4.0. Chile detectó intentos de acceso no autorizados desde servidores SE asiático y reforzó firewalls. Incidente bloqueado, no resuelto.
+
+## 1 de febrero de 2017
+
+### Rusia finaliza Puerto de Aguas Profundas en Yamal
+
+Consolidación de dominio ártico ruso con terminal GNL. Interés global en rutas marítimas alternativas — beneficia al Corredor Bioceánico como alternativa estable.
+
+## 2 de febrero de 2017
+
+### "Candados" fiscales Reforma 2017 defendidos en sala
+
+Secretaría del Acuerdo Nacional frenó intentos de reasignación de fondos en debate en sala. Enfoque profesional con datos empíricos desarmó críticas políticas.
+
+## 4 de febrero de 2017
+
+### Incidentes fronterizos Europa del Este
+
+Tensiones Polonia-Bielorrusia cierran pasos terrestres temporalmente. Incrementa interés global en rutas marítimas seguras. Corredor Bioceánico posicionado como alternativa estable.
+
+## 5 de febrero de 2017
+
+### Tercer Índice de Convergencia UBA publicado
+
+Centro de Coordinación Bioceánica (escala 1.3x) publica tercer Índice. Perú lidera convergencia fiscal con métricas espejo. Brasil logra reducción histórica en tiempos de despacho por Ventanilla Única. Presión técnica sobre Argentina activada.
+
+## 6 de febrero de 2017
+
+### Primer sensor de profundidad en Canal Beagle instalado
+
+Hito Plan de Modernización Subantártica. Chile lidera monitoreo climático en el extremo sur. Proyección hacia la Antártica fortalecida.

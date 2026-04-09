@@ -1,8 +1,14 @@
 # Diplomacia, socios y líneas abiertas
 
+## Leyenda de marcadores de confianza
+
+- `[FIRME]` — acuerdo ejecutado, operativo, con resultados medibles y continuidad asegurada
+- `[EN NEGOCIACIÓN]` — propuesta enviada o piloto acordado, sin cierre formal ni compromisos plurianuales
+- `[ESPECULATIVA]` — horizonte estratégico, sin compromiso formal ni acción concreta en curso
+
 ## Frentes ya cerrados o muy maduros
 
-### India
+### India `[FIRME]`
 
 Aceptado y consolidado:
 
@@ -13,16 +19,32 @@ Aceptado y consolidado:
 - actualización
 - protección de PI
 
-### Argentina / Brasil / Perú
+### Argentina `[FIRME]`
 
 Aceptado y consolidado:
 
-- centro técnico permanente del corredor
-- carácter técnico y no burocrático
-- coordinación operativa continua
-- interoperabilidad aduanera y energética
+- Red de Interoperabilidad Regional operativa
+- sincronización energética andina en curso
+- interoperabilidad aduanera y logística
 
-### Japón / Corea
+### Perú `[FIRME]`
+
+Aceptado y consolidado:
+
+- Misión Técnica en Lima operativa
+- 50 PLCs en operación con soporte remoto garantizado 5 años
+- Protocolo Callao formalizado
+- convergencia UBA al 78% (umbral de entrada alcanzado)
+
+### Brasil `[EN NEGOCIACIÓN]`
+
+En proceso de consolidación:
+
+- Grupo de Trabajo Conjunto para Métricas en Reales operativo
+- Ventanilla Única Aduanera aceptada en fase piloto (febrero-marzo 2017)
+- expansión a Santos y Paranaguá en auditoría de capacidad
+
+### Japón / Corea `[FIRME]`
 
 Aceptado y consolidado:
 
@@ -33,14 +55,22 @@ Aceptado y consolidado:
 - ciberresiliencia
 - protección recíproca de PI
 
-### Alemania
+### Alemania `[EN NEGOCIACIÓN]`
 
-Enlace útil para:
+Enlace activo pero sin cierre formal:
 
-- estándares industriales
-- energía
-- hidrógeno verde
-- formación técnica tipo Industrie 4.0
+- Secretaría Técnica Chileno-Alemana operativa
+- estándares industriales Industrie 4.0
+- energía e hidrógeno verde
+- formación técnica dual
+
+### UBA — Unión Bioceánica Americana `[ESPECULATIVA]`
+
+Horizonte estratégico a largo plazo:
+
+- activación política y monetaria subordinada a reforma constitucional chilena
+- Centro de Coordinación Bioceánica actúa como embrión institucional
+- Fondo de Compensación UBA operativo como palanca técnica
 
 ## Regla diplomática central
 

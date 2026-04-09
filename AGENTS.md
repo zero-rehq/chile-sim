@@ -215,11 +215,13 @@ El asesor vive en este mundo. No sabe todo con precisión. Usar la información 
 ## Orden de lectura para cualquier agente nuevo
 
 1. `README.md`
-2. `estado/estado-actual-2016-09-03.md` (o el más reciente)
+2. `estado/` — el archivo **más reciente** (buscar por fecha en el nombre)
 3. `pendientes/pila-estrategica.md`
 4. `diplomacia/acuerdos-y-canales.md`
 5. `turnos/` — el turno actual y el siguiente
-6. `contexto/handoff-maestro-2016-08-27.md`
+6. `contexto/` — el `handoff-maestro-*` **más reciente** (buscar por fecha en el nombre)
+
+**IMPORTANTE**: Nunca usar fechas hardcodeadas para buscar estos archivos. Siempre buscar el más reciente en cada carpeta. Las fechas cambian cada turno.
 
 ## Fuente de verdad documental
 
@@ -228,7 +230,7 @@ Si hay contradicción, priorizar:
 1. archivo más reciente en `estado/`
 2. archivo del turno actual en `turnos/`
 3. `pendientes/pila-estrategica.md`
-4. `contexto/handoff-maestro-2016-08-27.md`
+4. archivo más reciente en `contexto/handoff-maestro-*`
 5. resúmenes históricos
 
 ## Qué no olvidar nunca
@@ -265,8 +267,24 @@ Si hay contradicción, priorizar:
 
 Después de cada turno o bloque de acciones, ANTES de terminar la sesión, actualizar TODOS los archivos relevantes en este orden:
 
+### REGLA DE ESTADOS DE ACCIONES (OBLIGATORIO)
+
+Toda acción propuesta al jugador debe registrarse INMEDIATAMENTE en el historial con el estado `[ESTADO: ENVIADA]`. Cuando el simulador resuelve el turno y el jugador confirma ejecución, actualizar a `[ESTADO: EJECUTADA]`.
+
+**Formato en historial:**
+```
+**[ESTADO: ENVIADA]** Action Date: 2016-12-25 / Acción X...
+```
+
+Después de confirmación:
+```
+**[ESTADO: EJECUTADA]** Action Date: 2016-12-25 / Acción X...
+```
+
+Esta distinción es doctrina oficial del vault. Permite rastrear qué fue propuesto vs. qué fue realmente ejecutado.
+
 ### 1. HISTORIAL DE ACCIONES (OBLIGATORIO)
-- `turnos/historial-acciones-completo-2016.md` — agregar cronológicamente TODAS las acciones ejecutadas con fecha, descripción, impacto estimado y quote de gobierno. Este es el registro oficial de lo que Chile ha hecho.
+- `turnos/historial-acciones-completo-2016.md` (y `turnos/historial-acciones-completo-2017.md` cuando corresponda) — agregar cronológicamente TODAS las acciones ejecutadas con fecha, descripción, impacto estimado y quote de gobierno. Cada acción debe incluir su estado: `[ESTADO: ENVIADA]` al proponer, `[ESTADO: EJECUTADA]` al confirmar. Este es el registro oficial de lo que Chile ha hecho.
 
 ### 2. ESTADO ACTUAL (OBLIGATORIO)
 - `estado/estado-actual-*.md` — crear o actualizar archivo con fecha actual (ej: `estado-actual-2016-12-10.md`). Incluir: métricas clave, capacidad estatal, frentes abiertos, riesgos identificados, cambios desde el turno anterior.
@@ -312,6 +330,76 @@ Usar engram (`mem_save`, `mem_search`, `mem_context`) para persistencia adiciona
 Si el contexto se pierde, usar este repo como memoria persistente local. El vault está diseñado para que los agentes no dependan de memoria efímera.
 
 Si Engram está disponible, usarlo además del repo. Si no, el vault es la memoria oficial.
+
+---
+
+## Vault Upgrade V2 — Estructura extendida
+
+### Game-state boulder
+
+`estado/game-state.json` es el punto de entrada rápido para cualquier agente nuevo.
+Contiene: `fecha_actual`, `turno_actual`, `frentes_activos_count`, `riesgo_externo`, y `acciones_pendientes`.
+
+**Actualizar después de cada turno** con la nueva fecha y el estado de las acciones.
+NO confundir con `.sisyphus/boulder.json` — ese es el tracker del sistema Sisyphus, no del juego.
+
+### Snapshots sectoriales
+
+`snapshots/` contiene 5 archivos JSON con estado cuantitativo por sector:
+- `energia.json` — solar, eólica, smart grid, hidrógeno, nodo Biobío
+- `industria.json` — Parque Atacama, PLCs exportados, cumplimiento de estándares
+- `diplomacia.json` — estado por socio con nivel de confianza
+- `fiscal.json` — peso, regla fiscal, fondos soberanos
+- `logistica.json` — corredor, trazabilidad, Ventanilla Única, Agua Negra
+
+**Actualizar después de cada turno** con datos reales del vault.
+Validar con `python3 -m json.tool` antes de commitear.
+
+### Delta entre turnos
+
+Cada archivo `estado/estado-actual-YYYY-MM-DD.md` debe comenzar con una sección
+`## Qué cambió desde el turno anterior` en las primeras 20 líneas.
+Listar: nodos nuevos, relaciones nuevas, cambios de estado, riesgos nuevos.
+Mínimo 3 cambios concretos. Sin esta sección, el archivo no está completo.
+
+### Marcadores de confianza diplomática
+
+Cada relación en `diplomacia/acuerdos-y-canales.md` debe tener un marcador:
+- `[FIRME]` — operativo, resultados medibles, continuidad asegurada
+- `[EN NEGOCIACIÓN]` — piloto o propuesta en curso, sin cierre formal
+- `[ESPECULATIVA]` — horizonte estratégico, sin compromiso formal
+
+Ver leyenda completa al inicio de `diplomacia/acuerdos-y-canales.md`.
+
+### Wisdom accumulation
+
+`contexto/wisdom.md` acumula lecciones aprendidas del proceso de gobierno.
+Estructura: Convenciones | Éxitos | Riesgos | Gotchas.
+Cada entrada tiene: fecha, dominio, lección.
+Agregar entradas cuando se descubra algo no obvio. Máximo 100 líneas.
+
+### Nodos dios
+
+`estado/nodos-dios.md` documenta los 7 pilares críticos del modelo chileno.
+Para cada nodo: descripción, qué depende de él, qué pasa si falla, conexiones.
+Revisar cuando se abra o cierre un frente que afecte a estos nodos.
+
+### Mini-AGENTS.md jerárquicos
+
+Cada subdirectorio tiene su propio AGENTS.md con reglas específicas (≤25 líneas):
+- `diplomacia/AGENTS.md` — reglas de formato de chats, marcadores de confianza
+- `doctrina/AGENTS.md` — qué es inmutable, qué es adaptable, cómo leer
+- `estado/AGENTS.md` — cómo interpretar game-state.json, snapshots, delta, nodos-dios
+
+Los mini-AGENTS.md complementan este archivo raíz. No lo contradicen ni lo reemplazan.
+
+### Regla de actualización post-turno (vault upgrade v2)
+
+Después de cada turno, además de los 6 archivos obligatorios del vault, actualizar:
+1. `estado/game-state.json` — nueva fecha, nuevas acciones pendientes
+2. `snapshots/*.json` — métricas actualizadas por sector
+3. Si hubo cambio diplomático: `diplomacia/acuerdos-y-canales.md` con marcadores
+4. Si hubo lección nueva: agregar entrada a `contexto/wisdom.md`
 
 ## Archivos útiles
 

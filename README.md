@@ -6,7 +6,7 @@
 
 Después de cada turno o bloque de acciones, el agente DEBE actualizar estos archivos en orden:
 
-1. **`turnos/historial-acciones-completo-2016.md`** — agregar TODAS las acciones ejecutadas con fecha, descripción e impacto
+1. **`turnos/historial-acciones-completo-2016.md`** (y `turnos/historial-acciones-completo-2017.md` cuando corresponda) — agregar TODAS las acciones ejecutadas con fecha, descripción e impacto. **Cada acción debe incluir su estado: `[ESTADO: ENVIADA]` al proponer, `[ESTADO: EJECUTADA]` al confirmar.**
 2. **`estado/estado-actual-*.md`** — crear o actualizar con fecha actual (ej: `estado-actual-2016-12-10.md`)
 3. **`pendientes/pila-estrategica.md`** — actualizar tabla de frentes, prioridades y estado
 4. **`eventos/eventos-detallados-recientes.md`** — registrar eventos mundiales y respuestas
@@ -17,48 +17,85 @@ Después de cada turno o bloque de acciones, el agente DEBE actualizar estos arc
 
 Ver checklist completo en `AGENTS.md` sección "Actualización del vault — OBLIGATORIO cada turno".
 
-## Dashboard estratégico
+## Regla de estados de acciones (DOCTRINA OFICIAL)
 
-- **Fecha actual del juego:** 24 de diciembre de 2016 — cierre de año con consolidación de éxito
-- **Próximo turno:** a partir del 25 de diciembre de 2016 / enero 2017
-- **Doctrina guía:** consolidar antes de expandir
-- **Estado del modelo:** Reforma 2017 blindada jurídicamente y lista para ingreso legislativo en enero 2017, Perú integrado con Misión Técnica en Lima y contrato de 50 PLCs en operación (convergencia 78% hacia UBA), Brasil publicando métricas en reales y aceptando Ventanilla Única Aduanera en fase piloto, Fondo de Compensación UBA operativo con USD 150 millones, trazabilidad Mato Grosso-Valparaíso al 99.8%, Incidente en Taiwán superado mediante Plan de Redundancia Estratégica, peso chileno estable en 650-655 pesos por dólar, **India en Transferencia Operativa Nivel 2 con capacitación de 12 ingenieros iniciada (certificación en febrero 2017)**
-- **Prioridad inmediata:** ingreso legislativo de Reforma 2017 en enero 2017, implementación en 45 liceos técnicos piloto, fase piloto de Ventanilla Única Aduanera con Brasil (febrero-marzo 2017), completar capacitación de ingenieros indios (certificación febrero 2017), mantener vigilancia digital ante tensiones en Asia oriental, construir UBA técnicamente hasta reforma constitucional chilena
+Toda acción propuesta al jugador se registra con un estado que refleja su ciclo de vida:
+
+- **`[ESTADO: ENVIADA]`** — La acción fue propuesta al jugador y está lista para ejecutarse en el próximo salto temporal
+- **`[ESTADO: EJECUTADA]`** — El simulador resolvió el turno, el jugador confirmó, y la acción ocurrió en el mundo del juego
+
+**Formato en el historial:**
+```
+**[ESTADO: ENVIADA]** Action Date: 2016-12-25 / Chile inicia...
+**[ESTADO: EJECUTADA]** Action Date: 2016-12-25 / Chile inicia...
+```
+
+Esta distinción es obligatoria. Permite rastrear qué fue propuesto versus qué fue realmente ejecutado, y es crítica para la coherencia del vault cuando el contexto se compacta o un nuevo agente retoma el juego.
+
+## ⚠️ STATELESS: Este vault es la ÚNICA memoria del juego
+
+**El agente NO tiene memoria de sesiones anteriores.** Cada vez que un agente nuevo (o el mismo tras compactación) retoma el juego, SOLO cuenta con lo que está escrito en estos archivos. Si algo no está en el vault, no existe.
+
+**Orden de lectura obligatorio para cualquier agente:**
+1. Este `README.md` (orientación general)
+2. `estado/` → el archivo **más reciente** por fecha en el nombre
+3. `pendientes/pila-estrategica.md`
+4. `contexto/` → el `handoff-maestro-*` **más reciente** por fecha en el nombre
+5. `turnos/` → el historial de acciones del año en curso
+
+Con esos 5 archivos, cualquier agente debe poder entender dónde está Chile, qué se hizo, qué falta y qué viene.
 
 ## Navegación rápida
 
-- [[doctrina/vision-doctrinal|Visión doctrinal y plan país]]
-- [[doctrina/objetivos-largo-plazo|Objetivos de largo plazo (2020/2025/2030+)]]
-- [[doctrina/imagen-final-de-pais|Imagen final de país]]
-- [[doctrina/cuestion-constitucional|La cuestión constitucional]]
-- [[doctrina/por-que-chile-necesitara-una-nueva-constitucion|Por qué Chile necesitará una nueva constitución]]
-- [[doctrina/reforma-constitucional-futura|Reforma constitucional futura]]
-- [[doctrina/principios-constitucionales-del-chile-futuro|Principios constitucionales del Chile futuro]]
-- [[doctrina/linea-temporal-constitucional-2016-2026|Línea temporal constitucional 2016-2026]]
-- [[doctrina/mecanismo-constitucional-ideal|Mecanismo constitucional ideal para Chile]]
-- [[doctrina/bases-sustantivas-constitucion-futura|Bases sustantivas de la constitución futura]]
-- [[estado/estado-actual-2016-12-24|Estado actual al 24 de diciembre de 2016]]
-- [[estado/activos-estrategicos|Activos, nodos y unidades clave]]
-- [[turnos/historial-acciones-completo-2016|Historial completo de acciones 2016]]
-- [[eventos/eventos-detallados-recientes|Eventos detallados recientes]]
-- [[diplomacia/acuerdos-y-canales|Diplomacia, socios y líneas abiertas]]
-- [[diplomacia/chats-recientes|Chats diplomáticos recientes]]
-- [[pendientes/pila-estrategica|Pendientes estratégicos y frentes abiertos]]
-- [[pendientes/reforma-2017|Reforma 2017]]
-- [[doctrina/formulacion-de-reformas|Doctrina de formulación de reformas]]
-- [[doctrina/union-bioceanica-americana|Unión Bioceánica Americana — Real Inti]]
-- [[contexto/handoff-maestro-2016-12-24|Handoff maestro persistido]]
-- [[contexto/resumenes-historicos-por-tramos|Resúmenes históricos por tramos]]
-- [[contexto/estado-del-mapa-y-unidades-2016-09-03|Estado del mapa y unidades al 2016-09-03]]
-- [[contexto/situacion-del-mundo-2016-09-03|Situación del mundo al 2016-09-03]]
-- [[turnos/2016-09-03-turno-actual|Turno ejecutado 2016-09-03]]
-- [[turnos/2016-09-10-turno-siguiente|Turno ejecutado 2016-09-10]]
-- [[turnos/plantilla-turno|Plantilla de turno]]
-- [[diplomacia/india|Dossier India]]
-- [[diplomacia/argentina-brasil-peru|Dossier Corredor Bioceánico]]
-- [[diplomacia/japon-corea|Dossier Japón y Corea]]
-- [[diplomacia/alemania|Dossier Alemania]]
-- [[GUIA-DE-USO|Cómo usar este vault]]
+### Doctrina (no cambia entre turnos)
+- `doctrina/vision-doctrinal.md` — Visión doctrinal y plan país
+- `doctrina/objetivos-largo-plazo.md` — Objetivos de largo plazo (2020/2025/2030+)
+- `doctrina/imagen-final-de-pais.md` — Imagen final de país
+- `doctrina/cuestion-constitucional.md` — La cuestión constitucional
+- `doctrina/por-que-chile-necesitara-una-nueva-constitucion.md`
+- `doctrina/reforma-constitucional-futura.md`
+- `doctrina/principios-constitucionales-del-chile-futuro.md`
+- `doctrina/linea-temporal-constitucional-2016-2026.md`
+- `doctrina/mecanismo-constitucional-ideal.md`
+- `doctrina/bases-sustantivas-constitucion-futura.md`
+- `doctrina/formulacion-de-reformas.md` — Doctrina de formulación de reformas
+- `doctrina/union-bioceanica-americana.md` — UBA y Real Inti
+
+### Estado vivo (BUSCAR SIEMPRE EL MÁS RECIENTE)
+- `estado/game-state.json` — **punto de entrada rápido**: fecha, turno, acciones pendientes, riesgo
+- `estado/` → archivo `estado-actual-*.md` más reciente (con sección delta al inicio)
+- `estado/nodos-dios.md` — 7 pilares críticos del modelo con dependencias y riesgo de falla
+- `pendientes/pila-estrategica.md`
+- `pendientes/reforma-2017.md`
+- `contexto/` → archivo `handoff-maestro-*.md` más reciente
+- `contexto/wisdom.md` — lecciones acumuladas (Convenciones, Éxitos, Riesgos, Gotchas)
+- `eventos/eventos-detallados-recientes.md`
+
+### Snapshots sectoriales (actualizar cada turno)
+- `snapshots/energia.json` — solar, eólica, smart grid, hidrógeno, nodo Biobío
+- `snapshots/industria.json` — PLCs, cumplimiento de estándares, expansión Brasil
+- `snapshots/diplomacia.json` — estado y confianza por socio
+- `snapshots/fiscal.json` — peso, regla fiscal, Fondo UBA, Reforma 2017
+- `snapshots/logistica.json` — trazabilidad corredor, Ventanilla Única, Agua Negra
+
+### Historial y turnos
+- **`turnos/indice-turnos.md`** — Índice general con navegación cronológica de todos los turnos (LEER PRIMERO)
+- `turnos/turno-2016-01-26.md` a `turno-2016-12-24.md` — Archivos individuales de cada turno (10 turnos de 2016)
+- `turnos/historial-acciones-completo-2016.md` — Cronología plana completa de 2016
+- `turnos/historial-acciones-completo-2017.md` — Cronología plana de 2017
+- `turnos/plantilla-turno.md`
+
+### Diplomacia
+- `diplomacia/acuerdos-y-canales.md`
+- `diplomacia/india.md`
+- `diplomacia/argentina-brasil-peru.md`
+- `diplomacia/japon-corea.md`
+- `diplomacia/alemania.md`
+
+### Contexto histórico y situación del mundo
+- `contexto/resumenes-historicos-por-tramos.md` — Resúmenes COMPLETOS del simulador por cada tramo (10 tramos de 2016)
+- `contexto/situacion-del-mundo-2016-12-24.md` — Mapa mundial, unidades de Chile, tensiones internacionales (BUSCAR SIEMPRE EL MÁS RECIENTE)
+- `estado/activos-estrategicos.md`
 
 ## Juicio estratégico corto
 
@@ -72,10 +109,11 @@ Chile ya no está en fase de promesa, sino en fase de **administración de éxit
 
 ## Qué mirar antes de cada turno
 
-1. [[estado/estado-actual-2016-12-24|Estado actual]]
-2. [[pendientes/pila-estrategica|Pendientes estratégicos]]
-3. [[diplomacia/acuerdos-y-canales|Diplomacia]]
-4. [[turnos/historial-acciones-completo-2016|Historial de acciones]]
+1. `estado/` → el archivo `estado-actual-*.md` **más reciente**
+2. `pendientes/pila-estrategica.md`
+3. `diplomacia/acuerdos-y-canales.md`
+4. **`turnos/indice-turnos.md`** → índice general de turnos (salta al turno que necesites)
+5. `contexto/` → el `handoff-maestro-*.md` **más reciente**
 
 ## Regla de registro
 

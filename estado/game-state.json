@@ -1,27 +1,27 @@
 {
-  "fecha_actual": "2017-02-06",
-  "turno_actual": 50,
-  "ultimo_estado": "estado/estado-actual-2017-02-06.md",
-  "ultimo_handoff": "contexto/handoff-maestro-2017-02-06.md",
-  "frentes_activos_count": 13,
+  "fecha_actual": "2017-02-20",
+  "turno_actual": 51,
+  "ultimo_estado": "estado/estado-actual-2017-02-20.md",
+  "ultimo_handoff": "contexto/handoff-maestro-2017-02-20.md",
+  "frentes_activos_count": 14,
   "riesgo_externo": "ALTO",
   "acciones_pendientes": [
     {
-      "id": 11,
-      "fecha": "2017-02-10",
-      "titulo": "Formalizar expansión software portuario a Santos y Paranaguá",
+      "id": 14,
+      "fecha": "2017-02-24",
+      "titulo": "Proponer expansión Ventanilla Única a corredores Paraná y Río Grande do Sul",
       "estado": "ENVIADA"
     },
     {
-      "id": 12,
-      "fecha": "2017-02-13",
-      "titulo": "Reforzar protocolos de PI con Alemania ante espionaje industrial",
+      "id": 15,
+      "fecha": "2017-02-28",
+      "titulo": "Presentar datos primera medición Reforma 2017 al Congreso",
       "estado": "ENVIADA"
     },
     {
-      "id": 13,
-      "fecha": "2017-02-17",
-      "titulo": "Primera medición trimestral Reforma 2017 en 45 liceos piloto",
+      "id": 16,
+      "fecha": "2017-03-05",
+      "titulo": "Chile y Perú coproducen cuarto Índice de Convergencia UBA",
       "estado": "ENVIADA"
     }
   ]

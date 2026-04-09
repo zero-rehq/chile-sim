@@ -56,17 +56,17 @@ La secuencia correcta es:
 - resolver la cuestión constitucional con plebiscito exitoso
 - recién después pasar de la integración técnica UBA a su fase político-monetaria
 
-## Prioridades del próximo tramo (10-17 febrero 2017)
+## Prioridades del próximo tramo (20 feb - 5 mar 2017)
 
-1. Formalizar contrato Santos/Paranaguá antes que sindicatos bloqueen (10 feb, ENVIADA).
-2. Reforzar PI con Alemania — espionaje industrial no resuelto (13 feb, ENVIADA).
-3. Primera medición trimestral Reforma 2017 — datos empíricos para sala (17 feb, ENVIADA).
-4. Monitorear escalada China en Taiwán — protocolos Malaca/Sonda activos.
-5. Gestionar transición laboral Brasil — programa capacitación operadores locales.
+1. Expansión Ventanilla Única a Paraná y Río Grande do Sul (24 feb, ENVIADA) — ampliar cobertura interior.
+2. Presentar datos medición Reforma 2017 al Congreso para blindar financiamiento (28 feb, ENVIADA).
+3. Cuarto Índice UBA coproducción Chile-Perú (5 mar, ENVIADA) — hito político.
+4. Monitorear portaaviones Liaoning — escalada sostenida, no episódica.
+5. Seguimiento asunción supervisión India en Gujarat-Madhya — primera delegación técnica soberana.
 
-## Registro del último tramo ejecutado (23/01–06/02)
+## Registro del último tramo ejecutado (06/02–20/02)
 
-PLCs Perú al 98.5% (auditoría Lima). Santos/Paranaguá con luz verde técnica — Delegación Técnica en Brasilia creada. Terminal Gujarat-Madhya operativo — 200 ingenieros en certificación. Protocolos Malaca/Sonda acordados con Japón/Corea ante escalada China en Taiwán. Reforma 2017 "candados" defendidos en sala. Tercer Índice UBA publicado — Perú lidera. Crisis sindicatos Brasil (riesgo bloqueo). Espionaje industrial bloqueado. Canal Beagle operativo.
+Santos/Paranaguá: Nodo Logístico CREADO — 4 técnicos CTDI, programa capacitación despachantes activo. PI Alemania blindada nivel militar — incidente reportado ante UE. Primera medición Reforma 2017: >90% asistencia módulos duales, convenios minería/energía. India inicia asunción supervisión operativa Gujarat-Madhya. Liaoning chino desplegado — protocolos Malaca/Sonda reforzados.
 
 ## Lo que conviene postergar si no hay necesidad real
 
@@ -77,21 +77,22 @@ PLCs Perú al 98.5% (auditoría Lima). Santos/Paranaguá con luz verde técnica 
 - exportación masiva de microelectrónica más allá de los mercados piloto establecidos
 - lanzamiento anticipado de la Reforma 2017 antes de tener base técnica sólida
 
-## Estado de frentes abiertos al 6 de febrero de 2017
+## Estado de frentes abiertos al 20 de febrero de 2017
 
 | Frente | Estado |
 |---|---|
-| Reforma 2017 | 🔄 Debate en sala — "candados" defendidos, medición trimestral 17 feb |
-| Santos/Paranaguá | 🔄 Contrato formal pendiente (10 feb, ENVIADA) |
-| Brasil — sindicatos | ⚠️ Programa capacitación local como respuesta |
-| Corredor bioceánico | ✅ 99.8% — alternativa estable global |
+| Reforma 2017 | 🔄 >90% asistencia — datos al Congreso (28 feb, ENVIADA) |
+| Santos/Paranaguá | ✅ Nodo Logístico CREADO — 4 CTDI en rotación |
+| Brasil — sindicatos | 🔄 Programa capacitación activo — contenido |
+| Expansión VUA Paraná/RS | 🔄 Propuesta enviada (24 feb, ENVIADA) |
+| Corredor bioceánico | ✅ 99.8% sostenido bajo tensión China |
 | PLCs Perú | ✅ 98.5% operatividad confirmado |
-| India — Gujarat-Madhya | ✅ Terminal creado, 200 ingenieros en certificación |
-| India — Supervisión operativa | 🔄 Asunción marzo 2017 |
-| Japón / Corea | ✅ Protocolos Malaca/Sonda acordados |
-| China — Taiwán | ⚠️ ALTO — escalada sin precedentes |
-| Espionaje industrial | ⚠️ Bloqueado — PI Alemania reforzado (13 feb, ENVIADA) |
-| Tercer Índice UBA | ✅ Publicado — presión técnica activa |
+| India — Gujarat-Madhya | 🔄 Supervisión operativa iniciada (14 feb) |
+| India — Asunción plena | 🔄 Marzo 2017 |
+| Japón / Corea | ✅ Protocolos Malaca/Sonda — alerta máxima |
+| China — Taiwán | ⚠️ ALTO — Liaoning desplegado (18 feb) |
+| Espionaje industrial | ✅ Resuelto — PI nivel militar + reporte UE |
+| Tercer Índice UBA | ✅ Publicado — cuarto en coproducción (5 mar, ENVIADA) |
 | Plan Subantártico | 🔄 Canal Beagle operativo |
 | Agua Negra | ✅ 99.8% precisión sensores |
 | Fondo Compensación UBA | ✅ USD 150 millones operativo |

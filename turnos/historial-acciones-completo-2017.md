@@ -116,7 +116,7 @@ República Popular China incrementó presencia naval cerca de rutas comerciales 
 
 ### Acción 11: Formalizar expansión de software portuario a Santos y Paranaguá
 
-**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
+**[ESTADO: EJECUTADA]** — 10 feb: Nodo Logístico Santos-Paranaguá CREADO. 4 técnicos CTDI en rotación. Programa capacitación despachantes activo.
 
 **Action Date: 2017-02-10 / Chile formaliza la expansión de software portuario a Santos y Paranaguá.** La AIIEE, en coordinación con la Delegación Técnica en Brasilia y el Ministerio de Transportes, firma el contrato de implementación de software logístico en los puertos de Santos y Paranaguá. El despliegue comenzará con un equipo de 4 técnicos del Cuerpo Técnico de Despliegue Internacional, con rotación trimestral. Se contempla explícitamente un programa de capacitación para operadores locales brasileños, diseñado para responder a las preocupaciones sindicales sin comprometer los estándares técnicos. El Ministerio de Economía declara: "La eficiencia no destruye empleos — transforma el perfil de los empleos. Un despachante capacitado en trazabilidad digital vale más que uno en papel."
 
@@ -124,7 +124,7 @@ República Popular China incrementó presencia naval cerca de rutas comerciales 
 
 ### Acción 12: Reforzar protocolos de PI con Alemania ante espionaje industrial
 
-**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
+**[ESTADO: EJECUTADA]** — 7 feb: PI Alemania blindada con encriptación nivel militar. Incidente reportado ante la UE. Chile posicionado como socio de alta seguridad industrial. Secretaría Técnica Chileno-Alemana operativa con canal cifrado dedicado.
 
 **Action Date: 2017-02-13 / Chile y Alemania refuerzan protocolos de protección de PI ante espionaje industrial.** La Secretaría Técnica Chileno-Alemana y el Centro de Ciberresiliencia Transpacífico implementan un protocolo conjunto de auditoría de accesos y encriptación reforzada para los documentos técnicos compartidos. Se establece un canal seguro de comunicación para el intercambio de estándares Industrie 4.0 y se documenta formalmente el incidente de enero ante la Unión Europea como actor afectado. El Director del Centro de Ciberresiliencia declara: "El ataque no fue contra Chile solo — fue contra la alianza. Responder juntos es más eficiente y más barato que responder solos."
 
@@ -132,6 +132,44 @@ República Popular China incrementó presencia naval cerca de rutas comerciales 
 
 ### Acción 13: Primera medición trimestral Reforma 2017 en 45 liceos piloto
 
-**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
+**[ESTADO: EJECUTADA]** — 13 feb: Primera medición >90% asistencia módulos duales. Convenios activos con sectores minero y energético. Datos empíricos publicados y entregados al Congreso — "candados" fiscales reforzados con evidencia concreta.
 
 **Action Date: 2017-02-17 / Chile lanza primera medición trimestral Reforma 2017 en 45 liceos piloto.** El Ministerio de Educación, a través de la Secretaría del Acuerdo Nacional 2017, activa el sistema de seguimiento ciudadano con métricas trimestrales en los 45 liceos técnicos piloto. La primera medición incluye: tasa de asistencia a módulos duales, porcentaje de acuerdos con empresas del sector, y evaluación docente del primer cohorte capacitado. Los datos son públicos — accesibles para legisladores, gremios y ciudadanos. El Ministerio de Educación declara: "La transparencia no es debilidad — es la diferencia entre una reforma y un decreto. Si los datos son malos, los corregimos. Si son buenos, los publicamos."
+
+---
+
+## Acciones propuestas — tramo febrero-marzo 2017 (turno 51)
+
+### Acción 14: Proponer expansión Ventanilla Única a corredores Paraná y Río Grande do Sul
+
+**Resumen:** Sobre la base del éxito de Santos/Paranaguá, Chile propone a Brasil extender el sistema de Ventanilla Única Aduanera a dos corredores interiores críticos: el corredor del río Paraná y el acceso ferroviario de Río Grande do Sul. 
+Esto consolida la integración logística profunda con Brasil más allá de los puertos costeros.
+Impacto: cobertura aduanera digital del 60-70% del flujo bioceánico; reducción estimada adicional de 2-3 horas en tránsito interior.
+
+**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
+
+**Action Date: 2017-02-24 / Chile propone a Brasil expansión de Ventanilla Única Aduanera a corredores Paraná y Río Grande do Sul.** El Centro de Coordinación Bioceánica, junto con la Delegación Técnica en Brasilia, formaliza ante el Ministerio de Transportes de Brasil la propuesta de extender el sistema de declaración aduanera electrónica integrada a los corredores fluviales y ferroviarios interiores. La propuesta incluye hoja de ruta técnica de 90 días, estimaciones de inversión conjunta, y un modelo de capacitación para operadores locales que responde directamente a las preocupaciones sindicales previas. El Ministerio de Transportes y Telecomunicaciones de Chile declara: "Santos y Paranaguá demostraron que el sistema funciona en los extremos. Ahora lo llevamos al corazón del corredor. Ese es el salto real."
+
+---
+
+### Acción 15: Presentar datos de primera medición Reforma 2017 al Congreso como argumento de financiamiento
+
+**Resumen:** Con los datos de la primera medición trimestral (>90% asistencia, convenios activos con minería y energía), Chile presenta formalmente ante el Congreso los resultados como evidencia empírica para blindar el financiamiento multianual de la Reforma 2017.
+Esto convierte la medición en argumento legislativo, no solo en reporte técnico.
+Impacto: fortalecimiento de "candados" fiscales con datos de campo; reducción del riesgo de reasignación presupuestaria en el debate de sala.
+
+**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
+
+**Action Date: 2017-02-28 / Chile presenta ante el Congreso los datos de la primera medición trimestral de la Reforma 2017.** La Secretaría del Acuerdo Nacional 2017, en coordinación con el Ministerio de Educación y el Ministerio de Hacienda, lleva al debate legislativo los resultados de la primera medición: más del 90% de asistencia a módulos duales, convenios formalizados con empresas de los sectores minero y energético, y evaluación docente del primer cohorte certificado. Los datos se presentan con proyecciones fiscales actualizadas por Hacienda que confirman la viabilidad del financiamiento estructural. El Presidente declara: "La Reforma 2017 no necesita fe — necesita datos. Ahí están. Si algún legislador quiere recortar fondos, que explique cuál de estas métricas le molesta."
+
+---
+
+### Acción 16: Chile y Perú coproducen el cuarto Índice de Convergencia UBA
+
+**Resumen:** Por primera vez, Perú co-produce el Índice de Convergencia UBA junto a Chile, aportando métricas propias desde el Centro de Coordinación en Lima.
+Esto marca el paso de Perú de "receptor técnico" a "socio activo" en la arquitectura de integración.
+Impacto: legitimidad regional del índice como instrumento compartido, no unilateral chileno; señal institucional de convergencia real hacia umbrales UBA.
+
+**[ESTADO: ENVIADA]** — Pendiente de envío al simulador.
+
+**Action Date: 2017-03-05 / Chile y Perú coproducen el cuarto Índice de Convergencia UBA.** El Centro de Coordinación Bioceánica y la Misión Técnica Permanente en Lima co-elaboran el cuarto índice incorporando métricas aportadas directamente por los equipos técnicos peruanos: operatividad de PLCs en infraestructura hídrica, tiempos de despacho en Callao, y convergencia fiscal medida en Lima. La publicación conjunta se enmarca como señal institucional — Perú no solo cumple métricas, sino que las produce. El Canciller declara: "El día que Perú mide y publica su propio índice de convergencia es el día en que la UBA deja de ser un proyecto chileno y empieza a ser un proyecto americano."

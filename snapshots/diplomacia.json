@@ -1,47 +1,53 @@
 {
-  "fecha_snapshot": "2017-01-16",
+  "fecha_snapshot": "2017-02-20",
   "socios": {
     "india": {
       "status": "ACTIVO",
       "nivel_confianza": "FIRME",
-      "ultimo_hito": "100 ingenieros certificados en estándar chileno — Nodo Logístico Gujarat consolidado",
-      "proxima_accion": "Asunción supervisión operativa marzo 2017"
+      "ultimo_hito": "200 ingenieros en certificación — Terminal Gujarat-Madhya operativo. India inicia asunción supervisión operativa (14 feb).",
+      "proxima_accion": "Supervisión operativa plena marzo 2017"
     },
     "peru": {
       "status": "ACTIVO",
       "nivel_confianza": "FIRME",
-      "ultimo_hito": "PLCs al 99% operatividad confirmado en auditoría 28 dic",
-      "proxima_accion": "Auditoría trimestral PLCs en curso (22 ene)"
+      "ultimo_hito": "PLCs 98.5% operatividad (auditoría Lima). Perú co-produce cuarto Índice UBA (5 mar, ENVIADA).",
+      "proxima_accion": "Cuarto Índice UBA coproducción Chile-Perú (5 mar)"
     },
     "brasil": {
       "status": "ACTIVO",
-      "nivel_confianza": "EN_NEGOCIACION",
-      "ultimo_hito": "Ventanilla Única Aduanera piloto activa — 18h a 4h en despacho",
-      "proxima_accion": "Auditoría capacidad Santos/Paranaguá (25 ene)"
+      "nivel_confianza": "FIRME",
+      "ultimo_hito": "Nodo Logístico Santos-Paranaguá CREADO (10 feb). 4 técnicos CTDI. Programa capacitación despachantes activo.",
+      "proxima_accion": "Propuesta expansión VUA a Paraná y Río Grande do Sul (24 feb, ENVIADA)"
     },
     "argentina": {
       "status": "ACTIVO",
       "nivel_confianza": "FIRME",
-      "ultimo_hito": "PLCs al 99% operatividad confirmado en auditoría 28 dic",
-      "proxima_accion": "Mantener integración técnica"
+      "ultimo_hito": "PLCs 99% operatividad. Red de Interoperabilidad Regional estable.",
+      "proxima_accion": "Mantener integración técnica — expansión Mendoza-Neuquén en horizonte 2017-2020"
     },
     "japon_corea": {
       "status": "ACTIVO",
       "nivel_confianza": "FIRME",
-      "ultimo_hito": "Trazabilidad litio mantenida ante presencia naval china — protocolos activados",
-      "proxima_accion": "Coordinación técnica rutas alternativas (28 ene)"
+      "ultimo_hito": "Protocolos Malaca/Sonda activos. Trazabilidad litio intacta ante Liaoning cerca de Taiwán (18 feb).",
+      "proxima_accion": "Monitoreo continuo escalada China"
     },
     "alemania": {
       "status": "ACTIVO",
-      "nivel_confianza": "EN_NEGOCIACION",
-      "ultimo_hito": "Secretaría Técnica Chileno-Alemana operativa",
-      "proxima_accion": "Avanzar formación técnica dual y estándares hidrógeno verde"
+      "nivel_confianza": "FIRME",
+      "ultimo_hito": "PI blindada con encriptación nivel militar (13 feb). Incidente espionaje reportado ante UE. Chile como socio de alta seguridad industrial.",
+      "proxima_accion": "Consolidar canal seguro Secretaría Técnica Chileno-Alemana"
     },
     "china": {
       "status": "MONITOREO",
       "nivel_confianza": "ESPECULATIVA",
-      "ultimo_hito": "Aumento de presencia naval en rutas del Pacífico (16 ene)",
+      "ultimo_hito": "Portaaviones Liaoning desplegado cerca de Taiwán (18 feb). Escalada sostenida.",
       "proxima_accion": "Monitoreo continuo — no confrontación"
+    },
+    "ue": {
+      "status": "ACTIVO",
+      "nivel_confianza": "EN_NEGOCIACION",
+      "ultimo_hito": "Incidente espionaje industrial reportado por Chile ante la UE — Chile posicionado como socio afectado y confiable.",
+      "proxima_accion": "Seguimiento investigación UE sobre red espionaje SE asiático"
     }
   }
 }

@@ -99,11 +99,11 @@ Con esos 5 archivos, cualquier agente debe poder entender dónde está Chile, qu
 
 ## Estado actual del juego
 
-**Fecha:** 6 de febrero de 2017 | **Turno:** 50
+**Fecha:** 20 de febrero de 2017 | **Turno:** 51
 
-**Prioridad inmediata:** 3 acciones enviadas — contrato Santos/Paranaguá (10 feb), PI Alemania (13 feb), medición Reforma 2017 (17 feb).
+**Prioridad inmediata:** 3 acciones enviadas — expansión VUA Paraná/RS (24 feb), presentación Reforma al Congreso (28 feb), cuarto Índice UBA con Perú (5 mar).
 
-**Alertas activas:** China escala en Taiwán (ALTO). Sindicatos Brasil vs Ventanilla Única. Espionaje industrial SE asiático bloqueado pendiente resolución.
+**Alertas activas:** China escala en Taiwán — Liaoning desplegado (ALTO). Brasil sindicatos contenidos pero transición laboral frágil. India inicia supervisión operativa autónoma.
 
 ## Juicio estratégico corto
 

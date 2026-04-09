@@ -417,3 +417,53 @@ Centro de Coordinación Bioceánica (escala 1.3x) publica tercer Índice. Perú 
 ### Primer sensor de profundidad en Canal Beagle instalado
 
 Hito Plan de Modernización Subantártica. Chile lidera monitoreo climático en el extremo sur. Proyección hacia la Antártica fortalecida.
+
+---
+
+## 10 de febrero de 2017
+
+### Nodo Logístico Santos-Paranaguá CREADO — contrato formal firmado
+
+Chile formalizó la expansión del software portuario a Santos y Paranaguá. 4 técnicos del Cuerpo Técnico de Despliegue Internacional comenzaron rotación en terreno. El contrato incluye cláusula de capacitación para operadores locales brasileños — respuesta directa a la presión sindical de enero. Crisis laboral contenida sin concesiones estructurales.
+
+**Impacto para Chile:** El corredor bioceánico pasa de piloto costero a integración portuaria profunda con Brasil. Nodo Logístico Santos-Paranaguá convierte los dos mayores puertos del sur de Brasil en extensiones operativas del sistema chileno.
+
+## 13 de febrero de 2017
+
+### PI Alemania blindada — encriptación nivel militar en Secretaría Técnica
+
+Chile y Alemania implementaron canal seguro con encriptación de grado militar para todos los documentos técnicos compartidos de Industrie 4.0. El incidente de espionaje industrial desde servidores del SE asiático fue reportado formalmente ante la Unión Europea. Chile se posiciona como socio europeo de alta seguridad industrial.
+
+**Impacto para Chile:** El incidente se convierte en activo diplomático — reportarlo ante la UE transforma a Chile de víctima en actor confiable. Alemania profundiza el vínculo técnico-estratégico.
+
+## 14 de febrero de 2017
+
+### India inicia asunción de supervisión operativa — Gujarat-Madhya
+
+Los primeros ingenieros indios certificados bajo estándar chileno comienzan a asumir supervisión operativa autónoma en los terminales de Gujarat-Madhya. Primera vez que Chile delega supervisión técnica a un socio no chileno. Hito en el modelo de transferencia tecnológica soberana.
+
+## 17 de febrero de 2017
+
+### Primera medición trimestral Reforma 2017: >90% asistencia módulos duales
+
+El Ministerio de Educación publicó los resultados de la primera medición trimestral en los 45 liceos técnicos piloto: más del 90% de asistencia a módulos duales, convenios formalizados con empresas de los sectores minero y energético, evaluación docente positiva del primer cohorte certificado. Los datos fueron entregados al Congreso como argumento empírico de financiamiento.
+
+**Impacto para Chile:** Los "candados" fiscales de la Reforma 2017 pasan de argumento técnico a evidencia de campo. El debate legislativo en sala tiene ahora un contrapeso empírico concreto.
+
+### Senado chileno — segunda lectura Reforma 2017
+
+Oposición presentó enmiendas de reasignación presupuestaria durante segunda lectura. Los equipos técnicos de la Secretaría del Acuerdo Nacional contraargumentaron con los datos de la primera medición. "Candados" fiscales intactos al cierre de la jornada.
+
+## 18 de febrero de 2017
+
+### China despliega portaaviones Liaoning cerca de Taiwán
+
+La armada popular china realizó maniobras con portaaviones en el estrecho. La escalada es ya sostenida, no episódica. Primas de seguros marítimos en rutas transpacíficas subieron al nivel más alto del año.
+
+**Respuesta de Chile:** Protocolos Malaca/Sonda reforzados. Comunicación activa con Japón y Corea. Trazabilidad de litio intacta. Centro de Ciberresiliencia Transpacífico en alerta máxima.
+
+## 20 de febrero de 2017
+
+### Corredor Bioceánico — 99.8% operatividad sostenida
+
+Centro de Coordinación Bioceánica confirma 99.8% de operatividad del corredor durante el período de mayor tensión geopolítica del año hasta la fecha. La infraestructura de redundancia construida en 2016 absorbe la presión china sin degradación.

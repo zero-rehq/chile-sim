@@ -1,9 +1,10 @@
 {
-  "fecha_snapshot": "2016-12-24",
+  "fecha_snapshot": "2017-01-16",
   "trazabilidad_corredor_pct": "99.8%",
   "reduccion_tiempos_transito_pct": "12%",
-  "ventanilla_unica_status": "PILOTO_ACEPTADO",
+  "ventanilla_unica_status": "PILOTO_ACTIVO",
   "agua_negra_status": "MANTENIMIENTO_PREVENTIVO",
   "puertos_inteligentes": ["Valparaíso", "San Antonio", "Coquimbo"],
-  "misiones_tecnicas_activas": 3
+  "misiones_tecnicas_activas": 3,
+  "despacho_aduanero_brasil_horas": 4
 }

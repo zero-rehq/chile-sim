@@ -1,33 +1,27 @@
 {
-  "fecha_actual": "2016-12-24",
-  "turno_actual": 47,
-  "ultimo_estado": "estado/estado-actual-2016-12-24.md",
-  "ultimo_handoff": "contexto/handoff-maestro-2016-12-24.md",
-  "frentes_activos_count": 21,
+  "fecha_actual": "2017-01-16",
+  "turno_actual": 48,
+  "ultimo_estado": "estado/estado-actual-2017-01-16.md",
+  "ultimo_handoff": "contexto/handoff-maestro-2017-01-16.md",
+  "frentes_activos_count": 14,
   "riesgo_externo": "MEDIO-ALTO",
   "acciones_pendientes": [
     {
-      "id": 1,
-      "fecha": "2017-01-05",
-      "titulo": "Ingreso legislativo de la Reforma 2017 al Congreso Nacional",
+      "id": 5,
+      "fecha": "2017-01-22",
+      "titulo": "Primera auditoría trimestral de PLCs en Perú",
       "estado": "ENVIADA"
     },
     {
-      "id": 2,
-      "fecha": "2017-01-08",
-      "titulo": "Fase piloto de Ventanilla Única Aduanera con Brasil",
+      "id": 6,
+      "fecha": "2017-01-25",
+      "titulo": "Auditoría de capacidad de soporte para Santos y Paranaguá",
       "estado": "ENVIADA"
     },
     {
-      "id": 3,
-      "fecha": "2017-01-12",
-      "titulo": "Recepción de 12 ingenieros indios en Atacama para Transferencia Operativa Nivel 2",
-      "estado": "ENVIADA"
-    },
-    {
-      "id": 4,
-      "fecha": "2017-01-15",
-      "titulo": "Plan de Modernización Subantártica — Fase 1 en Punta Arenas",
+      "id": 7,
+      "fecha": "2017-01-28",
+      "titulo": "Coordinación técnica con Japón y Corea ante presencia naval china",
       "estado": "ENVIADA"
     }
   ]

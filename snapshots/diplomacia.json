@@ -1,41 +1,47 @@
 {
-  "fecha_snapshot": "2016-12-24",
+  "fecha_snapshot": "2017-01-16",
   "socios": {
     "india": {
       "status": "ACTIVO",
       "nivel_confianza": "FIRME",
-      "ultimo_hito": "Transferencia Operativa Nivel 2 aceptada — 12 ingenieros en capacitación AIIEE",
-      "proxima_accion": "Certificación ingenieros febrero 2017, asunción supervisión operativa marzo 2017"
+      "ultimo_hito": "100 ingenieros certificados en estándar chileno — Nodo Logístico Gujarat consolidado",
+      "proxima_accion": "Asunción supervisión operativa marzo 2017"
     },
     "peru": {
       "status": "ACTIVO",
       "nivel_confianza": "FIRME",
-      "ultimo_hito": "Misión Técnica Lima operativa, 50 PLCs en operación, convergencia UBA 78%",
-      "proxima_accion": "Primera auditoría trimestral PLCs enero-febrero 2017"
+      "ultimo_hito": "PLCs al 99% operatividad confirmado en auditoría 28 dic",
+      "proxima_accion": "Auditoría trimestral PLCs en curso (22 ene)"
     },
     "brasil": {
       "status": "ACTIVO",
       "nivel_confianza": "EN_NEGOCIACION",
-      "ultimo_hito": "Ventanilla Única Aduanera aceptada en fase piloto — reducción tiempos tránsito 12%",
-      "proxima_accion": "Diseño técnico enero 2017, implementación piloto Santos/Paranaguá febrero-marzo 2017"
+      "ultimo_hito": "Ventanilla Única Aduanera piloto activa — 18h a 4h en despacho",
+      "proxima_accion": "Auditoría capacidad Santos/Paranaguá (25 ene)"
     },
     "argentina": {
       "status": "ACTIVO",
       "nivel_confianza": "FIRME",
-      "ultimo_hito": "Red de Interoperabilidad Regional operativa, sincronización energética andina en curso",
-      "proxima_accion": "Mantener integración técnica, expansión hardware a Mendoza 2017-2020"
+      "ultimo_hito": "PLCs al 99% operatividad confirmado en auditoría 28 dic",
+      "proxima_accion": "Mantener integración técnica"
     },
     "japon_corea": {
       "status": "ACTIVO",
       "nivel_confianza": "FIRME",
-      "ultimo_hito": "Protocolos de Continuidad Operativa validados ante incidente Taiwán",
-      "proxima_accion": "Mantener certificación técnica y metrología"
+      "ultimo_hito": "Trazabilidad litio mantenida ante presencia naval china — protocolos activados",
+      "proxima_accion": "Coordinación técnica rutas alternativas (28 ene)"
     },
     "alemania": {
       "status": "ACTIVO",
       "nivel_confianza": "EN_NEGOCIACION",
-      "ultimo_hito": "Secretaría Técnica Chileno-Alemana operativa para Industrie 4.0",
-      "proxima_accion": "Avanzar formación técnica dual y estándares energéticos hidrógeno verde"
+      "ultimo_hito": "Secretaría Técnica Chileno-Alemana operativa",
+      "proxima_accion": "Avanzar formación técnica dual y estándares hidrógeno verde"
+    },
+    "china": {
+      "status": "MONITOREO",
+      "nivel_confianza": "ESPECULATIVA",
+      "ultimo_hito": "Aumento de presencia naval en rutas del Pacífico (16 ene)",
+      "proxima_accion": "Monitoreo continuo — no confrontación"
     }
   }
 }

@@ -56,18 +56,17 @@ La secuencia correcta es:
 - resolver la cuestión constitucional con plebiscito exitoso
 - recién después pasar de la integración técnica UBA a su fase político-monetaria
 
-## Prioridades del próximo tramo
+## Prioridades del próximo tramo (segunda quincena enero 2017)
 
-1. Avanzar Reforma 2017 hacia alineación final de actores (noviembre-diciembre).
-2. Sostener ciclo de auditorías trimestrales de microelectrónica.
-3. Profundizar bienestar territorial con métricas de seguimiento ciudadano.
-4. **Ejecutar Transferencia Operativa Nivel 2 con India: capacitación de 12 ingenieros indios en estándares AIIEE (diciembre 2016-enero 2017), definir cronograma de cupos de certificación, blindar rutas logísticas ante inestabilidad asiática.**
-5. Mantener vigilancia digital elevada ante tensiones en Asia oriental.
-6. Expandir economía azul en litoral central.
+1. Auditoría trimestral PLCs en Perú — validar calidad y soporte remoto (22 ene, ENVIADA).
+2. Completar auditoría capacidad Santos/Paranaguá — habilitar siguiente fase Brasil (25 ene, ENVIADA).
+3. Coordinación técnica Japón/Corea ante China naval — blindar rutas litio (28 ene, ENVIADA).
+4. Soporte técnico a comités legislativos para Reforma 2017 — sin microgestión pero con presencia técnica.
+5. Mantener vigilancia digital elevada — China en alerta preventiva.
 
-## Registro del último tramo ejecutado (10/12–24/12)
+## Registro del último tramo ejecutado (24/12–16/01)
 
-Reforma 2017 blindada jurídicamente y lista para ingreso legislativo en enero 2017. Ventanilla Única Aduanera propuesta a Brasil, aceptada en fase piloto. Perú integrado con convergencia del 78% hacia UBA (umbral de entrada alcanzado). India en Transferencia Operativa Nivel 2 con capacitación de 12 ingenieros iniciada. Incidente en el Estrecho de Taiwán superado mediante Plan de Redundancia Estratégica y rutas secundarias. Peso chileno se mantiene estable en 650-655 pesos por dólar. Fondo de Compensación UBA operativo con USD 150 millones. Segundo Índice de Convergencia UBA publicado. UBA en fase técnica completa, activación política diferida hasta reforma constitucional chilena. Estado de la nación: consolidación de éxito, no expansión precipitada.
+Reforma 2017 ingresada al Congreso el 5 enero. Ventanilla Única Aduanera piloto activada con Brasil — tiempos de despacho de 18h a 4h. India consolidó Nodo Logístico Gujarat con 100 ingenieros certificados en estándar chileno (vs 12 planificados). Estación de Monitoreo Magallanes lanzada — Fase 1 Plan Subantártico. PLCs Perú/Argentina al 99% operatividad. China aumentó presencia naval en rutas del Pacífico — Centro Ciberresiliencia en alerta preventivo, trazabilidad litio intacta. 3 nuevas acciones enviadas para segunda quincena de enero.
 
 ## Lo que conviene postergar si no hay necesidad real
 
@@ -78,32 +77,29 @@ Reforma 2017 blindada jurídicamente y lista para ingreso legislativo en enero 2
 - exportación masiva de microelectrónica más allá de los mercados piloto establecidos
 - lanzamiento anticipado de la Reforma 2017 antes de tener base técnica sólida
 
-## Estado de frentes abiertos al 24 de diciembre de 2016
+## Estado de frentes abiertos al 16 de enero de 2017
 
 | Frente | Estado |
 |---|---|
-| Reforma 2017 | ✅ Blindada jurídicamente, lista para ingreso legislativo en enero 2017 |
+| Reforma 2017 | 🔄 Ingresada al Congreso el 5 ene — proceso legislativo activo |
 | Corredor bioceánico | ✅ Trazabilidad Mato Grosso-Valparaíso al 99.8% |
-| Perú — Misión en Lima | ✅ Operativa, contrato de 50 PLCs en operación |
-| Perú — Protocolo Callao | ✅ Formalizado, integración a métricas trimestrales |
+| Ventanilla Única Aduanera Brasil | 🔄 Piloto activo desde 8 ene — 18h a 4h en despacho |
+| Brasil — Expansión a Santos/Paranaguá | 🔄 Auditoría capacidad en curso (acción 25 ene enviada) |
+| Perú — Misión en Lima | ✅ Operativa, 50 PLCs al 99% operatividad |
+| Perú — Auditoría trimestral PLCs | 🔄 Acción 22 ene enviada |
 | Perú — Convergencia UBA | ✅ 78% (umbral de entrada alcanzado) |
-| Brasil — Métricas en reales | ✅ Grupo de Trabajo Conjunto operativo, primer reporte publicado |
-| Brasil — Ventanilla Única Aduanera | 🔄 Propuesta aceptada, fase piloto en febrero-marzo 2017 |
-| Brasil — Expansión a Santos/Paranaguá | 🔄 Auditoría de capacidad de soporte en curso |
-| Microelectrónica exportada | ✅ Auditoría extendida a Perú, soporte remoto operativo |
-| India — Transferencia Operativa Nivel 2 | ✅ Aceptada, capacitación de ingenieros iniciada |
-| India — Capacitación de ingenieros | ✅ 12 ingenieros en programa de 8 semanas, certificación en febrero 2017 |
-| India — Blindaje de rutas | ✅ Protocolos de continuidad operativa ante inestabilidad asiática |
-| Japón / Corea | ✅ Protocolos de Continuidad Operativa validados |
-| Incidente Taiwán | ✅ Superado mediante Plan de Redundancia Estratégica y rutas secundarias |
+| India — Nodo Logístico Gujarat | ✅ 100 ingenieros certificados en estándar chileno |
+| India — Supervisión operativa | 🔄 Asunción marzo 2017 |
+| Japón / Corea | 🔄 Coordinación protocolos ante China (acción 28 ene enviada) |
+| China — Presencia naval | ⚠️ Alerta preventiva — litio intacto, redundancia activa |
+| Plan Subantártico Fase 1 | 🔄 Lanzado — 3 estaciones operativas en marzo 2017 |
 | Bienestar territorial | 🔄 Expandiéndose a nuevos polos |
 | Economía azul | ✅ Red de Monitoreo Costero activa |
-| Cables submarinos | ✅ Vigilancia elevada ante tensiones en Asia |
-| Ciberresiliencia | ✅ Protocolo de Continuidad ante Crisis Cibernética validado |
+| Ciberresiliencia | ⚠️ Alerta preventiva por China naval |
 | Agua Negra | ✅ Mantenimiento preventivo activo |
 | Fondo de Compensación UBA | ✅ Operativo con USD 150 millones |
-| Índice de Convergencia UBA | ✅ Segundo índice publicado, Perú en umbral de entrada |
-| Antártica / glaciares | 🟡 En agenda, no es prioridad inmediata |
+| Tercer Índice Convergencia UBA | 🟡 Pendiente Q1 2017 |
+| Antártica / glaciares | 🟡 Plan Subantártico iniciado |
 
 ---
 

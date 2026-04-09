@@ -97,6 +97,14 @@ Con esos 5 archivos, cualquier agente debe poder entender dónde está Chile, qu
 - `contexto/situacion-del-mundo-2016-12-24.md` — Mapa mundial, unidades de Chile, tensiones internacionales (BUSCAR SIEMPRE EL MÁS RECIENTE)
 - `estado/activos-estrategicos.md`
 
+## Estado actual del juego
+
+**Fecha:** 16 de enero de 2017 | **Turno:** 48
+
+**Prioridad inmediata:** 3 acciones enviadas para segunda quincena enero — auditoría PLCs Perú, auditoría Santos/Paranaguá, coordinación Japón/Corea ante China naval.
+
+**Alerta activa:** China aumentó presencia naval en rutas del Pacífico (16 ene). Centro Ciberresiliencia en alerta preventivo. Trazabilidad litio intacta.
+
 ## Juicio estratégico corto
 
 Chile ya no está en fase de promesa, sino en fase de **administración de éxito**. El mayor peligro no es externo: es crecer más rápido de lo que el Estado, la industria y el capital humano pueden sostener.

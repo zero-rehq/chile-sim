@@ -263,3 +263,29 @@ Ministerio de Defensa Nacional reporta que infraestructura crítica chilena mant
 ### Mensaje de Estado del Presidente de Chile
 
 Presidente sintetiza cambio de narrativa nacional: "2016 fue el año en que Chile dejó de ser promesa y pasó a ser realidad. La Reforma 2017 está lista para el Congreso. El Corredor Bioceánico funciona con precisión de 99.8%. Nuestros ingenieros entrenan a India. Nuestros estándares validan a Japón y Corea. El Fondo de Compensación UBA financia integración regional. Nuestro peso es estable. Nuestras infraestructuras son resilientes. Chile no solo exporta materias primas — exporta confiabilidad. Exporta sistemas que funcionan bajo presión. Exporta Estado serio. Eso es el Proyecto Chile."
+
+---
+
+## 28 de diciembre de 2016
+
+### Auditoría microelectrónica en Perú y Argentina — 99% operatividad
+
+El Parque Industrial Tecnológico Atacama reportó 99% de operatividad en PLCs bajo condiciones climáticas extremas en Perú y Argentina. Los controladores lógicos chilenos validaron su diseño para ambientes de alta exigencia. La auditoría técnica fue ejecutada por la AIIEE con presencia en terreno.
+
+**Impacto para Chile:** Argumento técnico sólido para la expansión a Brasil y para la renovación de contratos con Perú. La soberanía tecnológica demostrada con datos empíricos, no discursos.
+
+## 31 de diciembre de 2016
+
+### Mensaje de Estado de Año Nuevo: La República Productiva
+
+El Presidente unificó la visión del Estado ante el país: "República Productiva, Tecnológica y Habitable". La Reforma Educativa 2017, la infraestructura bioceánica y el bienestar territorial presentados como un solo proyecto de Estado coherente. Énfasis en estabilidad del peso y cohesión social como pilares ante incertidumbre global.
+
+## 16 de enero de 2017
+
+### China aumenta presencia naval en rutas comerciales del Pacífico
+
+La República Popular China incrementó su presencia naval cerca de las rutas comerciales transpacíficas. Las primas de seguros marítimos en la región subieron. El Centro de Ciberresiliencia Transpacífico de Chile activó protocolos de redundancia total en respuesta preventiva.
+
+**Respuesta de Chile:** Protocolos de continuidad operativa activados. Trazabilidad de cargamentos de litio hacia Japón y Corea del Sur mantenida intacta. Redireccionamiento preventivo hacia rutas secundarias (Malaca, Sonda). Chile no confrontó — blindó.
+
+**Impacto para Chile:** Segundo test de resiliencia en dos meses (después de Taiwán en diciembre). Los protocolos construidos en 2016 funcionaron. El modelo de redundancia analógica-digital se valida por segunda vez ante presión geopolítica real.

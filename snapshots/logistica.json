@@ -1,0 +1,9 @@
+{
+  "fecha_snapshot": "2016-12-24",
+  "trazabilidad_corredor_pct": "99.8%",
+  "reduccion_tiempos_transito_pct": "12%",
+  "ventanilla_unica_status": "PILOTO_ACEPTADO",
+  "agua_negra_status": "MANTENIMIENTO_PREVENTIVO",
+  "puertos_inteligentes": ["Valparaíso", "San Antonio", "Coquimbo"],
+  "misiones_tecnicas_activas": 3
+}

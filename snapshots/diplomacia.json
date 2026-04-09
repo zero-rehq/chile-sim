@@ -1,0 +1,41 @@
+{
+  "fecha_snapshot": "2016-12-24",
+  "socios": {
+    "india": {
+      "status": "ACTIVO",
+      "nivel_confianza": "FIRME",
+      "ultimo_hito": "Transferencia Operativa Nivel 2 aceptada — 12 ingenieros en capacitación AIIEE",
+      "proxima_accion": "Certificación ingenieros febrero 2017, asunción supervisión operativa marzo 2017"
+    },
+    "peru": {
+      "status": "ACTIVO",
+      "nivel_confianza": "FIRME",
+      "ultimo_hito": "Misión Técnica Lima operativa, 50 PLCs en operación, convergencia UBA 78%",
+      "proxima_accion": "Primera auditoría trimestral PLCs enero-febrero 2017"
+    },
+    "brasil": {
+      "status": "ACTIVO",
+      "nivel_confianza": "EN_NEGOCIACION",
+      "ultimo_hito": "Ventanilla Única Aduanera aceptada en fase piloto — reducción tiempos tránsito 12%",
+      "proxima_accion": "Diseño técnico enero 2017, implementación piloto Santos/Paranaguá febrero-marzo 2017"
+    },
+    "argentina": {
+      "status": "ACTIVO",
+      "nivel_confianza": "FIRME",
+      "ultimo_hito": "Red de Interoperabilidad Regional operativa, sincronización energética andina en curso",
+      "proxima_accion": "Mantener integración técnica, expansión hardware a Mendoza 2017-2020"
+    },
+    "japon_corea": {
+      "status": "ACTIVO",
+      "nivel_confianza": "FIRME",
+      "ultimo_hito": "Protocolos de Continuidad Operativa validados ante incidente Taiwán",
+      "proxima_accion": "Mantener certificación técnica y metrología"
+    },
+    "alemania": {
+      "status": "ACTIVO",
+      "nivel_confianza": "EN_NEGOCIACION",
+      "ultimo_hito": "Secretaría Técnica Chileno-Alemana operativa para Industrie 4.0",
+      "proxima_accion": "Avanzar formación técnica dual y estándares energéticos hidrógeno verde"
+    }
+  }
+}

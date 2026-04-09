@@ -1,0 +1,9 @@
+{
+  "fecha_snapshot": "2016-12-24",
+  "solar_norte_status": "OPERATIVO",
+  "eolica_sur_status": "OPERATIVO",
+  "smart_grid_status": "EN_EXPANSION",
+  "hidrogeno_verde_status": "FASE_PILOTO",
+  "nodo_biobio_status": "OPERATIVO",
+  "resiliencia_matriz": "ALTA"
+}

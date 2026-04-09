@@ -1,8 +1,8 @@
-# Estado actual al 3 de septiembre de 2016
+# Estado actual al 29 de octubre de 2016
 
 ## Resumen ejecutivo
 
-Chile llega fuerte, con prestigio alto, peso sólido y una arquitectura técnica regional que ya produce resultados concretos y medibles. El modelo dejó de ser una visión: ahora es una red operativa real con métricas verificables. El primer informe del Centro Permanente de Coordinación Bioceánica confirma una reducción del 8% en tiempos de tránsito ferroviario desde Brasil. Argentina opera con PLCs chilenos en San Juan. La microelectrónica soberana ya genera dependencia tecnológica favorable en vecinos.
+Chile cierra octubre con la Reforma 2017 en fase de alineación operativa — rectores, sindicatos y gobiernos regionales confirman capacidad para absorber formación dual. El Paso de Agua Negra tiene protocolo de mantenimiento preventivo activo. La AIIEE definió límites de soporte para Gujarat, priorizando reputación sobre sobreextensión. El Biobío pasó un simulacro de aislamiento digital con certificación alemana. Y en Mato Grosso, la trazabilidad es total: visibilidad completa de carga desde origen brasileño hasta Valparaíso. Chile administra su éxito con la paranoia productiva de quien sabe que todo lo construido se puede perder si se deja de cuidar.
 
 ## Logros consolidados
 
@@ -18,6 +18,24 @@ Chile llega fuerte, con prestigio alto, peso sólido y una arquitectura técnica
 - Reputación internacional alta y peso fuerte
 - Red de Monitoreo Costero activa con boyas inteligentes y vehículos autónomos
 - Secretaría del Acuerdo Nacional 2017 instruida y en funcionamiento
+- Protocolo Nacional de Soporte Remoto Certificado para microelectrónica exportada
+- Protocolo de Soporte Remoto Atacama-Biobío en operación formal
+- Auditoría de resiliencia digital en el Pacífico Sur
+- Borrador técnico de la Reforma 2017 entregado el 1 de octubre
+- Piloto de bienestar territorial en Valparaíso y Coquimbo con primeros avances
+- Primera auditoría trimestral de microelectrónica: 98% de cumplimiento
+- Nodo técnico permanente en Mato Grosso formalizado
+- Economía azul expandida al litoral central
+- Unidad de Control de Prioridades Industriales operativa
+- Mesa Técnica Reforma 2017 con primera fase de validación cerrada
+- Nodo Logístico India-Chile ampliado en Gujarat (+15% eficiencia)
+- Nueva red de sensores en Paso de Agua Negra completada
+- Seguimiento ciudadano de bienestar territorial activo
+- Simulacro de ciberresiliencia Biobío certificado por Alemania
+- Trazabilidad total Mato Grosso-Valparaíso completada
+- Protocolo de mantenimiento preventivo Agua Negra activo
+- Límites de soporte Gujarat definidos por AIIEE
+- Reforma 2017 en fase de alineación operativa
 
 ## Qué está pasando de verdad
 
@@ -28,6 +46,7 @@ Chile llega fuerte, con prestigio alto, peso sólido y una arquitectura técnica
 - Japón y Corea están en fase de validación seria con protocolo de certificación activo.
 - Las tensiones en el Estrecho de Taiwán elevan primas de seguro pero validan la doctrina chilena de resiliencia.
 - Rusia militariza el Ártico: señal de un mundo más competitivo en rutas estratégicas.
+- La UBA queda afirmada como horizonte doctrinal, pero su activación política y monetaria se subordina a una futura reforma constitucional chilena ratificada socialmente.
 
 ## Amenazas principales
 
@@ -49,11 +68,11 @@ Chile llega fuerte, con prestigio alto, peso sólido y una arquitectura técnica
 
 ## Prioridades inmediatas
 
-1. Activar soporte remoto certificado para hardware chileno ya desplegado en vecinos.
-2. Verificar redundancias de rutas de datos transpacíficas ante tensión en Taiwán.
-3. Cerrar borrador técnico de Reforma 2017 en 30 días — sin lanzar nada todavía.
-4. Extender bienestar territorial con disciplina hacia Valparaíso y Coquimbo.
-5. Publicar métricas trimestrales del Centro Bioceánico para convertir éxito técnico en legitimidad política.
+1. Cerrar alineación de actores para Reforma 2017 (noviembre-diciembre).
+2. Sostener ciclo de auditorías trimestrales de microelectrónica.
+3. Mantener vigilancia digital elevada ante tensiones en Asia oriental.
+4. Profundizar bienestar territorial con métricas de seguimiento ciudadano.
+5. Mantener la UBA en fase doctrinal y técnica, sin activar todavía su fase político-monetaria antes de una futura reforma constitucional chilena.
 
 ## Lo que NO se abre este turno
 
@@ -62,6 +81,10 @@ Chile llega fuerte, con prestigio alto, peso sólido y una arquitectura técnica
 - Lanzamiento anticipado de la Reforma 2017
 - Nuevas misiones científicas simultáneas
 - **Frente constitucional**: no se abre en 2016. La estrategia es consolidar modelo primero, abordar después desde posición de fuerza. Ver `doctrina/cuestion-constitucional.md`.
+
+## Registro del tramo 2016-10-15 al 2016-10-29
+
+Reforma 2017 en alineación operativa. Mantenimiento preventivo Agua Negra activo. Límites de soporte Gujarat definidos. Simulacro ciberresiliencia Biobío exitoso con certificación alemana. Trazabilidad total Mato Grosso-Valparaíso completada. Rusia reforzó Base Ártica. La secuencia de largo plazo queda aclarada: UBA sí, pero después de una futura reforma constitucional chilena aprobada socialmente.
 
 ## Ver también
 

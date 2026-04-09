@@ -12,11 +12,33 @@ El movimiento estudiantil de 2011 fue una advertencia. La demanda fue clara: edu
 
 > "Sin capital humano, la soberanía tecnológica es un espejismo. Podemos diseñar los mejores PLCs del mundo, pero si no tenemos ingenieros y técnicos que los mantengan, estamos vendiendo máquinas que otros pueden reparar pero nosotros no. Eso no es soberanía, es dependencia disfrazada." — Director de la AIIEE, presentación a gabinete, agosto 2016.
 
-## Estado actual
+## Estado actual (al 1 de octubre de 2016)
 
-La Secretaría del Acuerdo Nacional 2017 está funcionando. Se convocó a ministros de Educación, Ciencia, Desarrollo Social, Hacienda, Economía, Minería y Energía. Se convocó a rectores de universidades, directores de institutos técnicos, empresarios, sindicatos, organizaciones estudiantiles. El borrador técnico está en desarrollo. Plazo: 30 días desde el 3 de septiembre de 2016. Lanzamiento formal: enero 2017.
+**Borrador técnico entregado el 1 de octubre de 2016.** El documento incluye mapa de liceos técnicos, ingeniería aplicada vinculada a litio e hidrógeno verde, y estimación fiscal. La Unidad de Control de Prioridades Industriales supervisó la elaboración y validó la entrega.
 
-No se acelera. No se improvisa. No se lanza sin que los equipos técnicos de cada ministerio hayan validado que es implementable. El riesgo de lanzar una reforma educativa sin base técnica sólida es que fracase, que erosione confianza en el Estado, que genere frustración. Mejor esperar 30 días y tener un borrador sólido que lanzar algo a medio cocer.
+Se inicia ahora la fase de debate técnico y alineación de actores (octubre-noviembre 2016).
+
+## Doctrina de formulación: profesionales al diseño
+
+La Reforma 2017 es la primera aplicación de la doctrina de formulación de reformas con profesionales del sector. Ver [[doctrina/formulacion-de-reformas|Doctrina de formulación de reformas]].
+
+**Quién se sienta a la mesa de formulación:**
+
+- Profesores de liceos técnicos, educación media y universitaria
+- Directores de establecimientos educativos de todos los niveles
+- Directivos estudiantiles de educación media y universitaria (no básica — no tienen la madurez suficiente para este tipo de mesa técnica)
+- Técnicos y profesionales del sector industrial que van a recibir a los egresados
+- Académicos de ingeniería aplicada, formación dual y ciencias aplicadas
+
+**Quién NO diseña la reforma:**
+
+- Senadores negociando cuotas políticas
+- Figuras políticas mediáticas opinando sin conocimiento de aula
+- Burócratas que nunca pisaron un liceo técnico ni una planta industrial
+
+**Los políticos aprueban, financian y supervisan. No diseñan.** El Ministerio de Educación lidera la convocatoria. CORFO articula con industria. Hacienda valida presupuesto. Pero el contenido curricular, la estructura de formación dual y los estándares de calidad los definen los profesionales que van a ejecutar la reforma y los estudiantes que van a vivirla.
+
+> "Si la reforma la diseñan los que nunca entraron a un aula, va a fracasar como todas las anteriores. Esta vez, los que saben son los que diseñan." — Ministerio de Educación, instrucción a la Secretaría del Acuerdo Nacional, octubre 2016.
 
 ## Qué debe incluir
 
@@ -92,10 +114,12 @@ La Reforma 2017 es un parche importante, pero no la solución final al problema 
 
 La Reforma 2017 es la primera señal concreta de que el gobierno toma en serio la dimensión social. Los pilotos de bienestar territorial en Valparaíso, Coquimbo, Biobío y Antofagasta son señales adicionales. Pero ninguna cantidad de programas sociales compensa un marco constitucional que millones de chilenos perciben como impuesto, no como propio. El riesgo es claro: si el Proyecto Chile no se socializa, la narrativa puede volverse contra el modelo. "PLCs chilenos para la élite", "puertos inteligentes mientras los hospitales colapsan", "corredores bioceánicos mientras las pensiones no alcanzan". Esa narrativa es letal para la sostenibilidad política del país.
 
-## Próximos pasos inmediatos
+## Próximos pasos inmediatos (desde octubre 2016)
 
-Entre ahora y octubre de 2016, la Secretaría del Acuerdo Nacional debe cerrar el borrador técnico. Eso significa validar presupuesto, cronograma, responsables institucionales, métricas de éxito. Significa construir consenso con universidades, institutos técnicos, empresarios, sindicatos, organizaciones estudiantiles. Significa que cada ministerio valide que puede ejecutar lo que se le asigna. No hay margen para improvisación.
+~~Entre ahora y octubre de 2016, la Secretaría del Acuerdo Nacional debe cerrar el borrador técnico.~~ ✅ COMPLETADO el 1 de octubre.
 
-Entre octubre y diciembre de 2016, el borrador debe convertirse en documento de política pública listo para lanzamiento. Eso significa comunicación pública preparada, equipos técnicos en cada ministerio listos para ejecutar, presupuesto asignado, primeras escuelas técnicas identificadas para piloto. Significa que el gobierno está listo para anunciar en enero 2017 con base sólida, no con promesas vagas.
+**Octubre-noviembre 2016:** el borrador entra en fase de debate técnico con profesionales del sector. Rectores, profesores, directores de liceos, directivos estudiantiles de media y universitaria, técnicos industriales y académicos aplicados validan el contenido. Se corrige según feedback profesional, no según negociación política. La Unidad de Control de Prioridades Industriales supervisa que la mesa de formulación respete la doctrina: profesionales diseñan, políticos aprueban.
 
-El lanzamiento en enero 2017 debe ser acto presidencial formal. Debe comunicar claramente qué es la Reforma 2017, qué no es, cuáles son los tiempos, cuáles son las métricas de éxito. Debe ser honesto sobre los riesgos y las limitaciones. Debe marcar dirección clara para los próximos 10 años. Eso es lo que hace que una reforma sea creíble y sostenible.
+**Noviembre-diciembre 2016:** alineación final de actores. Validación presupuestaria con Hacienda. Legitimidad política y social construida. Comunicación pública preparada para lanzamiento.
+
+**Enero 2017:** lanzamiento formal. Acto presidencial. Primeras medidas comienzan a ejecutarse. Primeras escuelas técnicas con formación dual en piloto.

@@ -1,8 +1,8 @@
-# Turno — 2016-09-10
+# Turno ejecutado — 2016-09-10
 
 ## Foto del momento
 
-Chile entra a este turno habiendo ejecutado el primer ciclo completo de administración del éxito. El corredor bioceánico tiene métricas públicas. La microelectrónica exportada tiene soporte certificado. La Reforma 2017 tiene un borrador técnico en marcha. El bienestar territorial avanza hacia Valparaíso y Coquimbo. Las tensiones en el Estrecho de Taiwán siguen activas pero no afectan directamente el flujo hacia Sudamérica.
+Chile cierra este tramo habiendo ejecutado el primer ciclo completo de administración del éxito. El corredor bioceánico tiene métricas públicas. La microelectrónica exportada tiene soporte certificado. La Reforma 2017 tiene un borrador técnico en marcha. El bienestar territorial avanza hacia Valparaíso y Coquimbo. Las tensiones en el Estrecho de Taiwán siguen activas pero no afectan directamente el flujo hacia Sudamérica.
 
 ## Qué está pasando de verdad
 
@@ -13,6 +13,7 @@ Chile entra a este turno habiendo ejecutado el primer ciclo completo de administ
 - El Centro Bioceánico publica su primer set de métricas trimestrales.
 - Japón y Corea siguen en fase de validación — no hay novedad que exija acción.
 - India sigue estable en modo contractual — no hay novedad que exija acción.
+- El tramo quedó registrado en historial, estado y pendientes; el próximo salto temporal ya no puede retroceder.
 
 ## Prioridad 1
 
@@ -89,3 +90,7 @@ Santiago, 10 de septiembre de 2016. El gobierno no celebra. Administra. El prime
 | Economía azul | 🔄 Agenda litoral central | Expandir monitoreo costero hacia norte chico |
 | Cables submarinos / soberanía digital | ✅ Redundancias verificadas | Mantenimiento preventivo continuo |
 | Antártica / glaciares | 🟡 En agenda científica | No es prioridad inmediata, no abandonar |
+
+## Siguiente corte temporal sugerido
+
+Salto de **7 días**: al 17 de septiembre de 2016. El tramo ya quedó consolidado y registrado; ahora conviene dejar que la burocracia y el seguimiento técnico produzcan resultados antes de abrir un nuevo frente.

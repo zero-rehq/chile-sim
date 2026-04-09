@@ -19,11 +19,11 @@ Ver checklist completo en `AGENTS.md` sección "Actualización del vault — OBL
 
 ## Dashboard estratégico
 
-- **Fecha actual del juego:** 10 de diciembre de 2016 — tramo ejecutado y registrado
-- **Próximo turno:** a partir del 11 de diciembre de 2016
+- **Fecha actual del juego:** 24 de diciembre de 2016 — cierre de año con consolidación de éxito
+- **Próximo turno:** a partir del 25 de diciembre de 2016 / enero 2017
 - **Doctrina guía:** consolidar antes de expandir
-- **Estado del modelo:** Reforma 2017 en preingreso legislativo, Perú integrado con Misión Técnica y contrato de PLCs, Brasil publicando métricas en reales, Fondo de Compensación UBA operativo, trazabilidad Mato Grosso-Valparaíso al 99.8%, Protocolos de Continuidad Operativa validados
-- **Prioridad inmediata:** lanzar Reforma 2017 en enero, auditoría de capacidad para expansión a Brasil, mantener vigilancia digital ante tensiones en Asia oriental, construir UBA técnicamente hasta reforma constitucional chilena
+- **Estado del modelo:** Reforma 2017 blindada jurídicamente y lista para ingreso legislativo en enero 2017, Perú integrado con Misión Técnica en Lima y contrato de 50 PLCs en operación (convergencia 78% hacia UBA), Brasil publicando métricas en reales y aceptando Ventanilla Única Aduanera en fase piloto, Fondo de Compensación UBA operativo con USD 150 millones, trazabilidad Mato Grosso-Valparaíso al 99.8%, Incidente en Taiwán superado mediante Plan de Redundancia Estratégica, peso chileno estable en 650-655 pesos por dólar, **India en Transferencia Operativa Nivel 2 con capacitación de 12 ingenieros iniciada (certificación en febrero 2017)**
+- **Prioridad inmediata:** ingreso legislativo de Reforma 2017 en enero 2017, implementación en 45 liceos técnicos piloto, fase piloto de Ventanilla Única Aduanera con Brasil (febrero-marzo 2017), completar capacitación de ingenieros indios (certificación febrero 2017), mantener vigilancia digital ante tensiones en Asia oriental, construir UBA técnicamente hasta reforma constitucional chilena
 
 ## Navegación rápida
 
@@ -37,17 +37,17 @@ Ver checklist completo en `AGENTS.md` sección "Actualización del vault — OBL
 - [[doctrina/linea-temporal-constitucional-2016-2026|Línea temporal constitucional 2016-2026]]
 - [[doctrina/mecanismo-constitucional-ideal|Mecanismo constitucional ideal para Chile]]
 - [[doctrina/bases-sustantivas-constitucion-futura|Bases sustantivas de la constitución futura]]
-- [[estado/estado-actual-2016-12-10|Estado actual al 10 de diciembre de 2016]]
+- [[estado/estado-actual-2016-12-24|Estado actual al 24 de diciembre de 2016]]
 - [[estado/activos-estrategicos|Activos, nodos y unidades clave]]
-- [[turnos/historial-decisiones-2016|Historial de acciones 2016]]
-- [[eventos/cronologia-del-mundo-y-chile|Cronología resumida del mundo y de Chile]]
+- [[turnos/historial-acciones-completo-2016|Historial completo de acciones 2016]]
+- [[eventos/eventos-detallados-recientes|Eventos detallados recientes]]
 - [[diplomacia/acuerdos-y-canales|Diplomacia, socios y líneas abiertas]]
 - [[diplomacia/chats-recientes|Chats diplomáticos recientes]]
 - [[pendientes/pila-estrategica|Pendientes estratégicos y frentes abiertos]]
 - [[pendientes/reforma-2017|Reforma 2017]]
 - [[doctrina/formulacion-de-reformas|Doctrina de formulación de reformas]]
 - [[doctrina/union-bioceanica-americana|Unión Bioceánica Americana — Real Inti]]
-- [[contexto/handoff-maestro-2016-12-10|Handoff maestro persistido]]
+- [[contexto/handoff-maestro-2016-12-24|Handoff maestro persistido]]
 - [[contexto/resumenes-historicos-por-tramos|Resúmenes históricos por tramos]]
 - [[contexto/estado-del-mapa-y-unidades-2016-09-03|Estado del mapa y unidades al 2016-09-03]]
 - [[contexto/situacion-del-mundo-2016-09-03|Situación del mundo al 2016-09-03]]
@@ -72,10 +72,10 @@ Chile ya no está en fase de promesa, sino en fase de **administración de éxit
 
 ## Qué mirar antes de cada turno
 
-1. [[estado/estado-actual-2016-09-03|Estado actual]]
+1. [[estado/estado-actual-2016-12-24|Estado actual]]
 2. [[pendientes/pila-estrategica|Pendientes estratégicos]]
 3. [[diplomacia/acuerdos-y-canales|Diplomacia]]
-4. [[turnos/historial-decisiones-2016|Historial de acciones]]
+4. [[turnos/historial-acciones-completo-2016|Historial de acciones]]
 
 ## Regla de registro
 

@@ -1,4 +1,6 @@
-# Objetivo 5: Unión Cono Sur — Integración funcional de Sudamérica
+# Objetivo 5: Unión Bioceánica Americana — Integración funcional de Sudamérica
+
+> **Nombre definitivo del bloque**: Unión Bioceánica Americana (UBA). **Moneda**: Real Inti (nombre de calle: Inti / plural: intis / sigla financiera: RIN). Ver doctrina completa en [[doctrina/union-bioceanica-americana|Unión Bioceánica Americana — Doctrina fundacional]].
 
 > "La integración sudamericana no se construye con declaraciones presidenciales. Se construye cuando el tren de Mato Grosso llega a Valparaíso sin fricción, cuando un contenedor pasa de Argentina a Chile sin esperar en aduanas, cuando los técnicos de Brasil y Chile hablan el mismo idioma operativo." — Ministro de Relaciones Exteriores, discurso ante la Cámara de Comercio Sudamericana, agosto 2016.
 
@@ -95,6 +97,7 @@ Ver también [[diplomacia/argentina-brasil-peru|Dossier Corredor Bioceánico]] p
 ---
 
 **Relación con otros documentos:**
+- [[doctrina/union-bioceanica-americana|Unión Bioceánica Americana — Doctrina fundacional]]
 - [[doctrina/vision-doctrinal|Visión doctrinal]]
 - [[doctrina/objetivos-largo-plazo|Objetivos de largo plazo]]
 - [[doctrina/objetivos/04-potencia-logistica|Objetivo 4: Potencia logística]]

@@ -6,8 +6,8 @@
 
 Después de cada turno o bloque de acciones, el agente DEBE actualizar estos archivos en orden:
 
-1. **`turnos/historial-acciones-completo-2016.md`** (y `turnos/historial-acciones-completo-2017.md` cuando corresponda) — agregar TODAS las acciones ejecutadas con fecha, descripción e impacto. **Cada acción debe incluir su estado: `[ESTADO: ENVIADA]` al proponer, `[ESTADO: EJECUTADA]` al confirmar.**
-2. **`estado/estado-actual-*.md`** — crear o actualizar con fecha actual (ej: `estado-actual-2016-12-10.md`)
+1. **`turnos/historial-acciones-completo-2026.md`** — agregar TODAS las acciones ejecutadas con fecha, descripción e impacto. **Cada acción debe incluir su estado: `[ESTADO: ENVIADA]` al proponer, `[ESTADO: EJECUTADA]` al confirmar.**
+2. **`estado/estado-actual-*.md`** — crear o actualizar con fecha actual (ej: `estado-actual-2026-02-15.md`)
 3. **`pendientes/pila-estrategica.md`** — actualizar tabla de frentes, prioridades y estado
 4. **`eventos/eventos-detallados-recientes.md`** — registrar eventos mundiales y respuestas
 5. **`contexto/handoff-maestro-*.md`** — crear o actualizar con resumen ejecutivo y advertencias
@@ -26,8 +26,8 @@ Toda acción propuesta al jugador se registra con un estado que refleja su ciclo
 
 **Formato en el historial:**
 ```
-**[ESTADO: ENVIADA]** Action Date: 2016-12-25 / Chile inicia...
-**[ESTADO: EJECUTADA]** Action Date: 2016-12-25 / Chile inicia...
+**[ESTADO: ENVIADA]** Action Date: 2026-02-15 / Chile inicia...
+**[ESTADO: EJECUTADA]** Action Date: 2026-02-15 / Chile inicia...
 ```
 
 Esta distinción es obligatoria. Permite rastrear qué fue propuesto versus qué fue realmente ejecutado, y es crítica para la coherencia del vault cuando el contexto se compacta o un nuevo agente retoma el juego.
@@ -47,7 +47,7 @@ Con esos 5 archivos, cualquier agente debe poder entender dónde está Chile, qu
 
 ## Navegación rápida
 
-### Doctrina (no cambia entre turnos)
+### Doctrina (no cambia entre turnos — ASPIRACIONAL)
 - `doctrina/vision-doctrinal.md` — Visión doctrinal y plan país
 - `doctrina/objetivos-largo-plazo.md` — Objetivos de largo plazo (2020/2025/2030+)
 - `doctrina/imagen-final-de-pais.md` — Imagen final de país
@@ -65,49 +65,43 @@ Con esos 5 archivos, cualquier agente debe poder entender dónde está Chile, qu
 - `estado/game-state.json` — **punto de entrada rápido**: fecha, turno, acciones pendientes, riesgo
 - `estado/` → archivo `estado-actual-*.md` más reciente (con sección delta al inicio)
 - `estado/nodos-dios.md` — 7 pilares críticos del modelo con dependencias y riesgo de falla
+- `estado/activos-estrategicos.md` — Lo que Chile tiene y lo que necesita construir
 - `pendientes/pila-estrategica.md`
-- `pendientes/reforma-2017.md`
 - `contexto/` → archivo `handoff-maestro-*.md` más reciente
 - `contexto/wisdom.md` — lecciones acumuladas (Convenciones, Éxitos, Riesgos, Gotchas)
 - `eventos/eventos-detallados-recientes.md`
 
 ### Snapshots sectoriales (actualizar cada turno)
-- `snapshots/energia.json` — solar, eólica, smart grid, hidrógeno, nodo Biobío
-- `snapshots/industria.json` — PLCs, cumplimiento de estándares, expansión Brasil
-- `snapshots/diplomacia.json` — estado y confianza por socio
-- `snapshots/fiscal.json` — peso, regla fiscal, Fondo UBA, Reforma 2017
-- `snapshots/logistica.json` — trazabilidad corredor, Ventanilla Única, Agua Negra
+- `snapshots/energia.json` — matriz energética, renovables, smart grid, hidrógeno
+- `snapshots/industria.json` — manufactura, minería, tecnología soberana, patentes
+- `snapshots/diplomacia.json` — relaciones bilaterales, bloques, confianza
+- `snapshots/fiscal.json` — PIB, regla fiscal, exportaciones, pensiones
+- `snapshots/logistica.json` — puertos, corredor, trazabilidad, cables submarinos
 
 ### Historial y turnos
-- **`turnos/indice-turnos.md`** — Índice general con navegación cronológica de todos los turnos (LEER PRIMERO)
-- `turnos/turno-2016-01-26.md` a `turno-2016-12-24.md` — Archivos individuales de cada turno (10 turnos de 2016)
-- `turnos/historial-acciones-completo-2016.md` — Cronología plana completa de 2016
-- `turnos/historial-acciones-completo-2017.md` — Cronología plana de 2017
-- `turnos/plantilla-turno.md`
-
-### Diplomacia
-- `diplomacia/acuerdos-y-canales.md`
-- `diplomacia/india.md`
-- `diplomacia/argentina-brasil-peru.md`
-- `diplomacia/japon-corea.md`
-- `diplomacia/alemania.md`
-
-### Contexto histórico y situación del mundo
-- `contexto/resumenes-historicos-por-tramos.md` — Resúmenes COMPLETOS del simulador por cada tramo (10 tramos de 2016)
-- `contexto/situacion-del-mundo-2016-12-24.md` — Mapa mundial, unidades de Chile, tensiones internacionales (BUSCAR SIEMPRE EL MÁS RECIENTE)
-- `estado/activos-estrategicos.md`
+- **`turnos/indice-turnos.md`** — Índice general con navegación cronológica de todos los turnos
+- `turnos/historial-acciones-completo-2026.md` — Cronología plana completa de 2026
+- `turnos/plantilla-turno.md` — Plantilla para crear nuevos turnos
 
 ## Estado actual del juego
 
-**Fecha:** 20 de febrero de 2017 | **Turno:** 51
+**Fecha:** 1 de febrero de 2026 | **Turno:** 1 (inicio)
 
-**Prioridad inmediata:** 3 acciones enviadas — expansión VUA Paraná/RS (24 feb), presentación Reforma al Congreso (28 feb), cuarto Índice UBA con Perú (5 mar).
+**Preset:** Real World 2026 — Chile arranca con condiciones reales de febrero 2026.
 
-**Alertas activas:** China escala en Taiwán — Liaoning desplegado (ALTO). Brasil sindicatos contenidos pero transición laboral frágil. India inicia supervisión operativa autónoma.
+**Prioridad inmediata:** Primer turno — establecer posición inicial. Todas las decisiones pendientes.
+
+**Alertas activas:**
+- 🚨 China-Taiwán: ejercicios de bloqueo activos desde dic 2025. Rutas transpacíficas amenazadas.
+- 🚨 Venezuela: Maduro capturado por EEUU (3 ene 2026). Precedente hemisférico sin precedentes.
+- ⚠️ Transición presidencial: Boric sale 11 mar 2026. Nuevo gobierno centroderecha asume.
+- ⚠️ Crisis social interna: pensiones AFP, Mapuche, desigualdad.
+
+**Todos los frentes en NO INICIADO.** Ver `pendientes/pila-estrategica.md`.
 
 ## Juicio estratégico corto
 
-Chile ya no está en fase de promesa, sino en fase de **administración de éxito**. El mayor peligro no es externo: es crecer más rápido de lo que el Estado, la industria y el capital humano pueden sostener.
+Chile tiene fundamentos macroeconómicos sólidos, recursos naturales extraordinarios y una red comercial impresionante. Pero depende del cobre, no tiene industria soberana, enfrenta crisis social real y el mundo se fragmenta. La doctrina traza el camino. Falta todo por hacer.
 
 ## Regla de oro
 
@@ -119,13 +113,17 @@ Chile ya no está en fase de promesa, sino en fase de **administración de éxit
 
 1. `estado/` → el archivo `estado-actual-*.md` **más reciente**
 2. `pendientes/pila-estrategica.md`
-3. `diplomacia/acuerdos-y-canales.md`
-4. **`turnos/indice-turnos.md`** → índice general de turnos (salta al turno que necesites)
+3. `eventos/eventos-detallados-recientes.md`
+4. `estado/game-state.json`
 5. `contexto/` → el `handoff-maestro-*.md` **más reciente**
 
 ## Regla de registro
 
 Todo lo que se ejecute o se reporte queda anotado en el archivo que corresponda: historial, estado, pendientes, contexto o turno. El último log del jugador marca siempre el corte temporal; cualquier acción nueva se escribe después de esa fecha.
+
+## Nota sobre el reset
+
+El vault anterior (2016-2017, 51 turnos) fue backup commitado en git antes de este reset. Las instituciones del juego anterior (AIIEE, Parque Atacama, Centro Bioceánico, etc.) NO existen en este preset. Se crearán de nuevo con nombres nuevos durante el gameplay. La doctrina se conservó como horizonte aspiracional.
 
 ## Formato recomendado para nuevas notas de turno
 

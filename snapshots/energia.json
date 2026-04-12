@@ -1,9 +1,39 @@
 {
-  "fecha_snapshot": "2016-12-24",
-  "solar_norte_status": "OPERATIVO",
-  "eolica_sur_status": "OPERATIVO",
-  "smart_grid_status": "EN_EXPANSION",
-  "hidrogeno_verde_status": "FASE_PILOTO",
-  "nodo_biobio_status": "OPERATIVO",
-  "resiliencia_matriz": "ALTA"
+  "fecha": "2026-02-01",
+  "preset": "Real World 2026",
+  "matriz_energetica": {
+    "renovable_total_pct": 50,
+    "solar_pct": 20,
+    "eolica_pct": 15,
+    "hidro_pct": 15,
+    "fossil_pct": 50,
+    "fossil_detalle": "gas natural, carbón residual, diésel"
+  },
+  "capacidad_instalada_mw": 30000,
+  "almacenamiento_energia": {
+    "baterias_grid_scale_mwh": 500,
+    "hidrogeno_verde": "NO EXISTE",
+    "pumped_hydro_mw": 0
+  },
+  "smart_grid": {
+    "penetracion_pct": 5,
+    "medidores_inteligentes_pct": 15,
+    "estado": "INFANCIA — solo proyectos piloto aislados"
+  },
+  "red_electrica": {
+    "interconexion_norte_sur": "SING-SIC unificada desde 2018",
+    "redundancia": "BAJA — corredores únicos en zonas críticas",
+    "ciberresiliencia": "MINIMA — sin protocolos formales"
+  },
+  "transporte_electrico": {
+    "vehiculos_electricos_pct": 1,
+    "carga_publica": "incipiente — Santiago concentra el 80%",
+    "electrificacion_ferroviaria": "parcial — solo Metro Santiago y algunos tramos"
+  },
+  "exportable": {
+    "tecnologia_solar": "capacidad instalacion — no fabricación",
+    "tecnologia_eolica": "ninguna — turbinas importadas",
+    "knowhow_operativo": "ALTO — Chile tiene experiencia real en despliegue renovable a gran escala"
+  },
+  "nota": "Chile tiene una base renovable significativa pero CERO soberanía tecnológica energética. Todo el equipamiento se importa. No hay industria de almacenamiento ni hidrógeno."
 }

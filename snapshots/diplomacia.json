@@ -1,53 +1,91 @@
 {
-  "fecha_snapshot": "2017-02-20",
-  "socios": {
-    "india": {
-      "status": "ACTIVO",
-      "nivel_confianza": "FIRME",
-      "ultimo_hito": "200 ingenieros en certificación — Terminal Gujarat-Madhya operativo. India inicia asunción supervisión operativa (14 feb).",
-      "proxima_accion": "Supervisión operativa plena marzo 2017"
-    },
-    "peru": {
-      "status": "ACTIVO",
-      "nivel_confianza": "FIRME",
-      "ultimo_hito": "PLCs 98.5% operatividad (auditoría Lima). Perú co-produce cuarto Índice UBA (5 mar, ENVIADA).",
-      "proxima_accion": "Cuarto Índice UBA coproducción Chile-Perú (5 mar)"
-    },
-    "brasil": {
-      "status": "ACTIVO",
-      "nivel_confianza": "FIRME",
-      "ultimo_hito": "Nodo Logístico Santos-Paranaguá CREADO (10 feb). 4 técnicos CTDI. Programa capacitación despachantes activo.",
-      "proxima_accion": "Propuesta expansión VUA a Paraná y Río Grande do Sul (24 feb, ENVIADA)"
-    },
-    "argentina": {
-      "status": "ACTIVO",
-      "nivel_confianza": "FIRME",
-      "ultimo_hito": "PLCs 99% operatividad. Red de Interoperabilidad Regional estable.",
-      "proxima_accion": "Mantener integración técnica — expansión Mendoza-Neuquén en horizonte 2017-2020"
-    },
-    "japon_corea": {
-      "status": "ACTIVO",
-      "nivel_confianza": "FIRME",
-      "ultimo_hito": "Protocolos Malaca/Sonda activos. Trazabilidad litio intacta ante Liaoning cerca de Taiwán (18 feb).",
-      "proxima_accion": "Monitoreo continuo escalada China"
-    },
-    "alemania": {
-      "status": "ACTIVO",
-      "nivel_confianza": "FIRME",
-      "ultimo_hito": "PI blindada con encriptación nivel militar (13 feb). Incidente espionaje reportado ante UE. Chile como socio de alta seguridad industrial.",
-      "proxima_accion": "Consolidar canal seguro Secretaría Técnica Chileno-Alemana"
+  "fecha": "2026-02-01",
+  "preset": "Real World 2026",
+  "relaciones_bilaterales": {
+    "estados_unidos": {
+      "nivel": "ESTABLE",
+      "marcador": "FIRME",
+      "fta": true,
+      "nota": "FTA vigente desde 2004. Relaciones comerciales fuertes. Tensión por enfoque Trump en América Latina post-Maduro.",
+      "confianza": 7
     },
     "china": {
-      "status": "MONITOREO",
-      "nivel_confianza": "ESPECULATIVA",
-      "ultimo_hito": "Portaaviones Liaoning desplegado cerca de Taiwán (18 feb). Escalada sostenida.",
-      "proxima_accion": "Monitoreo continuo — no confrontación"
+      "nivel": "COMERCIAL_FUERTE",
+      "marcador": "FIRME",
+      "fta": true,
+      "nota": "Principal destino de exportaciones (cobre, litio, celulosa). FTA desde 2006. Dependencia comercial significativa. China es primer socio comercial.",
+      "confianza": 5
     },
-    "ue": {
-      "status": "ACTIVO",
-      "nivel_confianza": "EN_NEGOCIACION",
-      "ultimo_hito": "Incidente espionaje industrial reportado por Chile ante la UE — Chile posicionado como socio afectado y confiable.",
-      "proxima_accion": "Seguimiento investigación UE sobre red espionaje SE asiático"
+    "union_europea": {
+      "nivel": "COMERCIAL_ESTABLE",
+      "marcador": "FIRME",
+      "fta": true,
+      "nota": "Acuerdo comercial vigente. Exportaciones de vino, frutas, celulosa. Relaciones políticas cordiales.",
+      "confianza": 6
+    },
+    "japon": {
+      "nivel": "COMERCIAL",
+      "marcador": "FIRME",
+      "fta": true,
+      "nota": "Japón importa cobre y litio chileno. CPTPP vincula a ambos. Sin profundización estratégica.",
+      "confianza": 5
+    },
+    "corea_sur": {
+      "nivel": "COMERCIAL",
+      "marcador": "FIRME",
+      "fta": true,
+      "nota": "FTA vigente. Importaciones coreanas de cobre y litio. Sin cooperación industrial.",
+      "confianza": 5
+    },
+    "india": {
+      "nivel": "EMERGENTE",
+      "marcador": "EN NEGOCIACIÓN",
+      "fta": false,
+      "nota": "India crece como mercado para cobre. Sin FTA formal. Conversaciones iniciales en minería.",
+      "confianza": 3
+    },
+    "alemania": {
+      "nivel": "COMERCIAL_SELECTIVO",
+      "marcador": "FIRME",
+      "fta": true,
+      "nota": "Relación a través de UE. Alemania es socio en energías renovables y minería sostenible.",
+      "confianza": 5
+    },
+    "argentina": {
+      "nivel": "VECINAL_ESTABLE",
+      "marcador": "FIRME",
+      "fta": false,
+      "nota": "Integración comercial básica. Pasos fronterizos operativos. MERCOSUR asociado. Sin corredor bioceánico formal.",
+      "confianza": 6
+    },
+    "brasil": {
+      "nivel": "REGIONAL",
+      "marcador": "FIRME",
+      "fta": false,
+      "nota": "Principal socio sudamericano. Relaciones estables con Lula. MERCOSUR asociado.",
+      "confianza": 6
+    },
+    "peru": {
+      "nivel": "REGIONAL",
+      "marcador": "FIRME",
+      "fta": false,
+      "nota": "Alianza del Pacífico. Cooperación en minería. Sin profundización estratégica.",
+      "confianza": 7
     }
-  }
+  },
+  "bloques": {
+    "alianza_pacifico": "miembro — Chile, Colombia, México, Perú",
+    "cptpp": "miembro — acuerdo transpacífico",
+    "mercosur": "asociado — no miembro pleno",
+    "apec": "miembro",
+    "oecd": "candidato — en proceso de adhesión"
+  },
+  "misiones_diplomaticas": {
+    "embajadas": 60,
+    "misiones_tecnicas_permanentes": 0,
+    "nota": "Chile tiene red diplomática amplia pero sin misiones técnicas especializadas en el exterior."
+  },
+  "corredor_bioceanico": "NO EXISTE — solo conversaciones bilaterales informales con Argentina",
+  "uba": "NO EXISTE — concepto aspiracional en doctrina/",
+  "nota": "Chile tiene excelente red de FTAs y relaciones comerciales, pero CERO profundización estratégica. No tiene alianzas de defensa, cooperación industrial, o misiones técnicas permanentes."
 }

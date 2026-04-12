@@ -1,28 +1,11 @@
 {
-  "fecha_actual": "2017-02-20",
-  "turno_actual": 51,
-  "ultimo_estado": "estado/estado-actual-2017-02-20.md",
-  "ultimo_handoff": "contexto/handoff-maestro-2017-02-20.md",
-  "frentes_activos_count": 14,
+  "fecha_actual": "2026-02-01",
+  "turno_actual": 1,
+  "preset": "Real World 2026",
+  "presidente": "Gabriel Boric",
+  "frentes_activos_count": 0,
   "riesgo_externo": "ALTO",
-  "acciones_pendientes": [
-    {
-      "id": 14,
-      "fecha": "2017-02-24",
-      "titulo": "Proponer expansión Ventanilla Única a corredores Paraná y Río Grande do Sul",
-      "estado": "ENVIADA"
-    },
-    {
-      "id": 15,
-      "fecha": "2017-02-28",
-      "titulo": "Presentar datos primera medición Reforma 2017 al Congreso",
-      "estado": "ENVIADA"
-    },
-    {
-      "id": 16,
-      "fecha": "2017-03-05",
-      "titulo": "Chile y Perú coproducen cuarto Índice de Convergencia UBA",
-      "estado": "ENVIADA"
-    }
-  ]
+  "acciones_pendientes": 0,
+  "ultima_actualizacion": "2026-02-01",
+  "nota": "Reset a Real World 2026. Chile arranca con condiciones reales de febrero 2026."
 }

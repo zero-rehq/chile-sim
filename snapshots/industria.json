@@ -1,9 +1,53 @@
 {
-  "fecha_snapshot": "2017-01-16",
-  "parque_atacama_status": "OPERATIVO",
-  "plcs_exportados": 50,
-  "cumplimiento_estandares_pct": "99%",
-  "soporte_remoto_status": "OPERATIVO",
-  "certificacion_soberana_status": "ACTIVO",
-  "expansion_brasil_status": "AUDITORIA_EN_CURSO"
+  "fecha": "2026-02-01",
+  "preset": "Real World 2026",
+  "sector_minero": {
+    "cobre": {
+      "produccion_anual_mt": 5.5,
+      "exportacion_usd_bn": 45,
+      "empresa_estatal": "Codelco",
+      "valor_agregado": "BAJO — 70% exportación como concentrado sin refinar",
+      "patentes": "ninguna relevante"
+    },
+    "litio": {
+      "produccion_anual_mt": 250000,
+      "operadores": ["SQM", "Albemarle"],
+      "refinacion": "carbonato e hidróxido básico — sin baterías ni componentes",
+      "soberania": "BAJA — multinacionales controlan la operación"
+    }
+  },
+  "sector_agricola_forestal": {
+    "exportaciones_usd_bn": 18,
+    "productos_clave": ["uvas", "cerezas", "vino", "celulosa", "madera"],
+    "tecnologia": "MEDIA — algo de riego tecnificado, pero sin automatización avanzada"
+  },
+  "sector_pesquero": {
+    "exportaciones_usd_bn": 5,
+    "productos": "harina de pescado, salmón, conservas",
+    "acuicultura": "desarrollada — salmón en el sur",
+    "vigilancia_maritima": "LIMITADA — sin sensores oceánicos"
+  },
+  "manufactura": {
+    "manufactura_avanzada": "NO EXISTE",
+    "microelectronica": "NO EXISTE",
+    "defensa": "NO EXISTE — industria militar insignificante",
+    "software": "incipiente — startups pero no sector industrial"
+  },
+  "tecnologia_soberana": {
+    "fabricacion_semiconductores": "NO EXISTE",
+    "fabricacion_sensores": "NO EXISTE",
+    "plcs_industriales": "NO EXISTE — todo importado",
+    "sistemas_scada": "importados — Siemens, Rockwell, ABB"
+  },
+  "patentes_pi": {
+    "patentes_activas": "pocas — Chile es importador neto de tecnología",
+    "regalias_usd_anual": 0,
+    "certificaciones_soberanas": "NO EXISTE"
+  },
+  "parques_industriales": {
+    "parque_atacama": "NO EXISTE",
+    "nodo_energetico_biobio": "NO EXISTE",
+    "centro_ciberresiliencia": "NO EXISTE"
+  },
+  "nota": "Chile es exportador de materias primas sin valor agregado industrial. No tiene sector manufacturero avanzado, defensa, microelectrónica ni tecnología soberana. La transformación industrial es el principal hueco estratégico."
 }

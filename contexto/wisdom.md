@@ -37,3 +37,12 @@ Lecciones aprendidas del proceso de gobierno. Crece turno a turno.
 - **2016** | UBA timing | Perú alcanzó el umbral de entrada UBA (78%) pero la activación política no puede ocurrir aún. No confundir convergencia técnica con habilitación política — son dos cosas distintas.
 - **2016** | Reforma 2017 | La Reforma 2017 está blindada jurídicamente pero NO aprobada legislativamente. "Lista para ingreso" ≠ "aprobada". El Congreso puede modificarla o ralentizarla.
 - **2016** | Fechas en vault | Nunca usar fechas hardcodeadas para buscar archivos del vault. Siempre buscar el más reciente por fecha en el nombre. Las fechas avanzan cada turno.
+
+---
+
+## Reset a Real World 2026
+
+- Fecha: 2026-02-01
+- Lección: El vault anterior (2016-2017, 51 turnos) fue backup commitado antes del reset. Ver git history si se necesita recuperar.
+- Convención: Las instituciones del juego anterior (AIIEE, Parque Atacama, etc.) NO existen en este preset. Se crearán de nuevo con nombres nuevos.
+- Gotcha: La doctrina en `doctrina/` es ASPIRACIONAL — describe lo que Chile quiere llegar a ser, no lo que ES. No confundir visión con realidad.

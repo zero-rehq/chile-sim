@@ -1,8 +1,68 @@
 {
-  "fecha_snapshot": "2016-12-24",
-  "peso_rango": "650-655",
-  "estabilidad_peso": "ESTABLE",
-  "regla_fiscal_status": "ACTIVA",
-  "fondo_uba_usd_millones": 150,
-  "presupuesto_reforma_2017_usd_millones": 280
+  "fecha": "2026-02-01",
+  "preset": "Real World 2026",
+  "macroeconomia": {
+    "pib_nominal_usd_bn": 335,
+    "pib_per_capita_usd": 25000,
+    "pib_ppa_per_capita_usd": 30000,
+    "poblacion_millon": 19.5,
+    "crecimiento_pib_pct": 2.0,
+    "inflacion_pct": 3.5
+  },
+  "fiscal": {
+    "regla_fiscal": "structural_balance_rule — vigente desde 2005",
+    "balance_estructural_pct_pib": -1.5,
+    "deuda_publica_pct_pib": 35,
+    "gasto_publico_pct_pib": 25,
+    "ingresos_tributarios_pct_pib": 21
+  },
+  "moneda": {
+    "peso_clp_usd": 950,
+    "volatilidad": "MODERADA — ligada al precio del cobre",
+    "reservas_internacionales_usd_bn": 40,
+    "banco_central": "independiente — inflación targeting desde 1999"
+  },
+  "fondos_soberanos": {
+    "fondo_estabilizacion_cobre": {
+      "activo": true,
+      "valor_usd_bn": 2,
+      "nota": "El fondo existe pero está bajo — años de déficit fiscal lo redujeron"
+    },
+    "fondo_reserva_pensiones": {
+      "activo": true,
+      "valor_usd_bn": 5
+    }
+  },
+  "exportaciones": {
+    "total_usd_bn": 95,
+    "cobre_usd_bn": 45,
+    "litio_usd_bn": 8,
+    "agricola_forestal_usd_bn": 18,
+    "pesquero_usd_bn": 5,
+    "servicios_usd_bn": 5,
+    "manufactura_usd_bn": 3,
+    "nota": "Altamente concentrado en cobre y litio. Exportaciones manufactureras marginales."
+  },
+  "importaciones": {
+    "total_usd_bn": 85,
+    "combustibles_usd_bn": 15,
+    "bienes_capital_usd_bn": 20,
+    "bienes_consumo_usd_bn": 25,
+    "tecnologia_usd_bn": 10,
+    "nota": "Importador neto de tecnología, combustibles y bienes de capital."
+  },
+  "sistema_pensiones": {
+    "modelo": "AFP — capitalización individual",
+    "cobertura": "amplia pero insuficiente",
+    "pension_promedio_usd": 250,
+    "crisis": "AGUDA — pensiones bajas, protestas sociales recurrentes",
+    "reforma_estado": "EN DEBATE — múltiples propuestas, sin acuerdo"
+  },
+  "regalias": {
+    "regalia_minera": "en implementación — ley aprobada 2023",
+    "ingresos_regalias_usd_bn": 1,
+    "pi_regalias_usd": 0,
+    "nota": "Chile no genera ingresos por propiedad intelectual ni tecnología propia."
+  },
+  "nota": "Chile tiene fundamentos macroeconómicos sólidos (regla fiscal, Banco Central independiente, baja deuda) pero depende del cobre, no tiene diversificación productiva, y enfrenta crisis social por pensiones y desigualdad."
 }

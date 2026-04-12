@@ -1,17 +1,67 @@
 {
-  "fecha_snapshot": "2017-02-20",
-  "trazabilidad_corredor_pct": "99.8%",
-  "reduccion_tiempos_transito_pct": "14%",
-  "ventanilla_unica_status": "CONSOLIDADO_SANTOS_PARANAGUA",
-  "agua_negra_status": "OPERATIVO_99.8%",
-  "puertos_inteligentes": ["Valparaíso", "San Antonio", "Coquimbo", "Santos", "Paranaguá"],
-  "misiones_tecnicas_activas": 4,
-  "despacho_aduanero_brasil_horas": 5,
-  "nodos_logisticos": [
-    "Nodo Logístico Santos-Paranaguá (CREADO 10 feb)",
-    "Nodo Logístico India-Chile — Gujarat",
-    "Misión Técnica Lima",
-    "Delegación Técnica Brasilia"
-  ],
-  "expansion_pendiente": "Propuesta expansión VUA a Paraná y Río Grande do Sul (24 feb, ENVIADA)"
+  "fecha": "2026-02-01",
+  "preset": "Real World 2026",
+  "puertos": {
+    "valparaiso": {
+      "tipo": "comercial — contenedores",
+      "capacidad_teu_anual": 1200000,
+      "automatizacion": "NINGUNA — operaciones manuales",
+      "estado": "SATURADO — sin expansión reciente significativa",
+      "smart_port": false
+    },
+    "san_antonio": {
+      "tipo": "comercial — contenedores y graneles",
+      "capacidad_teu_anual": 800000,
+      "automatizacion": "NINGUNA",
+      "estado": "operativo pero sin modernización",
+      "smart_port": false
+    },
+    "coquimbo": {
+      "tipo": "regional — graneles y minería",
+      "capacidad_teu_anual": 200000,
+      "automatizacion": "NINGUNA",
+      "estado": "subutilizado — potencial sin desarrollar",
+      "smart_port": false
+    },
+    "mejillones": {
+      "tipo": "minero — cobre",
+      "automatizacion": "NINGUNA",
+      "estado": "operativo para exportación minera",
+      "smart_port": false
+    }
+  },
+  "corredor_bioceanico": {
+    "estado": "NO EXISTE",
+    "pasos_fronterizos": {
+      "agua_negra": "operativo pero lento — infraestructura básica",
+      "libertadores": "principal — Santiago-Mendoza, congestionado",
+      "puyehue": "operativo — sur",
+      "nota": "Pasos operativos pero sin infraestructura logística inteligente"
+    },
+    "trazabilidad": "NO EXISTE — sin sistema de seguimiento integrado",
+    "ventanilla_unica": "NO EXISTE — trámites aduaneros fragmentados",
+    "ferrocarril_transandino": "NO EXISTE — líneas antiguas abandonadas"
+  },
+  "infraestructura_vial": {
+    "ruta_5_norte_sur": "pavimentada — ejes central",
+    "conectividad_andina": "LIMITADA — pocos pasos habilitados todo el año",
+    "autopistas_concesionadas": "Santiago y zonas centrales — buena calidad"
+  },
+  "aeropuerto": {
+    "scl": "Arturo Merino Benítez — principal hub internacional",
+    "capacidad": "operativa pero sin expansión smart",
+    "carga": "moderada — frutas y productos de alto valor"
+  },
+  "trazabilidad_logistica": {
+    "sistema_nacional": "NO EXISTE",
+    "interoperabilidad_aduanera": "NO EXISTE",
+    "certificacion_digital": "NO EXISTE",
+    "blockchain": "NO EXISTE"
+  },
+  "cables_submarinos": {
+    "conectividad": "LIMITADA — Chile depende de cables que pasan por otros países",
+    "soberania_digital": "BAJA — sin cables propios",
+    "nota": "Vulnerabilidad significativa para conectividad internacional"
+  },
+  "nota": "Chile tiene puertos funcionales pero sin automatización, sin corredor bioceánico, sin trazabilidad inteligente y sin interoperabilidad aduanera. La logística es el talón de Aquiles de la economía chilena."
 }

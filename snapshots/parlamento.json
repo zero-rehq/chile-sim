@@ -1,0 +1,87 @@
+{
+  "fecha": "2026-03-27",
+  "preset": "Real World 2026",
+  "camara": {
+    "total_escanos": 155,
+    "mayoria": 78,
+    "bloques": {
+      "unidad_por_chile": {
+        "escanos": 61,
+        "rol": "oposicion_jugador"
+      },
+      "cambio_por_chile": {
+        "escanos": 42,
+        "rol": "oficialismo_kast"
+      },
+      "chile_grande_y_unido": {
+        "escanos": 34,
+        "rol": "bisagra_independiente"
+      },
+      "pdg": {
+        "escanos": 14,
+        "rol": "bisagra_independiente"
+      },
+      "vrh": {
+        "escanos": 3,
+        "rol": "bisagra_independiente"
+      },
+      "independientes": {
+        "escanos": 1,
+        "rol": "bisagra_independiente"
+      }
+    }
+  },
+  "senado": {
+    "total_escanos": 50,
+    "bloque_oposicion": 25,
+    "bloque_gobierno": 25,
+    "equilibrio": "25-25",
+    "nota": "El empate obliga a negociación permanente, disciplina interna y búsqueda de un desmarque puntual para mayorías simples."
+  },
+  "coaliciones_posibles": {
+    "unidad_por_chile_mas_chile_grande_y_unido": 95,
+    "unidad_por_chile_mas_pdg": 75,
+    "unidad_por_chile_mas_vrh": 64,
+    "unidad_por_chile_mas_pdg_mas_vrh": 78,
+    "unidad_por_chile_mas_chile_grande_y_unido_mas_pdg": 109
+  },
+  "proyectos_clave": [
+    {
+      "nombre": "revision_de_nombramientos_y_acuerdos_de_ultima_hora",
+      "estado": "auditorias_y_revision_activas",
+      "riesgo_politico": "alto",
+      "nota": "No es todavia un proyecto de ley formal consolidado, pero ya ordena la ofensiva politica del oficialismo de Kast sobre el cierre del gobierno Boric y sobre acuerdos utiles dejados en la transicion. Desde el 19 de marzo la ofensiva ya incluye auditorias concretas."
+    },
+    {
+      "nombre": "defensa_opositora_de_la_continuidad_util",
+      "estado": "mesa_politica_e_informe_en_marcha",
+      "riesgo_politico": "medio_alto",
+      "nota": "No es proyecto legislativo, pero condiciona la lectura parlamentaria opositora sobre acuerdos utiles, supuestos amarres y revision politica del legado inmediato. La Mesa de Defensa de la Continuidad Util y el informe 'Defensa del Interes Nacional' le dieron mas densidad al frente."
+    },
+    {
+      "nombre": "revision_bioceanica_con_argentina",
+      "estado": "confirmada_por_el_ejecutivo",
+      "riesgo_politico": "alto",
+      "nota": "La confirmacion del 25 de marzo convierte al corredor bioceanico en un frente parlamentario prioritario para medir si el gobierno busca ordenamiento o retroceso por revancha."
+    }
+  ],
+  "interpelaciones_activas": [],
+  "frentes_transicion": {
+    "amarres": {
+      "estado": "instalado_como_frame_oficialista",
+      "costo_politico": "alto"
+    },
+    "revision_acuerdos": {
+      "estado": "materializada_en_auditorias_y_revision_bioceanica",
+      "costo_politico": "alto"
+    },
+    "continuidad_util": {
+      "estado": "organizada_en_mesa_politica_audiencias_e_informe",
+      "costo_politico": "medio_alto"
+    }
+  },
+  "comisiones": {
+    "nota": "Se detallarán según necesidad del juego y composición efectiva de cada comisión."
+  },
+  "ultima_actualizacion": "2026-03-27"
+}

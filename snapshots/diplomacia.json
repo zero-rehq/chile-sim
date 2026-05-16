@@ -1,41 +1,41 @@
 {
-  "fecha": "2026-02-01",
+  "fecha": "2026-03-27",
   "preset": "Real World 2026",
   "relaciones_bilaterales": {
     "estados_unidos": {
       "nivel": "ESTABLE",
       "marcador": "FIRME",
       "fta": true,
-      "nota": "FTA vigente desde 2004. Relaciones comerciales fuertes. Tensión por enfoque Trump en América Latina post-Maduro.",
-      "confianza": 7
+      "nota": "FTA vigente desde 2004. Relaciones comerciales fuertes. Washington condeno el incidente de Scarborough y reafirmo apoyo a Manila, lo que endurece aun mas el tablero transpacifico que afecta a Chile por via logistica.",
+      "confianza": 6
     },
     "china": {
       "nivel": "COMERCIAL_FUERTE",
       "marcador": "FIRME",
       "fta": true,
-      "nota": "Principal destino de exportaciones (cobre, litio, celulosa). FTA desde 2006. Dependencia comercial significativa. China es primer socio comercial.",
-      "confianza": 5
+      "nota": "Principal destino de exportaciones (cobre, litio, celulosa). FTA desde 2006. Dependencia comercial significativa. El incidente de Scarborough confirma que el riesgo sistemico para Chile sigue alto y mas visible en el Mar de China Meridional.",
+      "confianza": 4
     },
     "union_europea": {
       "nivel": "COMERCIAL_ESTABLE",
       "marcador": "FIRME",
       "fta": true,
-      "nota": "Acuerdo comercial vigente. Exportaciones de vino, frutas, celulosa. Relaciones políticas cordiales.",
+      "nota": "Acuerdo comercial vigente. Exportaciones de vino, frutas, celulosa. La propuesta europea de compras conjuntas de defensa refuerza la señal de un mundo mas orientado a resiliencia industrial.",
       "confianza": 6
     },
     "japon": {
-      "nivel": "COMERCIAL",
-      "marcador": "FIRME",
+      "nivel": "COMERCIAL_ESTRATEGICO_INICIAL",
+      "marcador": "EN NEGOCIACIÓN",
       "fta": true,
-      "nota": "Japón importa cobre y litio chileno. CPTPP vincula a ambos. Sin profundización estratégica.",
-      "confianza": 5
+      "nota": "Japon importa cobre y litio chilenos. CPTPP vincula a ambos. La mision transpacifica opositora y las inversiones regionales de consorcios japoneses y coreanos refuerzan el valor del canal, aunque el vinculo siga bajo riesgo de revision politica domestica.",
+      "confianza": 8
     },
     "corea_sur": {
-      "nivel": "COMERCIAL",
-      "marcador": "FIRME",
+      "nivel": "COOPERACION_INDUSTRIAL_INICIAL",
+      "marcador": "EN NEGOCIACIÓN",
       "fta": true,
-      "nota": "FTA vigente. Importaciones coreanas de cobre y litio. Sin cooperación industrial.",
-      "confianza": 5
+      "nota": "FTA vigente. Importaciones coreanas de cobre y litio. La mision transpacifica opositora y el anuncio de inversiones conjuntas en I+D regional vuelven mas defendible el canal coreano como aprendizaje industrial y resiliencia, aunque no haya compromiso estatal nuevo de Chile.",
+      "confianza": 8
     },
     "india": {
       "nivel": "EMERGENTE",
@@ -52,11 +52,11 @@
       "confianza": 5
     },
     "argentina": {
-      "nivel": "VECINAL_ESTABLE",
-      "marcador": "FIRME",
+      "nivel": "VECINAL_ESTRATEGICO_INICIAL",
+      "marcador": "EN NEGOCIACIÓN",
       "fta": false,
-      "nota": "Integración comercial básica. Pasos fronterizos operativos. MERCOSUR asociado. Sin corredor bioceánico formal.",
-      "confianza": 6
+      "nota": "Integracion comercial basica. La hoja de ruta bioceanica 30/60/90 y el aprendizaje portuario sudamericano siguen vivos, pero el gobierno de Kast confirmo revision de acuerdos con Argentina y abrio una disputa politica explicita sobre la continuidad del frente.",
+      "confianza": 7
     },
     "brasil": {
       "nivel": "REGIONAL",
@@ -83,9 +83,12 @@
   "misiones_diplomaticas": {
     "embajadas": 60,
     "misiones_tecnicas_permanentes": 0,
-    "nota": "Chile tiene red diplomática amplia pero sin misiones técnicas especializadas en el exterior."
+    "mesas_tecnicas_activas": 2,
+    "documentacion_estrategica_activa": 3,
+    "misiones_opositoras_aprendizaje": 1,
+    "nota": "Chile tiene red diplomatica amplia pero sin misiones tecnicas permanentes especializadas en el exterior. Las mesas con Japon y Corea del Sur y la trazabilidad con Argentina sobreviven al cambio de mando, aunque ahora quedan sujetas a revision del nuevo Ejecutivo. La oposicion ya activo una mision transpacifica de aprendizaje sin invadir funciones estatales."
   },
-  "corredor_bioceanico": "NO EXISTE — solo conversaciones bilaterales informales con Argentina",
+  "corredor_bioceanico": "EN REVISION ABIERTA — hoja de ruta 30/60/90, documentacion y respaldo tecnico-territorial con Argentina, pero el gobierno de Kast ya confirmo revision politica del frente",
   "uba": "NO EXISTE — concepto aspiracional en doctrina/",
-  "nota": "Chile tiene excelente red de FTAs y relaciones comerciales, pero CERO profundización estratégica. No tiene alianzas de defensa, cooperación industrial, o misiones técnicas permanentes."
+  "nota": "Al 27 de marzo Chile conserva una red fuerte de FTAs y una herencia parcial de profundizacion estrategica con Japon, Corea del Sur y Argentina, pero ahora bajo una fase opositora mas activa y un Ejecutivo mas revisor. La oposicion ya usa mision de aprendizaje, canales parlamentarios y legitimacion tecnica para defender continuidad util. Siguen sin existir alianzas de defensa, transferencia tecnologica cerrada ni compromisos estatales nuevos asumidos por el bloque opositor."
 }

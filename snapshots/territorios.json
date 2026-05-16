@@ -1,0 +1,37 @@
+{
+  "fecha": "2026-03-27",
+  "preset": "Real World 2026",
+  "municipios_aliados": [],
+  "regiones_con_gobernadores_opositores": [],
+  "laboratorios_politica_local": [
+    {
+      "fecha": "2026-03-14",
+      "estado": "ACTIVOS_EN_RED_INICIAL",
+      "nota": "La Red de Laboratorios Territoriales impulsa la agenda del Proyecto Chile a nivel local. Sigue sin existir detalle nominal suficiente para poblar cada municipio o gobernacion por separado."
+    }
+  ],
+  "territorios_bajo_amenaza": [
+    {
+      "fecha": "2026-03-20",
+      "estado": "RIESGO_DE_COORDINACION_CENTRALIZADA",
+      "nota": "La circular de Interior para coordinar actividades territoriales con el gobierno central abre riesgo de disciplinamiento sobre redes locales y opositoras."
+    }
+  ],
+  "apoyos_tecnicos_territoriales": [
+    {
+      "fecha": "2026-03-10",
+      "estado": "ACTIVO_PERO_NO_CANONIZADO",
+      "nota": "El simulador confirmo respaldo de actores tecnicos y territoriales a la agenda estrategica chilena ante la transicion, especialmente sobre diversificacion productiva y continuidad bioceanica. Aun no existe mapeo nominal suficiente para poblar municipios o regiones una por una."
+    },
+    {
+      "fecha": "2026-03-21",
+      "estado": "DEFENSA_REGIONAL_Y_LOGISTICA_VISIBLE",
+      "nota": "Sectores regionales y logisticos advirtieron contra frenar la agenda bioceanica, ampliando la base territorial de continuidad util mas alla de la oposicion parlamentaria."
+    }
+  ],
+  "proximas_elecciones_municipales": "2028",
+  "proximas_elecciones_regionales": "2028",
+  "regla_operativa": "La oposición trabaja territorio real: gestión local, red municipal, aprendizaje y preparación electoral. No reemplaza al Ejecutivo nacional.",
+  "nota": "Al 27 de marzo la fase opositora ya muestra una Red de Laboratorios Territoriales y una defensa regional mas visible del bioceanico, pero el vault todavia no tiene un mapa canonizado de alcaldias y gobernaciones aliadas una por una. Lo correcto sigue siendo registrar capacidad territorial real sin inventar nombres ni estructuras que el simulador no confirmo.",
+  "ultima_actualizacion": "2026-03-27"
+}

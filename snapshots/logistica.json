@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-02-01",
+  "fecha": "2026-03-27",
   "preset": "Real World 2026",
   "puertos": {
     "valparaiso": {
@@ -31,14 +31,14 @@
     }
   },
   "corredor_bioceanico": {
-    "estado": "NO EXISTE",
+      "estado": "EN REVISION ABIERTA — hoja de ruta 30/60/90 con Argentina, documentacion y respaldo tecnico-territorial heredados del cierre Boric, ahora bajo revision explicitada por Kast",
     "pasos_fronterizos": {
-      "agua_negra": "operativo pero lento — infraestructura básica",
+      "agua_negra": "operativo pero lento — infraestructura basica, hoja 30/60/90 y continuidad ahora bajo revision politica explicita",
       "libertadores": "principal — Santiago-Mendoza, congestionado",
       "puyehue": "operativo — sur",
-      "nota": "Pasos operativos pero sin infraestructura logística inteligente"
+      "nota": "Pasos operativos pero sin infraestructura logistica inteligente ni salto material todavia; el principal cambio del corte sigue siendo politico, aunque ya con defensa regional y logistica visible frente a la revision del Ejecutivo"
     },
-    "trazabilidad": "NO EXISTE — sin sistema de seguimiento integrado",
+    "trazabilidad": "NO EXISTE — sin sistema de seguimiento integrado, aunque el corredor ya tiene hoja politica de trabajo, documentacion y apoyo tecnico-territorial",
     "ventanilla_unica": "NO EXISTE — trámites aduaneros fragmentados",
     "ferrocarril_transandino": "NO EXISTE — líneas antiguas abandonadas"
   },
@@ -58,10 +58,22 @@
     "certificacion_digital": "NO EXISTE",
     "blockchain": "NO EXISTE"
   },
+  "riesgo_transpacifico": {
+    "estado": "ALTO_EN_AUMENTO",
+      "factores": [
+        "tension_taiwan_china",
+        "maniobras_eeuu_filipinas",
+        "ejercicios_navales_chinos_a_gran_escala",
+        "incidente_scarborough",
+        "apoyo_eeuu_a_manila",
+        "seguros_y_fletes_mas_volatiles"
+      ],
+      "nota": "La presion sobre las rutas ya no se limita al Estrecho de Taiwan; se expande al Mar de China Meridional con episodios concretos como Scarborough y afecta aun mas la previsibilidad logistica chilena."
+  },
   "cables_submarinos": {
     "conectividad": "LIMITADA — Chile depende de cables que pasan por otros países",
     "soberania_digital": "BAJA — sin cables propios",
     "nota": "Vulnerabilidad significativa para conectividad internacional"
   },
-  "nota": "Chile tiene puertos funcionales pero sin automatización, sin corredor bioceánico, sin trazabilidad inteligente y sin interoperabilidad aduanera. La logística es el talón de Aquiles de la economía chilena."
+  "nota": "Chile tiene puertos funcionales pero sin automatizacion significativa, sin trazabilidad inteligente y sin interoperabilidad aduanera. El corredor bioceanico llega al 27 de marzo con defensa regional, logistica y parlamentaria mas visible, pero sigue sin existir como capacidad material y ahora queda bajo revision oficial del nuevo gobierno. La tension transpacifica refuerza que la logistica sigue siendo uno de los principales talones de Aquiles del pais."
 }

@@ -1,11 +1,20 @@
 {
-  "fecha_actual": "2026-02-01",
-  "turno_actual": 1,
+  "fecha_actual": "2026-03-27",
+  "fecha_transicion": "2026-03-11",
+  "turno_actual": 5,
   "preset": "Real World 2026",
-  "presidente": "Gabriel Boric",
-  "frentes_activos_count": 0,
+  "fase_juego": "modo_oposicion_estrategica",
+  "presidente": "José Antonio Kast",
+  "presidente_entrante": null,
+  "bloque_parlamentario": "Unidad por Chile",
+  "aprobacion_bloque": 45,
+  "cohesion_interna": 68,
+  "capilaridad_territorial": 46,
+  "avance_programatico_2029": 31,
+  "riesgo_retroceso": "ALTO",
+  "frentes_activos_count": 10,
   "riesgo_externo": "ALTO",
   "acciones_pendientes": 0,
-  "ultima_actualizacion": "2026-02-01",
-  "nota": "Reset a Real World 2026. Chile arranca con condiciones reales de febrero 2026."
+  "ultima_actualizacion": "2026-03-27",
+  "nota": "Al 27 de marzo la oposicion estrategica ya entro en una fase visible: constituyo la Mesa de Defensa de la Continuidad Util, abrio audiencias ciudadanas, activo una Red de Laboratorios Territoriales, impulso una mision transpacifica con Japon y Corea y presento el informe parlamentario 'Defensa del Interes Nacional'. Al mismo tiempo, el gobierno de Kast paso de la retorica anti-amarres a acciones concretas: inicio auditorias sobre nombramientos y contratos del periodo Boric, emitio senales recentralizadoras sobre actividades territoriales y confirmo revision de acuerdos bioceanicos con Argentina. La comunidad empresarial, academica, regional y logistica comenzo a defender continuidad util, pero el riesgo de retroceso sigue alto y no corresponde vender una victoria opositora plena."
 }

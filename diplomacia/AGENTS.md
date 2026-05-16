@@ -1,22 +1,20 @@
 # AGENTS.md — Directorio diplomacia/
 
-## Archivos en este directorio
+## Archivos clave
 
-- `acuerdos-y-canales.md` — estado de relaciones por socio con marcadores de confianza
-- `india.md`, `argentina-brasil-peru.md`, `japon-corea.md`, `alemania.md` — dossiers por socio
+- `acuerdos-y-canales.md` — relaciones estatales con marcadores.
+- Dossiers por socio: India, Argentina-Brasil-Perú, Japón-Corea, Alemania.
+- `oposicion-diplomatica.md` — sombra internacional, misiones y preacuerdos condicionales 2029.
 
-## Marcadores de confianza (leer leyenda en acuerdos-y-canales.md)
+## Reglas
 
-- `[FIRME]` — operativo, con resultados medibles
-- `[EN NEGOCIACIÓN]` — piloto o propuesta en curso, sin cierre formal
-- `[ESPECULATIVA]` — horizonte estratégico, sin compromiso
+- Usar siempre `[FIRME]`, `[EN NEGOCIACIÓN]` o `[ESPECULATIVA]`.
+- No abrir chats sin necesidad nueva concreta.
+- Leer el dossier del socio antes de escribir.
+- En oposición no se firman tratados ni se habla como Cancillería.
+- Sí valen vínculos con partidos, universidades, rectores, puertos, laboratorios, institutos y organismos multilaterales.
+- Toda misión de aprendizaje debe tener objetivo, equipo y output claros.
 
-## Regla diplomática central
+## Cuándo actualizar
 
-No enviar chats si no hay una necesidad nueva concreta.
-Consultar dossier del socio antes de escribir cualquier acción diplomática.
-
-## Cuándo actualizar este directorio
-
-Después de cada turno con actividad diplomática: actualizar `acuerdos-y-canales.md`
-y el dossier del socio afectado. Nunca dejar acuerdos sin marcador de confianza.
+Después de cada turno con actividad diplomática: actualizar `acuerdos-y-canales.md`, el dossier afectado y, si corresponde, `oposicion-diplomatica.md`.

@@ -1,23 +1,17 @@
 # AGENTS.md — Directorio estado/
 
-## Archivos en este directorio
+## Leer en este orden
 
-- `game-state.json` — punto de entrada rápido: fecha, turno, acciones pendientes, riesgo
-- `estado-actual-YYYY-MM-DD.md` — snapshot narrativo completo (buscar el MÁS RECIENTE)
-- `activos-estrategicos.md` — nodos, unidades y doctrina operativa
-- `nodos-dios.md` — 7 pilares críticos con dependencias y riesgo de falla
+1. `game-state.json` — fecha, fase y señales rápidas.
+2. `estado-actual-YYYY-MM-DD.md` más reciente.
+3. Si `fase_juego` = `modo_oposicion_estrategica`: `parlamento.md`, `oposicion-estrategia.md`, `territorios-aliados.md`, `bloques-coaliciones.md`.
+4. `activos-estrategicos.md` y `nodos-dios.md`.
 
-## Cómo leer game-state.json
+## Regla de snapshots
 
-Leerlo primero para orientación rápida: fecha actual, acciones pendientes y riesgo externo.
-Luego leer `estado-actual-*.md` para contexto narrativo completo.
+Ver `snapshots/` para energía, industria, diplomacia, fiscal, logística, parlamento, territorios y sociedad.
 
-## Snapshots sectoriales
-
-Ver `snapshots/` para estado cuantitativo por sector (energía, industria, diplomacia, fiscal, logística).
-Actualizar después de cada turno con datos reales del vault.
-
-## Cuándo actualizar este directorio
+## Cuándo actualizar
 
 Después de cada turno: crear nuevo `estado-actual-YYYY-MM-DD.md` y actualizar `game-state.json`.
-Nunca reutilizar archivos de turnos anteriores — siempre crear con la nueva fecha.
+No reutilizar archivos viejos ni mezclar fase de gobierno con fase opositora.

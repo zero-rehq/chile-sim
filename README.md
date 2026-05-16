@@ -32,18 +32,30 @@ Toda acción propuesta al jugador se registra con un estado que refleja su ciclo
 
 Esta distinción es obligatoria. Permite rastrear qué fue propuesto versus qué fue realmente ejecutado, y es crítica para la coherencia del vault cuando el contexto se compacta o un nuevo agente retoma el juego.
 
+## Modelo institucional del juego
+
+El vault opera con **dos fases canónicas**:
+
+- **`modo_gobierno_boric`** — rige hasta el **2026-03-10** inclusive. En esta fase el jugador encarna al gobierno de Chile y actúa desde el Ejecutivo.
+- **`modo_oposicion_estrategica`** — rige desde el **2026-03-11**. Desde ahí el jugador deja de ser el Ejecutivo nacional y pasa a encarnar a la **oposición estratégica del Proyecto Chile** frente al gobierno de **José Antonio Kast**.
+
+Esto no es un detalle narrativo: cambia qué herramientas son válidas, qué archivos hay que leer y qué tipo de acciones se pueden proponer. Después del 11 de marzo no se gobiernan ministerios ni se firman tratados del Estado; se opera desde Congreso, territorios aliados, organización social, diplomacia en la sombra y preparación programática para 2029.
+
 ## ⚠️ STATELESS: Este vault es la ÚNICA memoria del juego
 
 **El agente NO tiene memoria de sesiones anteriores.** Cada vez que un agente nuevo (o el mismo tras compactación) retoma el juego, SOLO cuenta con lo que está escrito en estos archivos. Si algo no está en el vault, no existe.
 
 **Orden de lectura obligatorio para cualquier agente:**
-1. Este `README.md` (orientación general)
-2. `estado/` → el archivo **más reciente** por fecha en el nombre
-3. `pendientes/pila-estrategica.md`
-4. `contexto/` → el `handoff-maestro-*` **más reciente** por fecha en el nombre
-5. `turnos/` → el historial de acciones del año en curso
+1. Este `README.md`.
+2. `estado/game-state.json`.
+3. `estado/` → el archivo `estado-actual-*` **más reciente**.
+4. `pendientes/pila-estrategica.md`.
+5. Si la fase es `modo_oposicion_estrategica`: `estado/parlamento.md`, `estado/oposicion-estrategia.md`, `estado/territorios-aliados.md`, `estado/bloques-coaliciones.md`.
+6. `diplomacia/acuerdos-y-canales.md` y, si la fase es opositora, `diplomacia/oposicion-diplomatica.md`.
+7. `turnos/` → turno actual/siguiente y `turnos/historial-acciones-completo-2026.md`.
+8. `contexto/` → el `handoff-maestro-*` **más reciente**.
 
-Con esos 5 archivos, cualquier agente debe poder entender dónde está Chile, qué se hizo, qué falta y qué viene.
+Con esa secuencia, cualquier agente puede reconstruir la coyuntura, la fase institucional y los frentes prioritarios sin romper continuidad.
 
 ## Navegación rápida
 
@@ -71,6 +83,21 @@ Con esos 5 archivos, cualquier agente debe poder entender dónde está Chile, qu
 - `contexto/wisdom.md` — lecciones acumuladas (Convenciones, Éxitos, Riesgos, Gotchas)
 - `eventos/eventos-detallados-recientes.md`
 
+### Frente opositor (leer cuando corresponda)
+- `estado/parlamento.md` — aritmética legislativa, quórums, comisiones y alianzas.
+- `estado/oposicion-estrategia.md` — hoja maestra del bloque para 2026-2029.
+- `estado/territorios-aliados.md` — laboratorios municipales y regionales.
+- `estado/bloques-coaliciones.md` — mapa de puentes, disciplina y riesgos internos.
+- `diplomacia/oposicion-diplomatica.md` — aprendizaje internacional, preacuerdos condicionales y límites legales.
+- `pendientes/acciones-kast.md` — monitoreo del Ejecutivo rival y respuesta sugerida.
+
+### Frentes clave de la oposición estratégica
+- **Congreso** — bloquear, negociar o dejar correr proyectos según costo político real.
+- **Territorios** — usar municipios y regiones aliadas como vitrinas de gestión y red 2028.
+- **Organización social** — canalizar malestar real, reforzar participación ciudadana en la elaboración de leyes y sostener narrativa con base social.
+- **Diplomacia en la sombra** — abrir vínculos con universidades, puertos, institutos, partidos y organismos pensando en 2029.
+- **Preparación 2029** — formar cuadros, madurar programa, ordenar coalición y llegar con alternativa de gobierno seria.
+
 ### Snapshots sectoriales (actualizar cada turno)
 - `snapshots/energia.json` — matriz energética, renovables, smart grid, hidrógeno
 - `snapshots/industria.json` — manufactura, minería, tecnología soberana, patentes
@@ -85,23 +112,28 @@ Con esos 5 archivos, cualquier agente debe poder entender dónde está Chile, qu
 
 ## Estado actual del juego
 
-**Fecha:** 1 de febrero de 2026 | **Turno:** 1 (inicio)
+**Fecha:** 27 de marzo de 2026 | **Turno:** 5
 
-**Preset:** Real World 2026 — Chile arranca con condiciones reales de febrero 2026.
+**Fase actual:** `modo_oposicion_estrategica`.
 
-**Prioridad inmediata:** Primer turno — establecer posición inicial. Todas las decisiones pendientes.
+**Actor vigente:** ya no somos La Moneda. Desde el 11 de marzo el jugador opera como **oposición estratégica del Proyecto Chile** frente al gobierno de **José Antonio Kast**.
+
+**Preset:** Real World 2026 — Chile sigue operando sobre condiciones reales y entra en un nuevo ciclo: el gobierno saliente dejó cierres administrativos, respaldo técnico-territorial y trazabilidad documental parcial, pero el nuevo Ejecutivo llega con agenda de orden, revisión y posible desmontaje selectivo.
+
+**Prioridad inmediata:** convertir la primera fase opositora visible en capacidad real de contención. Ya existen mesa de continuidad útil, audiencias ciudadanas, red territorial, gira nacional, misión transpacífica e informe parlamentario. Ahora hay que usarlos para encarecer auditorías y revisión bioceánica de Kast sin inflar victorias ni hablar como Ejecutivo.
 
 **Alertas activas:**
-- 🚨 China-Taiwán: ejercicios de bloqueo activos desde dic 2025. Rutas transpacíficas amenazadas.
-- 🚨 Venezuela: Maduro capturado por EEUU (3 ene 2026). Precedente hemisférico sin precedentes.
-- ⚠️ Transición presidencial: Boric sale 11 mar 2026. Nuevo gobierno centroderecha asume.
-- ⚠️ Crisis social interna: pensiones AFP, Mapuche, desigualdad.
+- 🚨 Scarborough y Mar de China Meridional: ASEAN alerta, China endurece presencia y EEUU respalda a Manila. El arco transpacífico vuelve a agravarse y el riesgo logístico sigue alto.
+- ⚠️ Kast ya pasó al ataque material: abrió auditorías sobre nombramientos y contratos del período Boric y confirmó revisión de acuerdos bioceánicos con Argentina.
+- ⚠️ La derecha intensificó la campaña contra la "herencia ideológica" de Boric y busca mezclar continuidad útil con revancha simbólica.
+- ⚠️ Apareció una defensa técnico-social útil: comunidad empresarial, académica, regional y logística empezó a advertir contra desmontes en agenda transpacífica y bioceánica.
+- ⚠️ La oposición ya tiene fase visible propia, pero todavía no hegemoniza el relato ni controla la agenda institucional.
 
-**Todos los frentes en NO INICIADO.** Ver `pendientes/pila-estrategica.md`.
+**Frentes con movimiento:** Mesa de Defensa de la Continuidad Útil, audiencias ciudadanas, Red de Laboratorios Territoriales, misión transpacífica con Japón y Corea, defensa parlamentaria del bioceánico, monitoreo de auditorías de Kast y disputa narrativa sobre continuidad útil. Ver `pendientes/pila-estrategica.md`.
 
 ## Juicio estratégico corto
 
-Chile tiene fundamentos macroeconómicos sólidos, recursos naturales extraordinarios y una red comercial impresionante. Pero depende del cobre, no tiene industria soberana, enfrenta crisis social real y el mundo se fragmenta. La doctrina traza el camino. Falta todo por hacer.
+Chile sigue teniendo fundamentos macroeconómicos sólidos, recursos naturales extraordinarios y una red comercial impresionante. Lo que cambió en este corte es el ritmo político: la oposición ya no está solo acomodándose al cambio de mando, sino que empezó a moverse con herramientas propias en Congreso, territorio, sociedad civil y diplomacia en la sombra. Aun así, el Ejecutivo también dejó de tantear y pasó a usar auditorías, revisión bioceánica y campaña mediática para correr el eje hacia revancha ideológica. La disputa ya no es si habrá conflicto, sino si la oposición puede transformarlo en defensa creíble del interés nacional sin sobreactuar lo heredado.
 
 ## Regla de oro
 

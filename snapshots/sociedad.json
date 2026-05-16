@@ -1,0 +1,58 @@
+{
+  "fecha": "2026-03-27",
+  "preset": "Real World 2026",
+  "movimientos_sociales_activos": [
+    "audiencias_ciudadanas_para_legislacion_inclusiva",
+    "gira_orden_con_capacidad_no_con_revancha"
+  ],
+  "sindicatos_alineados": [],
+  "movimiento_estudiantil": {
+    "estado": "pendiente_de_juego",
+    "ultima_movilizacion": null
+  },
+  "opinion_publica": {
+      "aprobacion_gobierno_kast": 49,
+      "aprobacion_oposicion": 45,
+      "intencion_voto_2029": null
+  },
+  "participacion_ciudadana_legislativa": {
+    "doctrina": "La oposición defiende un Chile con ciudadanía más fuerte en la formación de leyes.",
+    "mecanismos": [
+      "audiencias_legislativas_abiertas"
+    ],
+      "nota": "La oposicion ya lanzo audiencias ciudadanas para legislacion inclusiva. El mecanismo existe y es politicamente relevante, aunque todavia esta en fase inicial y no debe inflarse como institucionalizacion plena de escala nacional."
+  },
+  "movilizacion": {
+    "regla": "Organizar, canalizar y amplificar malestar real. Nunca fabricar caos ni doctrina de desorden artificial.",
+    "campanas_activas": [
+      "orden_con_capacidad_no_con_revancha"
+    ]
+  },
+  "narrativa_publica": {
+    "temas_dominantes": [
+        "auditorias_y_revision_del_legado_boric",
+        "herencia_ideologica_vs_continuidad_util",
+        "agenda_bioceanica_bajo_revision",
+        "riesgo_transpacifico_y_resiliencia"
+      ],
+      "frames_oposicion": [
+        "defensa_del_legado_util",
+        "no_confundir_continuidad_estatal_con_amarres",
+        "orden_con_capacidad_no_con_revancha",
+        "oposicion_seria_territorial_y_programatica"
+      ],
+      "frames_gobierno": [
+        "orden_y_revision_de_medidas_recientes",
+        "amarres_ideologicos",
+        "herencia_auditable",
+        "coordinacion_territorial_desde_el_centro"
+      ]
+    },
+    "clima_transicion": {
+      "estado": "FASE_OPOSITORA_VISIBLE_Y_HERENCIA_EN_DISPUTA",
+      "riesgo": "ALTO",
+      "nota": "La discusion publica ya se ordena como disputa por la herencia del gobierno saliente, pero la oposicion ahora tiene instrumentos visibles propios. Kast sigue con ventaja de marco en medios afines y la derecha intensifico la campana sobre herencia ideologica."
+     },
+  "nota": "Las metricas sociales siguen siendo estimativas, pero el corte al 27 de marzo deja un cambio nitido: la oposicion ya tiene agenda propia visible y una participacion ciudadana inicial en marcha, mientras el nuevo gobierno pierde parte de la comodidad del arranque por sus auditorias y revisiones. No hay base para declarar una ola social opositora consolidada ni para vender como resuelto el problema territorial o de telecom como infraestructura critica.",
+  "ultima_actualizacion": "2026-03-27"
+}
